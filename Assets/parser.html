@@ -1,0 +1,6 @@
+function getRectForSelectedWord() {
+var selection = window.getSelection();
+var range = selection.getRangeAt(0);
+var rect = range.getBoundingClientRect();
+return "{{" + rect.left + "," + rect.top + "}, {" + rect.width + "," + rect.height + "}}";
+}

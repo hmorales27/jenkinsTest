@@ -1,0 +1,6 @@
+github "Alamofire/Alamofire" "4.0.1"
+github "robb/Cartography" "1.0.1"
+github "mxcl/PromiseKit" "4.0.5"
+github "drmohundro/SWXMLHash" "3.0.2"
+github "ZipArchive/ZipArchive" "v1.6.2"
+github "ccgus/fmdb" "2.6.2"

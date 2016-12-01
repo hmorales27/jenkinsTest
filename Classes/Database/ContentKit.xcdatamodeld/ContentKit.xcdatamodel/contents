@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="11232" systemVersion="15G31" minimumToolsVersion="Xcode 7.0" sourceLanguage="Objective-C" userDefinedModelVersionIdentifier="">
+    <entity name="AimAndScope" representedClassName="AimAndScope" syncable="YES">
+        <attribute name="homeTxt" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="htmlTxt" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="journal" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Journal" inverseName="aimAndScope" inverseEntity="Journal" syncable="YES"/>
+    </entity>
+    <entity name="Announcement" representedClassName="Announcement" syncable="YES">
+        <attribute name="announcementDate" optional="YES" attributeType="Date" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="announcementDeleted" optional="YES" attributeType="Boolean" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="announcementId" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="announcementText" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="announcementTitle" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="appId" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="opened" optional="YES" attributeType="Boolean" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="userDeleted" optional="YES" attributeType="Boolean" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="userRead" optional="YES" attributeType="Boolean" usesScalarValueType="NO" syncable="YES"/>
+        <relationship name="app" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Publisher" inverseName="announcements" inverseEntity="Publisher" syncable="YES"/>
+    </entity>
+    <entity name="Article" representedClassName="Article" syncable="YES">
+        <attribute name="abstract" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="aipIdentifier" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="articleId" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="articleInfoId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="articleSubType" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="articleSubType2" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="articleSubType3" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="articleSubType4" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="articleTitle" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="articleType" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="author" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="citationText" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="copyright" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="dateOfRelease" optional="YES" attributeType="Date" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="doctopicRole" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="doi" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="doiLink" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="hasAbstractImages" optional="YES" attributeType="Boolean" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="hasAudio" optional="YES" attributeType="Boolean" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="hasImage" optional="YES" attributeType="Boolean" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="hasOthers" optional="YES" attributeType="Boolean" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="hasVideo" optional="YES" attributeType="Boolean" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="isArticleInPress" optional="YES" attributeType="Boolean" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="isCME" optional="YES" attributeType="Boolean" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="issueId" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="issuePII" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="keywords" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="lancetArticleColor" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="lancetArticleColorName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="lancetArticleType" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="lancetGroupSequence" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="lastModified" optional="YES" attributeType="Date" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="pageRange" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="sequence" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="starred" optional="YES" attributeType="Boolean" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="starredDate" optional="YES" attributeType="Date" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="usageInfoEntitlements" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="usageInfoPrimary" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="v40" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="version" optional="YES" attributeType="Float" defaultValueString="0.0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="video" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="authors" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Author" inverseName="article" inverseEntity="Author" syncable="YES"/>
+        <relationship name="downloadInfo" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="DownloadInfo" inverseName="article" inverseEntity="DownloadInfo" syncable="YES"/>
+        <relationship name="ipAuthentication" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="IPAuthentication" inverseName="article" inverseEntity="IPAuthentication" syncable="YES"/>
+        <relationship name="issue" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Issue" inverseName="articles" inverseEntity="Issue" syncable="YES"/>
+        <relationship name="journal" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Journal" inverseName="articles" inverseEntity="Journal" syncable="YES"/>
+        <relationship name="medias" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Media" inverseName="article" inverseEntity="Media" syncable="YES"/>
+        <relationship name="notes" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Note" inverseName="article" inverseEntity="Note" syncable="YES"/>
+        <relationship name="openAccess" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="OA" inverseName="article" inverseEntity="OA" syncable="YES"/>
+        <relationship name="references" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Reference" inverseName="article" inverseEntity="Reference" syncable="YES"/>
+        <relationship name="section" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Section" inverseName="article" inverseEntity="Section" syncable="YES"/>
+    </entity>
+    <entity name="Authentication" representedClassName="Authentication" syncable="YES">
+        <attribute name="emailId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="firstName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="idp" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="lastName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="loginId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="password" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="rememberMe" optional="YES" attributeType="Boolean" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="sessionId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="societyType" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="userId" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="journal" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Journal" inverseName="authentication" inverseEntity="Journal" syncable="YES"/>
+        <relationship name="partner" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Partner" inverseName="authentication" inverseEntity="Partner" syncable="YES"/>
+    </entity>
+    <entity name="Author" representedClassName="Author" syncable="YES">
+        <attribute name="desc" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="identifier" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="lastModified" optional="YES" attributeType="Date" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="article" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Article" inverseName="authors" inverseEntity="Article" syncable="YES"/>
+    </entity>
+    <entity name="DownloadInfo" representedClassName="DownloadInfo" syncable="YES">
+        <attribute name="abstractFileName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="abstractFileSize" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="abstractFileSizeUnzipped" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="abstractHTMLDownload" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="abstractImagesDownload" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="abstractSupplDownload" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="abstractSupplFileSize" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="abstractSupplFileSizeUnzipped" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="fullTextFileName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="fullTextFileSize" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="fullTextFileSizeUnzipped" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="fullTextHTMLDownload" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="fullTextImagesDownload" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="fullTextSupplDownload" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="fullTextSupplFileSize" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="fullTextSupplFileSizeUnzipped" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="pdfDownload" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="pdfFileName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="pdfFileSize" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="pdfFileSizeUnzipped" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <relationship name="article" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Article" inverseName="downloadInfo" inverseEntity="Article" syncable="YES"/>
+    </entity>
+    <entity name="Editor" representedClassName=".Editor" syncable="YES">
+        <attribute name="htmlText" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="journal" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Journal" inverseName="editor" inverseEntity="Journal" syncable="YES"/>
+    </entity>
+    <entity name="IPAuthentication" representedClassName="IPAuthentication" syncable="YES">
+        <attribute name="authToken" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="bannerText" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="ipAddress" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="organizationName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="primaryUsageInfo" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="session" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="titleId" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="article" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Article" inverseName="ipAuthentication" inverseEntity="Article" syncable="YES"/>
+    </entity>
+    <entity name="Issue" representedClassName="Issue" syncable="YES">
+        <attribute name="allArticlesDownloaded" optional="YES" attributeType="Boolean" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="coverImage" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="coverImageDownload" optional="YES" attributeType="Integer 16" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="dateOfRelease" optional="YES" attributeType="Date" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="editors" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="isFreeIssue" optional="YES" attributeType="Boolean" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="issueId" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="issueLabelDisplay" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="issueName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="issueNumber" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="issuePii" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="issueTitle" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="issueTypeDisplay" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="lastModified" optional="YES" attributeType="Date" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="pageRange" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="price" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="productId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="purchased" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="releaseDateAbbrDisplay" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="releaseDateDisplay" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="sequence" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="specialEditors" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="specialIssue" optional="YES" attributeType="Boolean" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="volume" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="articles" optional="YES" toMany="YES" deletionRule="Cascade" destinationEntity="Article" inverseName="issue" inverseEntity="Article" syncable="YES"/>
+        <relationship name="journal" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Journal" inverseName="issues" inverseEntity="Journal" syncable="YES"/>
+        <relationship name="openAccess" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="OA" inverseName="issue" inverseEntity="OA" syncable="YES"/>
+    </entity>
+    <entity name="Journal" representedClassName="Journal" syncable="YES">
+        <attribute name="abstractSummary" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="accessType" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="adBannerPortraitIPad" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="adBannerPortraitIPhone" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="adFullPageLandscapeIPad" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="adFullPagePortraitIPad" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="adFullPagePortraitIPhone4" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="adFullPagePortraitIPhone5" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="adSkyscraperPortraitIPad" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="aimScopeHTML" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="aipAvailable" optional="YES" attributeType="Boolean" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="aipDescription" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="aipTitle" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="baseContentURL" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="baseContentURL45" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="colorCode" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="coverImagePath" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="editorialHTML" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="facebookId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="isAimScopeAvailable" optional="YES" attributeType="Boolean" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="isCoverPageAvailable" optional="YES" attributeType="Boolean" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="isEditorialAvailable" optional="YES" attributeType="Boolean" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="issn" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="journalDescription" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="journalFacebookURL" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="journalId" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="journalShortCode" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="journalTitle" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="journalTitleIPhone" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="journalTwitterURL" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="journalType" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="lastModified" optional="YES" attributeType="Date" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="lastUpdated" optional="YES" attributeType="Date" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="sequence" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="societyLoginType" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="subscriptionId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="subscriptionPrice" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="themeId" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <relationship name="aimAndScope" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="AimAndScope" inverseName="journal" inverseEntity="AimAndScope" syncable="YES"/>
+        <relationship name="articles" optional="YES" toMany="YES" deletionRule="Cascade" destinationEntity="Article" inverseName="journal" inverseEntity="Article" syncable="YES"/>
+        <relationship name="authentication" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Authentication" inverseName="journal" inverseEntity="Authentication" syncable="YES"/>
+        <relationship name="editor" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Editor" inverseName="journal" inverseEntity="Editor" syncable="YES"/>
+        <relationship name="issues" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Issue" inverseName="journal" inverseEntity="Issue" syncable="YES"/>
+        <relationship name="journalLinks" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="JournalLink" inverseName="journal" inverseEntity="JournalLink" syncable="YES"/>
+        <relationship name="links" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Link" inverseName="journal" inverseEntity="Link" syncable="YES"/>
+        <relationship name="openAccess" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="OA" inverseName="journal" inverseEntity="OA" syncable="YES"/>
+        <relationship name="partners" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Partner" inverseName="journal" inverseEntity="Partner" syncable="YES"/>
+        <relationship name="publisher" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Publisher" inverseName="journals" inverseEntity="Publisher" syncable="YES"/>
+    </entity>
+    <entity name="JournalLink" representedClassName="JournalLink" syncable="YES">
+        <attribute name="journalTitle" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="journalURL" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="journal" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Journal" inverseName="journalLinks" inverseEntity="Journal" syncable="YES"/>
+    </entity>
+    <entity name="Link" representedClassName="Link" syncable="YES">
+        <attribute name="title" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="url" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="app" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Publisher" inverseName="links" inverseEntity="Publisher" syncable="YES"/>
+        <relationship name="journal" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Journal" inverseName="links" inverseEntity="Journal" syncable="YES"/>
+    </entity>
+    <entity name="LoginAuthentication" syncable="YES"/>
+    <entity name="Media" representedClassName="Media" syncable="YES">
+        <attribute name="caption" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="download" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="fileName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="fileSize" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="isFullTextAsset" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="mediaFileDuration" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="sequence" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="shareable" optional="YES" attributeType="Boolean" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="text" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="thumbImageName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="type" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="article" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Article" inverseName="medias" inverseEntity="Article" syncable="YES"/>
+    </entity>
+    <entity name="Note" representedClassName="Note" syncable="YES">
+        <attribute name="highlightId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="noteText" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="savedDate" optional="YES" attributeType="Date" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="selectedText" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="article" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Article" inverseName="notes" inverseEntity="Article" syncable="YES"/>
+    </entity>
+    <entity name="OA" representedClassName="OA" syncable="YES">
+        <attribute name="articleInfoId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="issuePii" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="oaDisplayLicense" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="oaDisplaySponsorName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="oaIdentifier" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="oaInfoHTML" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="oaModifiedDate" optional="YES" attributeType="Date" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="oaSinceDate" optional="YES" attributeType="Date" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="oaStatusArchive" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="oaStatusDisplay" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="article" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Article" inverseName="openAccess" inverseEntity="Article" syncable="YES"/>
+        <relationship name="issue" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Issue" inverseName="openAccess" inverseEntity="Issue" syncable="YES"/>
+        <relationship name="journal" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Journal" inverseName="openAccess" inverseEntity="Journal" syncable="YES"/>
+    </entity>
+    <entity name="Partner" representedClassName="Partner" syncable="YES">
+        <attribute name="forgotPasswordService" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="forgotPasswordURL" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="helpText" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="partnerId" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="partnerName" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="authentication" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Authentication" inverseName="partner" inverseEntity="Authentication" syncable="YES"/>
+        <relationship name="journal" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Journal" inverseName="partners" inverseEntity="Journal" syncable="YES"/>
+    </entity>
+    <entity name="Publisher" representedClassName="Publisher" syncable="YES">
+        <attribute name="adBannerPortraitIPad" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="adBannerPortraitIPhone" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="adBannerPortraitSplashIPad" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="adBannerPortraitSplashIPhone" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="adFullPageLandscapeIPad" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="adFullPagePortraitIPad" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="adFullPagePortraitIPhone4" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="adFullPagePortraitIPhone5" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="adInterval" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="adMobDownloadKeyIPad" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="adMobDownloadKeyIPhone" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="adMobFullPageLandscapeKeyIPad" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="adMobFullPageLandscapeKeyIPhone" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="adMobFullPagePortraitKeyIPad" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="adMobFullPagePortraitKeyIPhone" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="adMobHomeKeyIPad" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="adMobHomeKeyIPhone" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="adMobNavKeyIPad" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="adMobNavKeyIPhone" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="adMobSkyScrapperIPad" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="adMobSkyScrapperIPhone" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="adMobTOCKeyIPad" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="adMobTOCKeyIPhone" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="appId" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="appShortCode" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="appTitle" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="appTitleIPhone" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="appVersion" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="dartId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="desc" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="faq" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="flurryId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="googleAnalyticsCode" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="isSocietyInfoAvailable" optional="YES" attributeType="Boolean" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="lastModified" optional="YES" attributeType="Date" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="layoutRow" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="layoutSection" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="s3BaseURL" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="societyFacebookURL" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="societyTwitterURL" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="support" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="terms" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="updateLinkDescription" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="updateLinkTitle" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="updateLinkURL" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="updateVersion" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="announcements" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Announcement" inverseName="app" inverseEntity="Announcement" syncable="YES"/>
+        <relationship name="journals" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Journal" inverseName="publisher" inverseEntity="Journal" syncable="YES"/>
+        <relationship name="links" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Link" inverseName="app" inverseEntity="Link" syncable="YES"/>
+        <relationship name="societyLinks" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="SocietyLink" inverseName="app" inverseEntity="SocietyLink" syncable="YES"/>
+    </entity>
+    <entity name="Reference" representedClassName="Reference" syncable="YES">
+        <attribute name="isThisSubSection" optional="YES" attributeType="Boolean" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="lastModified" optional="YES" attributeType="Date" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="referenceId" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="sectionId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="sectionTitle" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="article" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Article" inverseName="references" inverseEntity="Article" syncable="YES"/>
+    </entity>
+    <entity name="Section" representedClassName="Section" syncable="YES">
+        <attribute name="isThisSubSection" optional="YES" attributeType="Boolean" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="lastModified" optional="YES" attributeType="Date" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="referenceId" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="sectionId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="sectionTitle" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="article" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Article" inverseName="section" inverseEntity="Article" syncable="YES"/>
+    </entity>
+    <entity name="SocietyLink" representedClassName="SocietyLink" syncable="YES">
+        <attribute name="title" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="url" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="app" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Publisher" inverseName="societyLinks" inverseEntity="Publisher" syncable="YES"/>
+    </entity>
+    <entity name="TopArticle" representedClassName="TopArticle" syncable="YES">
+        <attribute name="sequence" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <relationship name="article" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Article" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="AimAndScope" positionX="-423" positionY="144" width="128" height="90"/>
+        <element name="Announcement" positionX="-450" positionY="108" width="128" height="195"/>
+        <element name="Article" positionX="-659" positionY="-45" width="128" height="795"/>
+        <element name="Authentication" positionX="-18" positionY="135" width="128" height="225"/>
+        <element name="Author" positionX="-54" positionY="135" width="128" height="120"/>
+        <element name="DownloadInfo" positionX="-450" positionY="108" width="128" height="360"/>
+        <element name="Editor" positionX="-432" positionY="126" width="128" height="75"/>
+        <element name="IPAuthentication" positionX="-450" positionY="108" width="128" height="165"/>
+        <element name="Issue" positionX="-54" positionY="-9" width="128" height="450"/>
+        <element name="Journal" positionX="-63" positionY="-18" width="128" height="765"/>
+        <element name="JournalLink" positionX="-414" positionY="153" width="128" height="90"/>
+        <element name="Link" positionX="27" positionY="189" width="128" height="105"/>
+        <element name="LoginAuthentication" positionX="-441" positionY="117" width="128" height="45"/>
+        <element name="Media" positionX="-45" positionY="144" width="128" height="225"/>
+        <element name="Note" positionX="-18" positionY="135" width="128" height="120"/>
+        <element name="OA" positionX="-18" positionY="135" width="128" height="240"/>
+        <element name="Partner" positionX="-405" positionY="153" width="128" height="150"/>
+        <element name="Publisher" positionX="-18" positionY="171" width="128" height="795"/>
+        <element name="Reference" positionX="-36" positionY="153" width="128" height="135"/>
+        <element name="Section" positionX="-450" positionY="108" width="128" height="135"/>
+        <element name="SocietyLink" positionX="0" positionY="180" width="128" height="90"/>
+        <element name="TopArticle" positionX="-450" positionY="108" width="128" height="75"/>
+    </elements>
+</model>

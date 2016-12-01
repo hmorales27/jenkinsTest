@@ -1,0 +1,2682 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+{\fonttbl\f0\fnil\fcharset0 Menlo-Bold;}
+{\colortbl;\red255\green255\blue255;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\deftab543
+\pard\tx543\pardeftab543\pardirnatural\partightenfactor0
+
+\f0\b\fs22 \cf0 \CocoaLigature0 ["date": 2016-08-22 15:43:32, "STATUS": 1, "ARTICLES": <__NSArrayI 0x6100000b1a00>(\
+\{\
+    "AIP_Identifier" = "<null>";\
+    "ARTICLE_MEDIAS" =     (\
+                \{\
+            Sequence = 1;\
+            deleted = 0;\
+            "is_fulltext_asset" = 1;\
+            "media_caption" = "<figcaption class=\\"caption\\">   </figcaption>";\
+            "media_file_duration" = "<null>";\
+            "media_file_name" = "gr1.jpg";\
+            "media_file_size" = 0;\
+            "media_text" = "";\
+            "media_thumb_image_name" = "gr1.jpg";\
+            "media_type" = Image;\
+            shareable = 1;\
+        \},\
+                \{\
+            Sequence = 2;\
+            deleted = 0;\
+            "is_fulltext_asset" = 1;\
+            "media_caption" = "<figcaption class=\\"caption\\">   </figcaption>";\
+            "media_file_duration" = "<null>";\
+            "media_file_name" = "gr2.jpg";\
+            "media_file_size" = 0;\
+            "media_text" = "";\
+            "media_thumb_image_name" = "gr2.jpg";\
+            "media_type" = Image;\
+            shareable = 1;\
+        \},\
+                \{\
+            Sequence = 3;\
+            deleted = 0;\
+            "is_fulltext_asset" = 1;\
+            "media_caption" = "<figcaption class=\\"caption\\">   </figcaption>";\
+            "media_file_duration" = "<null>";\
+            "media_file_name" = "gr3.jpg";\
+            "media_file_size" = 0;\
+            "media_text" = "";\
+            "media_thumb_image_name" = "gr3.jpg";\
+            "media_type" = Image;\
+            shareable = 1;\
+        \},\
+                \{\
+            Sequence = 4;\
+            deleted = 0;\
+            "is_fulltext_asset" = 1;\
+            "media_caption" = "<figcaption class=\\"caption\\">   </figcaption>";\
+            "media_file_duration" = "<null>";\
+            "media_file_name" = "gr4.jpg";\
+            "media_file_size" = 0;\
+            "media_text" = "";\
+            "media_thumb_image_name" = "gr4.jpg";\
+            "media_type" = Image;\
+            shareable = 1;\
+        \}\
+    );\
+    AUTHORS =     (\
+    );\
+    DOI = "10.1016/j.cell.2011.02.035";\
+    "DOI_Link" = "http://dx.doi.org/10.1016/j.cell.2011.02.035";\
+    "Issue_PII" = S0092867411X00053;\
+    "OA_Display_License" = "";\
+    "OA_Display_Sponsor_Name" = "";\
+    "OA_Identifier" = 7;\
+    "OA_Info_Html" = "<div class='cu_wrapper'> <div class='cus_container'><div class='pub_main'></div><div class='op_acc_head'><p class='op_acc_head'> <p class='perm open_acc'>Open Archive</p><p class='cc_licns mar_bot_0'>DOI: <a href='http://dx.doi.org/10.1016/j.cell.2011.02.035'>http://dx.doi.org/10.1016/j.cell.2011.02.035</a></p></p></div><div class='art_info_main'><div class='article_drop_menu_main'><div class='article_drop_menu'><p class='art_tog_menu'><a id='expand_collapse' href='UserInfo'><span class='accor_btn'>+</span>Article Info</a></p><div id='show_hide' class='article_drop_menu_inner'><div class='permited_sec'><p id='content_change' class='font_13'></p><p class='perm'>User License</p><p class='cc_licns'><a href='http://www.elsevier.com/open-access/userlicense/1.0/'>Elsevier User license</a> | <a href='/show/ELS-USER'>How you Can reuse</a></p></div><p class='foot'></p> </div></div></div></div></div></div>";\
+    "OA_Modified_Date" = "2016-07-28 15:10:20";\
+    "OA_Since_Date" = "";\
+    "OA_Status_Archive" = "";\
+    "OA_Status_Display" = "Open Archive";\
+    REFERENCES =     (\
+                \{\
+            "is_this_sub_section" = 1;\
+            "last_modified" = "2016-07-28 15:13:35";\
+            "reference_id" = 545288;\
+            "section_id" = "lv_0001";\
+            "section_title" = "TLRs Signal Safety for Salmonella";\
+        \},\
+                \{\
+            "is_this_sub_section" = 1;\
+            "last_modified" = "2016-07-28 15:13:35";\
+            "reference_id" = 545289;\
+            "section_id" = "lv_0002";\
+            "section_title" = "Defining Meiotic Breakpoints";\
+        \},\
+                \{\
+            "is_this_sub_section" = 1;\
+            "last_modified" = "2016-07-28 15:13:35";\
+            "reference_id" = 545290;\
+            "section_id" = "lv_0003";\
+            "section_title" = "Parkin, PARIS, and PGC-1\\U03b1";\
+        \},\
+                \{\
+            "is_this_sub_section" = 1;\
+            "last_modified" = "2016-07-28 15:13:35";\
+            "reference_id" = 545291;\
+            "section_id" = "lv_0004";\
+            "section_title" = "New Target for Refractory Breast Cancer";\
+        \},\
+                \{\
+            "is_this_sub_section" = 1;\
+            "last_modified" = "2016-07-28 15:13:35";\
+            "reference_id" = 545292;\
+            "section_id" = "lv_0005";\
+            "section_title" = "Stalling Repair until Breaks Move to Safety";\
+        \},\
+                \{\
+            "is_this_sub_section" = 1;\
+            "last_modified" = "2016-07-28 15:13:35";\
+            "reference_id" = 545293;\
+            "section_id" = "lv_0006";\
+            "section_title" = "Elongation Runs on Stress";\
+        \},\
+                \{\
+            "is_this_sub_section" = 1;\
+            "last_modified" = "2016-07-28 15:13:35";\
+            "reference_id" = 545294;\
+            "section_id" = "lv_0007";\
+            "section_title" = "mTORC2 Activation by Ribosome Association";\
+        \},\
+                \{\
+            "is_this_sub_section" = 1;\
+            "last_modified" = "2016-07-28 15:13:35";\
+            "reference_id" = 545295;\
+            "section_id" = "lv_0008";\
+            "section_title" = "Ubiquitin Only Has Eyes for Lysine 11, Thanks to E2";\
+        \},\
+                \{\
+            "is_this_sub_section" = 1;\
+            "last_modified" = "2016-07-28 15:13:35";\
+            "reference_id" = 545296;\
+            "section_id" = "lv_0009";\
+            "section_title" = "Yap-ing about Crowd Control for Stem Cells";\
+        \},\
+                \{\
+            "is_this_sub_section" = 1;\
+            "last_modified" = "2016-07-28 15:13:35";\
+            "reference_id" = 545297;\
+            "section_id" = "lv_0010";\
+            "section_title" = "Boning Up on Male Fertility";\
+        \},\
+                \{\
+            "is_this_sub_section" = 1;\
+            "last_modified" = "2016-07-28 15:13:35";\
+            "reference_id" = 545298;\
+            "section_id" = "lv_0011";\
+            "section_title" = "Astrocytes Feed Memories";\
+        \}\
+    );\
+    Sequence = 1;\
+    Video = "<null>";\
+    abstract = "";\
+    "article_id" = 3632;\
+    "article_info_id" = S0092867411001875;\
+    "article_sub_type" = "";\
+    "article_sub_type_2" = "";\
+    "article_sub_type_3" = "";\
+    "article_sub_type_4" = "";\
+    "article_title" = "In This Issue";\
+    "article_type" = "In This Issue";\
+    authors = "";\
+    "citation_text" = "<html><link rel=\\"stylesheet\\" href=\\"style.css\\" type=\\"text/css\\"></head><body><div class=\\"citation_content\\"><div class=\\"citation_heading\\">Article Title</div><hr class=\\"line_break\\">In This Issue<div class=\\"citation_heading\\">Authors</div><hr class=\\"line_break\\"><div class=\\"citation_heading\\">Source</div><hr class=\\"line_break\\">Cell - Mar 04, 2011<br>144 | 5 | Pages 627<br>DOI: 10.1016/j.cell.2011.02.035</div></body></html>";\
+    copyright = "";\
+    "date_of_release" = "2011-03-04";\
+    "doctopic_role" = "";\
+    "filesize_abs_suppl" = 0;\
+    "filesize_abstract" = 0;\
+    "filesize_fulltext" = 641976;\
+    "filesize_pdf" = 228295;\
+    "filesize_suppl" = 0;\
+    "has_abstract_image" = 0;\
+    "has_audio" = 0;\
+    "has_image" = 1;\
+    "has_others" = 0;\
+    "has_video" = 0;\
+    "html_file_name" = "main.html";\
+    isArticleInPress = 0;\
+    isTopArticle = 1;\
+    "is_abs_supplement" = 0;\
+    "is_abstract" = 0;\
+    "is_cme" = 0;\
+    "is_supplement" = 0;\
+    "issue_id" = 142;\
+    keywords = "";\
+    "lancet_article_color" = "";\
+    "lancet_article_colorname" = "";\
+    "lancet_article_type" = "";\
+    "lancet_group_sequence" = 0;\
+    "last_modify" = "2016-07-28 11:13:26";\
+    "page_range" = 627;\
+    "pdf_file_name" = "main.pdf";\
+    v40 = 0;\
+    version = " ";\
+\},\
+\{\
+    "AIP_Identifier" = "<null>";\
+    "ARTICLE_MEDIAS" =     (\
+                \{\
+            Sequence = 1;\
+            deleted = 0;\
+            "is_fulltext_asset" = 1;\
+            "media_caption" = "<figcaption class=\\"caption\\">   <span class=\\"caption\\">Web-like neutrophil extracellular traps (NETs) catch and neutralize the dysentery-inducing rod-shaped bacteria, Shigella flexneri. Image courtesty of V.\\U00a0Brinkmann.<br/></span></figcaption>";\
+            "media_file_duration" = "<null>";\
+            "media_file_name" = "gr1.jpg";\
+            "media_file_size" = 0;\
+            "media_text" = "";\
+            "media_thumb_image_name" = "gr1.jpg";\
+            "media_type" = Image;\
+            shareable = 1;\
+        \},\
+                \{\
+            Sequence = 2;\
+            deleted = 0;\
+            "is_fulltext_asset" = 1;\
+            "media_caption" = "<figcaption class=\\"caption\\">   <span class=\\"caption\\">Aberrant SOP-like cells (white arrows) express both neurogenic genes (magenta) and high Notch activity (green) before they die. Image courtesy of A.\\U00a0Koto and M.\\U00a0Miura.<br/></span></figcaption>";\
+            "media_file_duration" = "<null>";\
+            "media_file_name" = "gr2.jpg";\
+            "media_file_size" = 0;\
+            "media_text" = "";\
+            "media_thumb_image_name" = "gr2.jpg";\
+            "media_type" = Image;\
+            shareable = 1;\
+        \},\
+                \{\
+            Sequence = 3;\
+            deleted = 0;\
+            "is_fulltext_asset" = 1;\
+            "media_caption" = "<figcaption class=\\"caption\\">   <span class=\\"caption\\">High levels of Ras-induced autophagy trigger the death of human ovarian epithelial cells. Image courtesy of S.\\U00a0Martin.<br/></span></figcaption>";\
+            "media_file_duration" = "<null>";\
+            "media_file_name" = "gr3.jpg";\
+            "media_file_size" = 0;\
+            "media_text" = "";\
+            "media_thumb_image_name" = "gr3.jpg";\
+            "media_type" = Image;\
+            shareable = 1;\
+        \},\
+                \{\
+            Sequence = 4;\
+            deleted = 0;\
+            "is_fulltext_asset" = 1;\
+            "media_caption" = "<figcaption class=\\"caption\\">   <span class=\\"caption\\">The eight subunits of the Dark apoptosome form a ring-like platform with a central hub, topped by an octagonal crown of CARDs (shown in green). Image courtesy of C. Akey.<br/></span></figcaption>";\
+            "media_file_duration" = "<null>";\
+            "media_file_name" = "gr4.jpg";\
+            "media_file_size" = 0;\
+            "media_text" = "";\
+            "media_thumb_image_name" = "gr4.jpg";\
+            "media_type" = Image;\
+            shareable = 1;\
+        \}\
+    );\
+    AUTHORS =     (\
+    );\
+    DOI = "10.1016/j.cell.2011.02.032";\
+    "DOI_Link" = "http://dx.doi.org/10.1016/j.cell.2011.02.032";\
+    "Issue_PII" = S0092867411X00053;\
+    "OA_Display_License" = "";\
+    "OA_Display_Sponsor_Name" = "";\
+    "OA_Identifier" = 7;\
+    "OA_Info_Html" = "<div class='cu_wrapper'> <div class='cus_container'><div class='pub_main'></div><div class='op_acc_head'><p class='op_acc_head'> <p class='perm open_acc'>Open Archive</p><p class='cc_licns mar_bot_0'>DOI: <a href='http://dx.doi.org/10.1016/j.cell.2011.02.032'>http://dx.doi.org/10.1016/j.cell.2011.02.032</a></p></p></div><div class='art_info_main'><div class='article_drop_menu_main'><div class='article_drop_menu'><p class='art_tog_menu'><a id='expand_collapse' href='UserInfo'><span class='accor_btn'>+</span>Article Info</a></p><div id='show_hide' class='article_drop_menu_inner'><div class='permited_sec'><p id='content_change' class='font_13'></p><p class='perm'>User License</p><p class='cc_licns'><a href='http://www.elsevier.com/open-access/userlicense/1.0/'>Elsevier User license</a> | <a href='/show/ELS-USER'>How you Can reuse</a></p></div><p class='foot'></p> </div></div></div></div></div></div>";\
+    "OA_Modified_Date" = "2016-07-28 15:10:22";\
+    "OA_Since_Date" = "";\
+    "OA_Status_Archive" = "";\
+    "OA_Status_Display" = "Open Archive";\
+    REFERENCES =     (\
+                \{\
+            "is_this_sub_section" = 1;\
+            "last_modified" = "2016-07-28 15:13:35";\
+            "reference_id" = 545299;\
+            "section_id" = "lv_0001";\
+            "section_title" = "Neutrophils Make the Ultimate Sacrifice";\
+        \},\
+                \{\
+            "is_this_sub_section" = 1;\
+            "last_modified" = "2016-07-28 15:13:35";\
+            "reference_id" = 545300;\
+            "section_id" = "lv_0002";\
+            "section_title" = "Death Silences Developmental Noise";\
+        \},\
+                \{\
+            "is_this_sub_section" = 1;\
+            "last_modified" = "2016-07-28 15:13:35";\
+            "reference_id" = 545301;\
+            "section_id" = "lv_0003";\
+            "section_title" = "One Way or Another, Ras Is Gonna Getcha";\
+        \},\
+                \{\
+            "is_this_sub_section" = 1;\
+            "last_modified" = "2016-07-28 15:13:35";\
+            "reference_id" = 545302;\
+            "section_id" = "lv_0004";\
+            "section_title" = "miRs Link Autophagy and Crohn''s Disease";\
+        \},\
+                \{\
+            "is_this_sub_section" = 1;\
+            "last_modified" = "2016-07-28 15:13:35";\
+            "reference_id" = 545303;\
+            "section_id" = "lv_0005";\
+            "section_title" = "The Shape of Death''s Dark Shadow";\
+        \}\
+    );\
+    Sequence = 2;\
+    Video = "<null>";\
+    abstract = "";\
+    "article_id" = 3633;\
+    "article_info_id" = S009286741100184X;\
+    "article_sub_type" = "";\
+    "article_sub_type_2" = "";\
+    "article_sub_type_3" = "";\
+    "article_sub_type_4" = "";\
+    "article_title" = "Cell Death and Destruction";\
+    "article_type" = Select;\
+    authors = "";\
+    "citation_text" = "<html><link rel=\\"stylesheet\\" href=\\"style.css\\" type=\\"text/css\\"></head><body><div class=\\"citation_content\\"><div class=\\"citation_heading\\">Article Title</div><hr class=\\"line_break\\">Cell Death and Destruction<div class=\\"citation_heading\\">Authors</div><hr class=\\"line_break\\"><div class=\\"citation_heading\\">Source</div><hr class=\\"line_break\\">Cell - Mar 04, 2011<br>144 | 5 | Pages 631<br>DOI: 10.1016/j.cell.2011.02.032</div></body></html>";\
+    copyright = "";\
+    "date_of_release" = "2011-03-04";\
+    "doctopic_role" = "";\
+    "filesize_abs_suppl" = 0;\
+    "filesize_abstract" = 2455;\
+    "filesize_fulltext" = 654172;\
+    "filesize_pdf" = 371957;\
+    "filesize_suppl" = 0;\
+    "has_abstract_image" = 0;\
+    "has_audio" = 0;\
+    "has_image" = 1;\
+    "has_others" = 0;\
+    "has_video" = 0;\
+    "html_file_name" = "main.html";\
+    isArticleInPress = 0;\
+    isTopArticle = 1;\
+    "is_abs_supplement" = 0;\
+    "is_abstract" = 1;\
+    "is_cme" = 0;\
+    "is_supplement" = 0;\
+    "issue_id" = 142;\
+    keywords = "";\
+    "lancet_article_color" = "";\
+    "lancet_article_colorname" = "";\
+    "lancet_article_type" = "";\
+    "lancet_group_sequence" = 0;\
+    "last_modify" = "2016-07-28 11:13:26";\
+    "page_range" = 631;\
+    "pdf_file_name" = "main.pdf";\
+    v40 = 0;\
+    version = " ";\
+\},\
+\{\
+    "AIP_Identifier" = "<null>";\
+    "ARTICLE_MEDIAS" =     (\
+                \{\
+            Sequence = 1;\
+            deleted = 0;\
+            "is_fulltext_asset" = 1;\
+            "media_caption" = "<figcaption class=\\"caption\\">   </figcaption>";\
+            "media_file_duration" = "<null>";\
+            "media_file_name" = "gr1.jpg";\
+            "media_file_size" = 0;\
+            "media_text" = "";\
+            "media_thumb_image_name" = "gr1.jpg";\
+            "media_type" = Image;\
+            shareable = 1;\
+        \}\
+    );\
+    AUTHORS =     (\
+                \{\
+            "author_description" = "";\
+            "author_id" = 195998;\
+            "author_name" = "Amy Maxmen";\
+            "last_modified" = "2016-07-28 15:13:35";\
+        \}\
+    );\
+    DOI = "10.1016/j.cell.2011.02.033";\
+    "DOI_Link" = "http://dx.doi.org/10.1016/j.cell.2011.02.033";\
+    "Issue_PII" = S0092867411X00053;\
+    "OA_Display_License" = "";\
+    "OA_Display_Sponsor_Name" = "";\
+    "OA_Identifier" = 7;\
+    "OA_Info_Html" = "<div class='cu_wrapper'> <div class='cus_container'><div class='pub_main'></div><div class='op_acc_head'><p class='op_acc_head'> <p class='perm open_acc'>Open Archive</p><p class='cc_licns mar_bot_0'>DOI: <a href='http://dx.doi.org/10.1016/j.cell.2011.02.033'>http://dx.doi.org/10.1016/j.cell.2011.02.033</a></p></p></div><div class='art_info_main'><div class='article_drop_menu_main'><div class='article_drop_menu'><p class='art_tog_menu'><a id='expand_collapse' href='UserInfo'><span class='accor_btn'>+</span>Article Info</a></p><div id='show_hide' class='article_drop_menu_inner'><div class='permited_sec'><p id='content_change' class='font_13'></p><p class='perm'>User License</p><p class='cc_licns'><a href='http://www.elsevier.com/open-access/userlicense/1.0/'>Elsevier User license</a> | <a href='/show/ELS-USER'>How you Can reuse</a></p></div><p class='foot'>\\U00a9 2011 Elsevier Inc.</p> </div></div></div></div></div></div>";\
+    "OA_Modified_Date" = "2016-07-28 15:10:24";\
+    "OA_Since_Date" = "";\
+    "OA_Status_Archive" = "";\
+    "OA_Status_Display" = "Open Archive";\
+    REFERENCES =     (\
+                \{\
+            "is_this_sub_section" = 1;\
+            "last_modified" = "2016-07-28 15:13:35";\
+            "reference_id" = 545304;\
+            "section_id" = "lv_0001";\
+            "section_title" = "Main Text";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:35";\
+            "reference_id" = 545305;\
+            "section_id" = "lv_0002";\
+            "section_title" = "Family Matters First";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:35";\
+            "reference_id" = 545306;\
+            "section_id" = "lv_0003";\
+            "section_title" = "Success Stories Accumulating";\
+        \}\
+    );\
+    Sequence = 3;\
+    Video = "<null>";\
+    abstract = "";\
+    "article_id" = 3634;\
+    "article_info_id" = S0092867411001851;\
+    "article_sub_type" = "";\
+    "article_sub_type_2" = "";\
+    "article_sub_type_3" = "";\
+    "article_sub_type_4" = "";\
+    "article_title" = "Exome Sequencing Deciphers Rare Diseases";\
+    "article_type" = Analysis;\
+    authors = "Amy Maxmen";\
+    "citation_text" = "<html><link rel=\\"stylesheet\\" href=\\"style.css\\" type=\\"text/css\\"></head><body><div class=\\"citation_content\\"><div class=\\"citation_heading\\">Article Title</div><hr class=\\"line_break\\">Exome Sequencing Deciphers Rare Diseases<div class=\\"citation_heading\\">Authors</div><hr class=\\"line_break\\">Amy Maxmen<div class=\\"citation_heading\\">Source</div><hr class=\\"line_break\\">Cell - Mar 04, 2011<br>144 | 5 | Pages 635-637<br>DOI: 10.1016/j.cell.2011.02.033</div></body></html>";\
+    copyright = "\\U00a9 2011 Elsevier Inc.";\
+    "date_of_release" = "2011-03-04";\
+    "doctopic_role" = "";\
+    "filesize_abs_suppl" = 0;\
+    "filesize_abstract" = 3060;\
+    "filesize_fulltext" = 244281;\
+    "filesize_pdf" = 187099;\
+    "filesize_suppl" = 0;\
+    "has_abstract_image" = 0;\
+    "has_audio" = 0;\
+    "has_image" = 1;\
+    "has_others" = 0;\
+    "has_video" = 0;\
+    "html_file_name" = "main.html";\
+    isArticleInPress = 0;\
+    isTopArticle = 1;\
+    "is_abs_supplement" = 0;\
+    "is_abstract" = 1;\
+    "is_cme" = 0;\
+    "is_supplement" = 0;\
+    "issue_id" = 142;\
+    keywords = "";\
+    "lancet_article_color" = "";\
+    "lancet_article_colorname" = "";\
+    "lancet_article_type" = "";\
+    "lancet_group_sequence" = 0;\
+    "last_modify" = "2016-07-28 11:13:27";\
+    "page_range" = "635-637";\
+    "pdf_file_name" = "main.pdf";\
+    v40 = 0;\
+    version = " ";\
+\},\
+\{\
+    "AIP_Identifier" = "<null>";\
+    "ARTICLE_MEDIAS" =     (\
+                \{\
+            Sequence = 1;\
+            deleted = 0;\
+            "is_fulltext_asset" = 1;\
+            "media_caption" = "<figcaption class=\\"caption\\"><strong>Figure\\U00a01</strong>   <span class=\\"caption\\">Triple-Negative Breast Cancer Cell Lines Are Enriched with Tyrosine Phosphorylation Sites<br/></span><span class=\\"caption\\">\\U201cTriple-negative\\U201d breast cancers, which do not express the three major molecular signatures of breast cancer cells (estrogen receptor, progesterone receptor, and HER2), are heterogeneous and difficult to treat. <a href=\\"javascript:void(0)\\" name=\\"back-bib6\\" onmouseover=\\"this.style.cursor=''pointer''\\" onfocus=\\"this.blur();\\" onclick=\\"showPopupMulti(''bib6'');\\"><cite aria-label=\\"Opens Reference Sun et\\U00a0al., 2011\\">Sun et\\U00a0al. (2011)</cite></a> now find that the activity of the protein tyrosine phosphatase PTPN12 is lost in many of these cancers. Here a Wilcoxon rank sum test was used to identify tyrosine sites preferentially phosphorylated in triple-negative breast cancer cell lines versus other types of breast cancer cells (all sites shown are significant at the p &lt; 0.05 level and are ranked from top to bottom in order of increasing p value). Asterisks indicate sites that may also be phosphorylated on closely related proteins. Data provided by Ting-lei Gu of Cell Signaling Technology, and the breast cancer dataset is downloadable from PhosphoSitePlus at <a class=\\"ja50-ce-inter-ref\\" href=\\"http://www.phosphosite.org/downloads/breastcancerdataset.gz\\" target=\\"_blank\\">http://www.phosphosite.org/downloads/breastcancerdataset.gz</a>.<br/></span></figcaption>";\
+            "media_file_duration" = "<null>";\
+            "media_file_name" = "gr1.jpg";\
+            "media_file_size" = 0;\
+            "media_text" = "";\
+            "media_thumb_image_name" = "gr1.jpg";\
+            "media_type" = Image;\
+            shareable = 1;\
+        \}\
+    );\
+    AUTHORS =     (\
+                \{\
+            "author_description" = "Department of Cell Biology, Harvard Medical School, Boston, MA 02115, USA";\
+            "author_id" = 195999;\
+            "author_name" = "John\\U00a0G. Albeck";\
+            "last_modified" = "2016-07-28 15:13:35";\
+        \},\
+                \{\
+            "author_description" = "Department of Cell Biology, Harvard Medical School, Boston, MA 02115, USA Corresponding author Email Address :joan_brugge@hms.harvard.edu";\
+            "author_id" = 196000;\
+            "author_name" = "Joan\\U00a0S. Brugge";\
+            "last_modified" = "2016-07-28 15:13:35";\
+        \}\
+    );\
+    DOI = "10.1016/j.cell.2011.02.030";\
+    "DOI_Link" = "http://dx.doi.org/10.1016/j.cell.2011.02.030";\
+    "Issue_PII" = S0092867411X00053;\
+    "OA_Display_License" = "";\
+    "OA_Display_Sponsor_Name" = "";\
+    "OA_Identifier" = 7;\
+    "OA_Info_Html" = "<div class='cu_wrapper'> <div class='cus_container'><div class='pub_main'></div><div class='op_acc_head'><p class='op_acc_head'> <p class='perm open_acc'>Open Archive</p><p class='cc_licns mar_bot_0'>DOI: <a href='http://dx.doi.org/10.1016/j.cell.2011.02.030'>http://dx.doi.org/10.1016/j.cell.2011.02.030</a></p></p></div><div class='art_info_main'><div class='article_drop_menu_main'><div class='article_drop_menu'><p class='art_tog_menu'><a id='expand_collapse' href='UserInfo'><span class='accor_btn'>+</span>Article Info</a></p><div id='show_hide' class='article_drop_menu_inner'><div class='permited_sec'><p id='content_change' class='font_13'></p><p class='perm'>User License</p><p class='cc_licns'><a href='http://www.elsevier.com/open-access/userlicense/1.0/'>Elsevier User license</a> | <a href='/show/ELS-USER'>How you Can reuse</a></p></div><p class='foot'>\\U00a9 2011 Elsevier Inc.</p> </div></div></div></div></div></div>";\
+    "OA_Modified_Date" = "2016-07-28 15:10:27";\
+    "OA_Since_Date" = "";\
+    "OA_Status_Archive" = "";\
+    "OA_Status_Display" = "Open Archive";\
+    REFERENCES =     (\
+                \{\
+            "is_this_sub_section" = 1;\
+            "last_modified" = "2016-07-28 15:13:35";\
+            "reference_id" = 545307;\
+            "section_id" = "lv_0001";\
+            "section_title" = "Main Text";\
+        \},\
+                \{\
+            "is_this_sub_section" = 1;\
+            "last_modified" = "2016-07-28 15:13:35";\
+            "reference_id" = 545308;\
+            "section_id" = "lv_0002";\
+            "section_title" = References;\
+        \}\
+    );\
+    Sequence = 4;\
+    Video = "<null>";\
+    abstract = "";\
+    "article_id" = 3635;\
+    "article_info_id" = S0092867411001826;\
+    "article_sub_type" = "";\
+    "article_sub_type_2" = "";\
+    "article_sub_type_3" = "";\
+    "article_sub_type_4" = "";\
+    "article_title" = "Uncovering a Tumor Suppressor for Triple-Negative Breast Cancers";\
+    "article_type" = Previews;\
+    authors = "John\\U00a0G. Albeck, Joan\\U00a0S. Brugge";\
+    "citation_text" = "<html><link rel=\\"stylesheet\\" href=\\"style.css\\" type=\\"text/css\\"></head><body><div class=\\"citation_content\\"><div class=\\"citation_heading\\">Article Title</div><hr class=\\"line_break\\">Uncovering a Tumor Suppressor for Triple-Negative Breast Cancers<div class=\\"citation_heading\\">Authors</div><hr class=\\"line_break\\">John\\U00a0G. Albeck, Joan\\U00a0S. Brugge<div class=\\"citation_heading\\">Source</div><hr class=\\"line_break\\">Cell - Mar 04, 2011<br>144 | 5 | Pages 638-640<br>DOI: 10.1016/j.cell.2011.02.030</div></body></html>";\
+    copyright = "\\U00a9 2011 Elsevier Inc.";\
+    "date_of_release" = "2011-03-04";\
+    "doctopic_role" = "";\
+    "filesize_abs_suppl" = 0;\
+    "filesize_abstract" = 3861;\
+    "filesize_fulltext" = 598309;\
+    "filesize_pdf" = 331092;\
+    "filesize_suppl" = 0;\
+    "has_abstract_image" = 0;\
+    "has_audio" = 0;\
+    "has_image" = 1;\
+    "has_others" = 0;\
+    "has_video" = 0;\
+    "html_file_name" = "main.html";\
+    isArticleInPress = 0;\
+    isTopArticle = 1;\
+    "is_abs_supplement" = 0;\
+    "is_abstract" = 1;\
+    "is_cme" = 0;\
+    "is_supplement" = 0;\
+    "issue_id" = 142;\
+    keywords = "";\
+    "lancet_article_color" = "";\
+    "lancet_article_colorname" = "";\
+    "lancet_article_type" = "";\
+    "lancet_group_sequence" = 0;\
+    "last_modify" = "2016-07-28 11:13:27";\
+    "page_range" = "638-640";\
+    "pdf_file_name" = "main.pdf";\
+    v40 = 0;\
+    version = " ";\
+\},\
+\{\
+    "AIP_Identifier" = "<null>";\
+    "ARTICLE_MEDIAS" =     (\
+                \{\
+            Sequence = 1;\
+            deleted = 0;\
+            "is_fulltext_asset" = 1;\
+            "media_caption" = "<figcaption class=\\"caption\\"><strong>Figure\\U00a01</strong>   <span class=\\"caption\\">Regulation of TORC2 by PI3K and Ribosome Association<br/></span><span class=\\"caption\\">In response to upstream stimulation, increased phosphatidylinositol 3-kinase (PI3K) signaling activates mTORC2 (consisting of mTOR, Rictor, Sin1, and mLST8) by promoting its association with ribosomes. mTORC2 phosphorylates the C-terminal turn motif (T450) and hydrophobic motif (S473) in AKT. AKT activation also requires phosphorylation of the activation loop (T308) by PDK1. Notably, phosphorylation of the turn motif of AKT is constitutive and cotranslational, whereas phosphorylation of the hydrophobic motif is highly dependent on PI3K signaling and posttranslational. TORC2 similarly phosphorylates the turn motif and hydrophobic motif in SGK and conventional protein kinase C (<a href=\\"javascript:void(0)\\" name=\\"back-bib2\\" onmouseover=\\"this.style.cursor=''pointer''\\" onfocus=\\"this.blur();\\" onclick=\\"showPopupMulti(''bib2'');\\"><cite aria-label=\\"Opens Reference Garc\\U00eda-Mart\\U00ednez and Alessi, 2008\\">Garc\\U00eda-Mart\\U00ednez and Alessi, 2008</cite></a>, <a href=\\"javascript:void(0)\\" name=\\"back-bib3\\" onmouseover=\\"this.style.cursor=''pointer''\\" onfocus=\\"this.blur();\\" onclick=\\"showPopupMulti(''bib3'');\\"><cite aria-label=\\"Opens Reference Jacinto et\\U00a0al., 2004\\">Jacinto et\\U00a0al., 2004</cite></a>, <a href=\\"javascript:void(0)\\" name=\\"back-bib6\\" onmouseover=\\"this.style.cursor=''pointer''\\" onfocus=\\"this.blur();\\" onclick=\\"showPopupMulti(''bib6'');\\"><cite aria-label=\\"Opens Reference Sarbassov et\\U00a0al., 2005\\">Sarbassov et\\U00a0al., 2005</cite></a>).<br/></span></figcaption>";\
+            "media_file_duration" = "<null>";\
+            "media_file_name" = "gr1.jpg";\
+            "media_file_size" = 0;\
+            "media_text" = "";\
+            "media_thumb_image_name" = "gr1.jpg";\
+            "media_type" = Image;\
+            shareable = 1;\
+        \}\
+    );\
+    AUTHORS =     (\
+                \{\
+            "author_description" = "Department of Pharmacology and Moores Cancer Center, University of California, San Diego, La Jolla, CA 92093-0815, USA";\
+            "author_id" = 196001;\
+            "author_name" = "Xiaoduo Xie";\
+            "last_modified" = "2016-07-28 15:13:35";\
+        \},\
+                \{\
+            "author_description" = "Department of Pharmacology and Moores Cancer Center, University of California, San Diego, La Jolla, CA 92093-0815, USA Corresponding author Email Address :kuguan@ucsd.edu";\
+            "author_id" = 196002;\
+            "author_name" = "Kun-Liang Guan";\
+            "last_modified" = "2016-07-28 15:13:35";\
+        \}\
+    );\
+    DOI = "10.1016/j.cell.2011.02.029";\
+    "DOI_Link" = "http://dx.doi.org/10.1016/j.cell.2011.02.029";\
+    "Issue_PII" = S0092867411X00053;\
+    "OA_Display_License" = "";\
+    "OA_Display_Sponsor_Name" = "";\
+    "OA_Identifier" = 7;\
+    "OA_Info_Html" = "<div class='cu_wrapper'> <div class='cus_container'><div class='pub_main'></div><div class='op_acc_head'><p class='op_acc_head'> <p class='perm open_acc'>Open Archive</p><p class='cc_licns mar_bot_0'>DOI: <a href='http://dx.doi.org/10.1016/j.cell.2011.02.029'>http://dx.doi.org/10.1016/j.cell.2011.02.029</a></p></p></div><div class='art_info_main'><div class='article_drop_menu_main'><div class='article_drop_menu'><p class='art_tog_menu'><a id='expand_collapse' href='UserInfo'><span class='accor_btn'>+</span>Article Info</a></p><div id='show_hide' class='article_drop_menu_inner'><div class='permited_sec'><p id='content_change' class='font_13'></p><p class='perm'>User License</p><p class='cc_licns'><a href='http://www.elsevier.com/open-access/userlicense/1.0/'>Elsevier User license</a> | <a href='/show/ELS-USER'>How you Can reuse</a></p></div><p class='foot'>\\U00a9 2011 Elsevier Inc.</p> </div></div></div></div></div></div>";\
+    "OA_Modified_Date" = "2016-07-28 15:10:29";\
+    "OA_Since_Date" = "";\
+    "OA_Status_Archive" = "";\
+    "OA_Status_Display" = "Open Archive";\
+    REFERENCES =     (\
+                \{\
+            "is_this_sub_section" = 1;\
+            "last_modified" = "2016-07-28 15:13:36";\
+            "reference_id" = 545309;\
+            "section_id" = "lv_0001";\
+            "section_title" = "Main Text";\
+        \},\
+                \{\
+            "is_this_sub_section" = 1;\
+            "last_modified" = "2016-07-28 15:13:36";\
+            "reference_id" = 545310;\
+            "section_id" = "lv_0002";\
+            "section_title" = References;\
+        \}\
+    );\
+    Sequence = 5;\
+    Video = "<null>";\
+    abstract = "";\
+    "article_id" = 3636;\
+    "article_info_id" = S0092867411001814;\
+    "article_sub_type" = "";\
+    "article_sub_type_2" = "";\
+    "article_sub_type_3" = "";\
+    "article_sub_type_4" = "";\
+    "article_title" = "The Ribosome and TORC2: Collaborators for Cell Growth";\
+    "article_type" = Previews;\
+    authors = "Xiaoduo Xie, Kun-Liang Guan";\
+    "citation_text" = "<html><link rel=\\"stylesheet\\" href=\\"style.css\\" type=\\"text/css\\"></head><body><div class=\\"citation_content\\"><div class=\\"citation_heading\\">Article Title</div><hr class=\\"line_break\\">The Ribosome and TORC2: Collaborators for Cell Growth<div class=\\"citation_heading\\">Authors</div><hr class=\\"line_break\\">Xiaoduo Xie, Kun-Liang Guan<div class=\\"citation_heading\\">Source</div><hr class=\\"line_break\\">Cell - Mar 04, 2011<br>144 | 5 | Pages 640-642<br>DOI: 10.1016/j.cell.2011.02.029</div></body></html>";\
+    copyright = "\\U00a9 2011 Elsevier Inc.";\
+    "date_of_release" = "2011-03-04";\
+    "doctopic_role" = "";\
+    "filesize_abs_suppl" = 0;\
+    "filesize_abstract" = 3763;\
+    "filesize_fulltext" = 528195;\
+    "filesize_pdf" = 187333;\
+    "filesize_suppl" = 0;\
+    "has_abstract_image" = 0;\
+    "has_audio" = 0;\
+    "has_image" = 1;\
+    "has_others" = 0;\
+    "has_video" = 0;\
+    "html_file_name" = "main.html";\
+    isArticleInPress = 0;\
+    isTopArticle = 1;\
+    "is_abs_supplement" = 0;\
+    "is_abstract" = 1;\
+    "is_cme" = 0;\
+    "is_supplement" = 0;\
+    "issue_id" = 142;\
+    keywords = "";\
+    "lancet_article_color" = "";\
+    "lancet_article_colorname" = "";\
+    "lancet_article_type" = "";\
+    "lancet_group_sequence" = 0;\
+    "last_modify" = "2016-07-28 11:13:27";\
+    "page_range" = "640-642";\
+    "pdf_file_name" = "main.pdf";\
+    v40 = 0;\
+    version = " ";\
+\},\
+\{\
+    "AIP_Identifier" = "<null>";\
+    "ARTICLE_MEDIAS" =     (\
+                \{\
+            Sequence = 1;\
+            deleted = 0;\
+            "is_fulltext_asset" = 1;\
+            "media_caption" = "<figcaption class=\\"caption\\"><strong>Figure\\U00a01</strong>   <span class=\\"caption\\">Hormonal Integration of the Skeleton and Testis<br/></span><span class=\\"caption\\">Testosterone (T) biosynthesis takes place within Leydig cells (identified here by immunostaining for 3\\U03b2-HSD, an enzyme that is involved in androgen biosynthesis), located within the interstitial compartment of the testis. Testosterone also acts as a pro-hormone for biosynthesis of estrogens (E); both hormones have been implicated in regulation of bone turnover. Leydig cells express G protein-coupled receptors (GPCRs) that bind the endocrine hormones luteinizing hormone (Lhcgr) and osteocalcin (Gprc6a). Luteinizing hormone (LH) is synthesized and secreted by the pituitary gland and the latter produced by bone osteoblasts. Stimulation of both GPCRs results in increased concentrations of intracellular cAMP and increased expression of key regulators of the steroidogenic pathway. Secretion of LH is subject to negative feedback regulation by testosterone and estrogens. Testosterone, acting via androgen receptors expressed in somatic cells, but not germ cells, plays a critical role in the regulation of male fertility.<br/></span></figcaption>";\
+            "media_file_duration" = "<null>";\
+            "media_file_name" = "gr1.jpg";\
+            "media_file_size" = 0;\
+            "media_text" = "";\
+            "media_thumb_image_name" = "gr1.jpg";\
+            "media_type" = Image;\
+            shareable = 1;\
+        \}\
+    );\
+    AUTHORS =     (\
+                \{\
+            "author_description" = "MRC Centre for Reproductive Health, The University of Edinburgh, The Queen's Medical Research Institute, 47 Little France Crescent, Edinburgh EH16 4TJ, UK";\
+            "author_id" = 196003;\
+            "author_name" = "Lee\\U00a0B. Smith";\
+            "last_modified" = "2016-07-28 15:13:36";\
+        \},\
+                \{\
+            "author_description" = "MRC Centre for Reproductive Health, The University of Edinburgh, The Queen's Medical Research Institute, 47 Little France Crescent, Edinburgh EH16 4TJ, UK Corresponding author Email Address :p.saunders@ed.ac.uk";\
+            "author_id" = 196004;\
+            "author_name" = "Philippa\\U00a0T.K. Saunders";\
+            "last_modified" = "2016-07-28 15:13:36";\
+        \}\
+    );\
+    DOI = "10.1016/j.cell.2011.02.028";\
+    "DOI_Link" = "http://dx.doi.org/10.1016/j.cell.2011.02.028";\
+    "Issue_PII" = S0092867411X00053;\
+    "OA_Display_License" = "";\
+    "OA_Display_Sponsor_Name" = "";\
+    "OA_Identifier" = 7;\
+    "OA_Info_Html" = "<div class='cu_wrapper'> <div class='cus_container'><div class='pub_main'></div><div class='op_acc_head'><p class='op_acc_head'> <p class='perm open_acc'>Open Archive</p><p class='cc_licns mar_bot_0'>DOI: <a href='http://dx.doi.org/10.1016/j.cell.2011.02.028'>http://dx.doi.org/10.1016/j.cell.2011.02.028</a></p></p></div><div class='art_info_main'><div class='article_drop_menu_main'><div class='article_drop_menu'><p class='art_tog_menu'><a id='expand_collapse' href='UserInfo'><span class='accor_btn'>+</span>Article Info</a></p><div id='show_hide' class='article_drop_menu_inner'><div class='permited_sec'><p id='content_change' class='font_13'></p><p class='perm'>User License</p><p class='cc_licns'><a href='http://www.elsevier.com/open-access/userlicense/1.0/'>Elsevier User license</a> | <a href='/show/ELS-USER'>How you Can reuse</a></p></div><p class='foot'>\\U00a9 2011 Elsevier Inc.</p> </div></div></div></div></div></div>";\
+    "OA_Modified_Date" = "2016-07-28 15:10:31";\
+    "OA_Since_Date" = "";\
+    "OA_Status_Archive" = "";\
+    "OA_Status_Display" = "Open Archive";\
+    REFERENCES =     (\
+                \{\
+            "is_this_sub_section" = 1;\
+            "last_modified" = "2016-07-28 15:13:36";\
+            "reference_id" = 545311;\
+            "section_id" = "lv_0001";\
+            "section_title" = "Main Text";\
+        \},\
+                \{\
+            "is_this_sub_section" = 1;\
+            "last_modified" = "2016-07-28 15:13:36";\
+            "reference_id" = 545312;\
+            "section_id" = "lv_0002";\
+            "section_title" = References;\
+        \}\
+    );\
+    Sequence = 6;\
+    Video = "<null>";\
+    abstract = "";\
+    "article_id" = 3637;\
+    "article_info_id" = S0092867411001802;\
+    "article_sub_type" = "";\
+    "article_sub_type_2" = "";\
+    "article_sub_type_3" = "";\
+    "article_sub_type_4" = "";\
+    "article_title" = "The Skeleton: The New Controller of Male Fertility?";\
+    "article_type" = Previews;\
+    authors = "Lee\\U00a0B. Smith, Philippa\\U00a0T.K. Saunders";\
+    "citation_text" = "<html><link rel=\\"stylesheet\\" href=\\"style.css\\" type=\\"text/css\\"></head><body><div class=\\"citation_content\\"><div class=\\"citation_heading\\">Article Title</div><hr class=\\"line_break\\">The Skeleton: The New Controller of Male Fertility?<div class=\\"citation_heading\\">Authors</div><hr class=\\"line_break\\">Lee\\U00a0B. Smith, Philippa\\U00a0T.K. Saunders<div class=\\"citation_heading\\">Source</div><hr class=\\"line_break\\">Cell - Mar 04, 2011<br>144 | 5 | Pages 642-643<br>DOI: 10.1016/j.cell.2011.02.028</div></body></html>";\
+    copyright = "\\U00a9 2011 Elsevier Inc.";\
+    "date_of_release" = "2011-03-04";\
+    "doctopic_role" = "";\
+    "filesize_abs_suppl" = 0;\
+    "filesize_abstract" = 3885;\
+    "filesize_fulltext" = 500451;\
+    "filesize_pdf" = 199693;\
+    "filesize_suppl" = 0;\
+    "has_abstract_image" = 0;\
+    "has_audio" = 0;\
+    "has_image" = 1;\
+    "has_others" = 0;\
+    "has_video" = 0;\
+    "html_file_name" = "main.html";\
+    isArticleInPress = 0;\
+    isTopArticle = 1;\
+    "is_abs_supplement" = 0;\
+    "is_abstract" = 1;\
+    "is_cme" = 0;\
+    "is_supplement" = 0;\
+    "issue_id" = 142;\
+    keywords = "";\
+    "lancet_article_color" = "";\
+    "lancet_article_colorname" = "";\
+    "lancet_article_type" = "";\
+    "lancet_group_sequence" = 0;\
+    "last_modify" = "2016-07-28 11:13:27";\
+    "page_range" = "642-643";\
+    "pdf_file_name" = "main.pdf";\
+    v40 = 0;\
+    version = " ";\
+\},\
+\{\
+    "AIP_Identifier" = "<null>";\
+    "ARTICLE_MEDIAS" =     (\
+                \{\
+            Sequence = 1;\
+            deleted = 0;\
+            "is_fulltext_asset" = 1;\
+            "media_caption" = "<figcaption class=\\"caption\\"><strong>Figure\\U00a01</strong>   <span class=\\"caption\\">Astrocytes in Long-Term Memory Formation<br/></span><span class=\\"caption\\"><a href=\\"javascript:void(0)\\" name=\\"back-bib9\\" onmouseover=\\"this.style.cursor=''pointer''\\" onfocus=\\"this.blur();\\" onclick=\\"showPopupMulti(''bib9'');\\"><cite aria-label=\\"Opens Reference Suzuki et\\U00a0al., 2011\\">Suzuki et\\U00a0al. (2011)</cite></a> show that glycogenolysis (the breakdown of glycogen) and the release of its downstream product lactate from astrocytes are required for memory consolidation in response to a learning paradigm.<br/></span><span class=\\"caption\\">(A) Rats participate in a learning task, creating a stable memory in the CA1 region of the hippocampus.<br/></span><span class=\\"caption\\">(B) Some of the key molecular and structural changes at CA1 synapses (brown) and neighboring astrocytes (light blue) that lead to the establishment of long-term memory.<br/></span><span class=\\"caption\\">The figure is based on the available literature and the new results by Suzuki et\\U00a0al. The learning task stimulates memory formation that, in the early phase, requires both glutamatergic synaptic activity in neurons and glycogen metabolism and lactate release in astrocytes. The memory program in the postsynaptic neuron triggers activation of protein kinases with subsequent phosphorylation of the nuclear transcription factor CREB and of cofilin (an actin-binding protein), as well as rapid expression of the activity-dependent gene Arc, all necessary steps for the establishment of long-term memory. In the late phase, new protein synthesis leads to structural changes and formation of new synapses. The authors'' data suggest that lactate is exported from astrocytes via the monocarboxylate transporters MCT1 or MCT4 and imported into neurons via MCT2. Lactate transport is necessary for the expression of Arc and for the phosphorylation of CREB and cofilin. Question marks in the figure highlight the several issues that remain to be resolved: (1) the neuronal signal responsible for triggering glycogen metabolism in astrocytes; (2) the specific location of the different lactate transporters in astrocytes and neurons; (3) the mechanism by which lactate acts in the cascade of events leading to memory consolidation.<br/></span></figcaption>";\
+            "media_file_duration" = "<null>";\
+            "media_file_name" = "gr1.jpg";\
+            "media_file_size" = 0;\
+            "media_text" = "";\
+            "media_thumb_image_name" = "gr1.jpg";\
+            "media_type" = Image;\
+            shareable = 1;\
+        \}\
+    );\
+    AUTHORS =     (\
+                \{\
+            "author_description" = "Department of Cell Biology and Morphology, University of Lausanne, Rue du Bugnon, 9 1005 Lausanne, Switzerland";\
+            "author_id" = 196005;\
+            "author_name" = "Paola Bezzi";\
+            "last_modified" = "2016-07-28 15:13:36";\
+        \},\
+                \{\
+            "author_description" = "Department of Cell Biology and Morphology, University of Lausanne, Rue du Bugnon, 9 1005 Lausanne, Switzerland Corresponding author Email Address :andrea.volterra@unil.ch";\
+            "author_id" = 196006;\
+            "author_name" = "Andrea Volterra";\
+            "last_modified" = "2016-07-28 15:13:36";\
+        \}\
+    );\
+    DOI = "10.1016/j.cell.2011.02.027";\
+    "DOI_Link" = "http://dx.doi.org/10.1016/j.cell.2011.02.027";\
+    "Issue_PII" = S0092867411X00053;\
+    "OA_Display_License" = "";\
+    "OA_Display_Sponsor_Name" = "";\
+    "OA_Identifier" = 7;\
+    "OA_Info_Html" = "<div class='cu_wrapper'> <div class='cus_container'><div class='pub_main'></div><div class='op_acc_head'><p class='op_acc_head'> <p class='perm open_acc'>Open Archive</p><p class='cc_licns mar_bot_0'>DOI: <a href='http://dx.doi.org/10.1016/j.cell.2011.02.027'>http://dx.doi.org/10.1016/j.cell.2011.02.027</a></p></p></div><div class='art_info_main'><div class='article_drop_menu_main'><div class='article_drop_menu'><p class='art_tog_menu'><a id='expand_collapse' href='UserInfo'><span class='accor_btn'>+</span>Article Info</a></p><div id='show_hide' class='article_drop_menu_inner'><div class='permited_sec'><p id='content_change' class='font_13'></p><p class='perm'>User License</p><p class='cc_licns'><a href='http://www.elsevier.com/open-access/userlicense/1.0/'>Elsevier User license</a> | <a href='/show/ELS-USER'>How you Can reuse</a></p></div><p class='foot'>\\U00a9 2011 Elsevier Inc.</p> </div></div></div></div></div></div>";\
+    "OA_Modified_Date" = "2016-07-28 15:10:33";\
+    "OA_Since_Date" = "";\
+    "OA_Status_Archive" = "";\
+    "OA_Status_Display" = "Open Archive";\
+    REFERENCES =     (\
+                \{\
+            "is_this_sub_section" = 1;\
+            "last_modified" = "2016-07-28 15:13:36";\
+            "reference_id" = 545313;\
+            "section_id" = "lv_0001";\
+            "section_title" = "Main Text";\
+        \},\
+                \{\
+            "is_this_sub_section" = 1;\
+            "last_modified" = "2016-07-28 15:13:36";\
+            "reference_id" = 545314;\
+            "section_id" = "lv_0002";\
+            "section_title" = Acknowledgments;\
+        \},\
+                \{\
+            "is_this_sub_section" = 1;\
+            "last_modified" = "2016-07-28 15:13:36";\
+            "reference_id" = 545315;\
+            "section_id" = "lv_0003";\
+            "section_title" = References;\
+        \}\
+    );\
+    Sequence = 7;\
+    Video = "<null>";\
+    abstract = "";\
+    "article_id" = 3638;\
+    "article_info_id" = S0092867411001796;\
+    "article_sub_type" = "";\
+    "article_sub_type_2" = "";\
+    "article_sub_type_3" = "";\
+    "article_sub_type_4" = "";\
+    "article_title" = "Astrocytes: Powering Memory";\
+    "article_type" = Previews;\
+    authors = "Paola Bezzi, Andrea Volterra";\
+    "citation_text" = "<html><link rel=\\"stylesheet\\" href=\\"style.css\\" type=\\"text/css\\"></head><body><div class=\\"citation_content\\"><div class=\\"citation_heading\\">Article Title</div><hr class=\\"line_break\\">Astrocytes: Powering Memory<div class=\\"citation_heading\\">Authors</div><hr class=\\"line_break\\">Paola Bezzi, Andrea Volterra<div class=\\"citation_heading\\">Source</div><hr class=\\"line_break\\">Cell - Mar 04, 2011<br>144 | 5 | Pages 644-645<br>DOI: 10.1016/j.cell.2011.02.027</div></body></html>";\
+    copyright = "\\U00a9 2011 Elsevier Inc.";\
+    "date_of_release" = "2011-03-04";\
+    "doctopic_role" = "";\
+    "filesize_abs_suppl" = 0;\
+    "filesize_abstract" = 3777;\
+    "filesize_fulltext" = 993704;\
+    "filesize_pdf" = 317820;\
+    "filesize_suppl" = 0;\
+    "has_abstract_image" = 0;\
+    "has_audio" = 0;\
+    "has_image" = 1;\
+    "has_others" = 0;\
+    "has_video" = 0;\
+    "html_file_name" = "main.html";\
+    isArticleInPress = 0;\
+    isTopArticle = 1;\
+    "is_abs_supplement" = 0;\
+    "is_abstract" = 1;\
+    "is_cme" = 0;\
+    "is_supplement" = 0;\
+    "issue_id" = 142;\
+    keywords = "";\
+    "lancet_article_color" = "";\
+    "lancet_article_colorname" = "";\
+    "lancet_article_type" = "";\
+    "lancet_group_sequence" = 0;\
+    "last_modify" = "2016-07-28 11:13:27";\
+    "page_range" = "644-645";\
+    "pdf_file_name" = "main.pdf";\
+    v40 = 0;\
+    version = " ";\
+\},\
+\{\
+    "AIP_Identifier" = "<null>";\
+    "ARTICLE_MEDIAS" =     (\
+                \{\
+            Sequence = 1;\
+            deleted = 0;\
+            "is_fulltext_asset" = 1;\
+            "media_caption" = "";\
+            "media_file_duration" = "<null>";\
+            "media_file_name" = "mmc1.pdf";\
+            "media_file_size" = 6460651;\
+            "media_text" = "Document S1. Six Figures Downloadable for Presentations";\
+            "media_thumb_image_name" = "";\
+            "media_type" = PDF;\
+            shareable = 1;\
+        \},\
+                \{\
+            Sequence = 1;\
+            deleted = 0;\
+            "is_fulltext_asset" = 1;\
+            "media_caption" = "<figcaption class=\\"caption\\"><strong>Figure\\U00a01</strong>   <span class=\\"caption\\">The Hallmarks of Cancer<br/></span><span class=\\"caption\\">This illustration encompasses the six hallmark capabilities originally proposed in our 2000 perspective. The past decade has witnessed remarkable progress toward understanding the mechanistic underpinnings of each hallmark.<br/></span></figcaption>";\
+            "media_file_duration" = "<null>";\
+            "media_file_name" = "gr1.jpg";\
+            "media_file_size" = 0;\
+            "media_text" = "";\
+            "media_thumb_image_name" = "gr1.jpg";\
+            "media_type" = Image;\
+            shareable = 1;\
+        \},\
+                \{\
+            Sequence = 2;\
+            deleted = 0;\
+            "is_fulltext_asset" = 1;\
+            "media_caption" = "<figcaption class=\\"caption\\"><strong>Figure\\U00a02</strong>   <span class=\\"caption\\">Intracellular Signaling Networks Regulate the Operations of the Cancer Cell<br/></span><span class=\\"caption\\">An elaborate integrated circuit operates within normal cells and is reprogrammed to regulate hallmark capabilities within cancer cells. Separate subcircuits, depicted here in differently colored fields, are specialized to orchestrate the various capabilities. At one level, this depiction is simplistic, as there is considerable crosstalk between such subcircuits. In addition, because each cancer cell is exposed to a complex mixture of signals from its microenvironment, each of these subcircuits is connected with signals originating from other cells in the tumor microenvironment, as outlined in <a href=\\"image/gr5_lrg.jpg\\" name=\\"back-fig5\\" class=\\"ja50-ce-cross-ref\\">Figure\\U00a05</a>.<br/></span></figcaption>";\
+            "media_file_duration" = "<null>";\
+            "media_file_name" = "gr2.jpg";\
+            "media_file_size" = 0;\
+            "media_text" = "";\
+            "media_thumb_image_name" = "gr2.jpg";\
+            "media_type" = Image;\
+            shareable = 1;\
+        \},\
+                \{\
+            Sequence = 3;\
+            deleted = 0;\
+            "is_fulltext_asset" = 1;\
+            "media_caption" = "<figcaption class=\\"caption\\"><strong>Figure\\U00a03</strong>   <span class=\\"caption\\">Emerging Hallmarks and Enabling Characteristics<br/></span><span class=\\"caption\\">An increasing body of research suggests that two additional hallmarks of cancer are involved in the pathogenesis of some and perhaps all cancers. One involves the capability to modify, or reprogram, cellular metabolism in order to most effectively support neoplastic proliferation. The second allows cancer cells to evade immunological destruction, in particular by T and B lymphocytes, macrophages, and natural killer cells. Because neither capability is yet generalized and fully validated, they are labeled as emerging hallmarks. Additionally, two consequential characteristics of neoplasia facilitate acquisition of both core and emerging hallmarks. Genomic instability and thus mutability endow cancer cells with genetic alterations that drive tumor progression. Inflammation by innate immune cells designed to fight infections and heal wounds can instead result in their inadvertent support of multiple hallmark capabilities, thereby manifesting the now widely appreciated tumor-promoting consequences of inflammatory responses.<br/></span></figcaption>";\
+            "media_file_duration" = "<null>";\
+            "media_file_name" = "gr3.jpg";\
+            "media_file_size" = 0;\
+            "media_text" = "";\
+            "media_thumb_image_name" = "gr3.jpg";\
+            "media_type" = Image;\
+            shareable = 1;\
+        \},\
+                \{\
+            Sequence = 4;\
+            deleted = 0;\
+            "is_fulltext_asset" = 1;\
+            "media_caption" = "<figcaption class=\\"caption\\"><strong>Figure\\U00a04</strong>   <span class=\\"caption\\">The Cells of the Tumor Microenvironment<br/></span><span class=\\"caption\\">(Upper) An assemblage of distinct cell types constitutes most solid tumors. Both the parenchyma and stroma of tumors contain distinct cell types and subtypes that collectively enable tumor growth and progression. Notably, the immune inflammatory cells present in tumors can include both tumor-promoting as well as tumor-killing subclasses.<br/></span><span class=\\"caption\\">(Lower) The distinctive microenvironments of tumors. The multiple stromal cell types create a succession of tumor microenvironments that change as tumors invade normal tissue and thereafter seed and colonize distant tissues. The abundance, histologic organization, and phenotypic characteristics of the stromal cell types, as well as of the extracellular matrix (hatched background), evolve during progression, thereby enabling primary, invasive, and then metastatic growth. The surrounding normal cells of the primary and metastatic sites, shown only schematically, likely also affect the character of the various neoplastic microenvironments. (Not shown are the premalignant stages in tumorigenesis, which also have distinctive microenvironments that are created by the abundance and characteristics of the assembled cells.)<br/></span></figcaption>";\
+            "media_file_duration" = "<null>";\
+            "media_file_name" = "gr4.jpg";\
+            "media_file_size" = 0;\
+            "media_text" = "";\
+            "media_thumb_image_name" = "gr4.jpg";\
+            "media_type" = Image;\
+            shareable = 1;\
+        \},\
+                \{\
+            Sequence = 5;\
+            deleted = 0;\
+            "is_fulltext_asset" = 1;\
+            "media_caption" = "<figcaption class=\\"caption\\"><strong>Figure\\U00a05</strong>   <span class=\\"caption\\">Signaling Interactions in the Tumor Microenvironment during Malignant Progression<br/></span><span class=\\"caption\\">(Upper) The assembly and collective contributions of the assorted cell types constituting the tumor microenvironment are orchestrated and maintained by reciprocal heterotypic signaling interactions, of which only a few are illustrated.<br/></span><span class=\\"caption\\">(Lower) The intracellular signaling depicted in the upper panel within the tumor microenvironment is not static but instead changes during tumor progression as a result of reciprocal signaling interactions between cancer cells of the parenchyma and stromal cells that convey the increasingly aggressive phenotypes that underlie growth, invasion, and metastatic dissemination. Importantly, the predisposition to spawn metastatic lesions can begin early, being influenced by the differentiation program of the normal cell-of-origin or by initiating oncogenic lesions. Certain organ sites (sometimes referred to as \\U201cfertile soil\\U201d or \\U201cmetastatic niches\\U201d) can be especially permissive for metastatic seeding and colonization by certain types of cancer cells, as a consequence of local properties that are either intrinsic to the normal tissue or induced at a distance by systemic actions of primary tumors. Cancer stem cells may be variably involved in some or all of the different stages of primary tumorigenesis and metastasis.<br/></span></figcaption>";\
+            "media_file_duration" = "<null>";\
+            "media_file_name" = "gr5.jpg";\
+            "media_file_size" = 0;\
+            "media_text" = "";\
+            "media_thumb_image_name" = "gr5.jpg";\
+            "media_type" = Image;\
+            shareable = 1;\
+        \},\
+                \{\
+            Sequence = 6;\
+            deleted = 0;\
+            "is_fulltext_asset" = 1;\
+            "media_caption" = "<figcaption class=\\"caption\\"><strong>Figure\\U00a06</strong>   <span class=\\"caption\\">Therapeutic Targeting of the Hallmarks of Cancer<br/></span><span class=\\"caption\\">Drugs that interfere with each of the acquired capabilities necessary for tumor growth and progression have been developed and are in clinical trials or in some cases approved for clinical use in treating certain forms of human cancer. Additionally, the investigational drugs are being developed to target each of the enabling characteristics and emerging hallmarks depicted in <a href=\\"image/gr3_lrg.jpg\\" name=\\"back-fig3\\" class=\\"ja50-ce-cross-ref\\">Figure\\U00a03</a>, which also hold promise as cancer therapeutics. The drugs listed are but illustrative examples; there is a deep pipeline of candidate drugs with different molecular targets and modes of action in development for most of these hallmarks.<br/></span></figcaption>";\
+            "media_file_duration" = "<null>";\
+            "media_file_name" = "gr6.jpg";\
+            "media_file_size" = 0;\
+            "media_text" = "";\
+            "media_thumb_image_name" = "gr6.jpg";\
+            "media_type" = Image;\
+            shareable = 1;\
+        \}\
+    );\
+    AUTHORS =     (\
+                \{\
+            "author_description" = "The Swiss Institute for Experimental Cancer Research (ISREC), School of Life Sciences, EPFL, Lausanne CH-1015, Switzerland The Department of Biochemistry & Biophysics, UCSF, San Francisco, CA 94158, USA Corresponding author Email Address :dh@epfl.ch";\
+            "author_id" = 196007;\
+            "author_name" = "Douglas Hanahan";\
+            "last_modified" = "2016-07-28 15:13:36";\
+        \},\
+                \{\
+            "author_description" = "Whitehead Institute for Biomedical Research, Ludwig/MIT Center for Molecular Oncology, and MIT Department of Biology, Cambridge, MA 02142, USA Corresponding author Email Address :weinberg@wi.mit.edu";\
+            "author_id" = 196008;\
+            "author_name" = "Robert\\U00a0A. Weinberg";\
+            "last_modified" = "2016-07-28 15:13:36";\
+        \}\
+    );\
+    DOI = "10.1016/j.cell.2011.02.013";\
+    "DOI_Link" = "http://dx.doi.org/10.1016/j.cell.2011.02.013";\
+    "Issue_PII" = S0092867411X00053;\
+    "OA_Display_License" = "";\
+    "OA_Display_Sponsor_Name" = "";\
+    "OA_Identifier" = 7;\
+    "OA_Info_Html" = "<div class='cu_wrapper'> <div class='cus_container'><div class='pub_main'></div><div class='op_acc_head'><p class='op_acc_head'> <p class='perm open_acc'>Open Archive</p><p class='cc_licns mar_bot_0'>DOI: <a href='http://dx.doi.org/10.1016/j.cell.2011.02.013'>http://dx.doi.org/10.1016/j.cell.2011.02.013</a></p></p></div><div class='art_info_main'><div class='article_drop_menu_main'><div class='article_drop_menu'><p class='art_tog_menu'><a id='expand_collapse' href='UserInfo'><span class='accor_btn'>+</span>Article Info</a></p><div id='show_hide' class='article_drop_menu_inner'><div class='permited_sec'><p id='content_change' class='font_13'></p><p class='perm'>User License</p><p class='cc_licns'><a href='http://www.elsevier.com/open-access/userlicense/1.0/'>Elsevier User license</a> | <a href='/show/ELS-USER'>How you Can reuse</a></p></div><p class='foot'>\\U00a9 2011 Elsevier Inc.</p> </div></div></div></div></div></div>";\
+    "OA_Modified_Date" = "2016-07-28 15:10:41";\
+    "OA_Since_Date" = "";\
+    "OA_Status_Archive" = "";\
+    "OA_Status_Display" = "Open Archive";\
+    REFERENCES =     (\
+                \{\
+            "is_this_sub_section" = 1;\
+            "last_modified" = "2016-07-28 15:13:36";\
+            "reference_id" = 545316;\
+            "section_id" = "lv_0001";\
+            "section_title" = "Main Text";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:36";\
+            "reference_id" = 545317;\
+            "section_id" = "lv_0002";\
+            "section_title" = Introduction;\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:36";\
+            "reference_id" = 545318;\
+            "section_id" = "lv_0003";\
+            "section_title" = "Hallmark Capabilities\\U2014Conceptual Progress";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:36";\
+            "reference_id" = 545319;\
+            "section_id" = "lv_0004";\
+            "section_title" = "Sustaining Proliferative Signaling";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:36";\
+            "reference_id" = 545320;\
+            "section_id" = "lv_0005";\
+            "section_title" = "Somatic Mutations Activate Additional Downstream Pathways";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:36";\
+            "reference_id" = 545321;\
+            "section_id" = "lv_0006";\
+            "section_title" = "Disruptions of Negative-Feedback Mechanisms that Attenuate Proliferative Signaling";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:36";\
+            "reference_id" = 545322;\
+            "section_id" = "lv_0007";\
+            "section_title" = "Excessive Proliferative Signaling Can Trigger Cell Senescence";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:36";\
+            "reference_id" = 545323;\
+            "section_id" = "lv_0008";\
+            "section_title" = "Evading Growth Suppressors";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:36";\
+            "reference_id" = 545324;\
+            "section_id" = "lv_0009";\
+            "section_title" = "Mechanisms of Contact Inhibition and Its Evasion";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:36";\
+            "reference_id" = 545325;\
+            "section_id" = "lv_0010";\
+            "section_title" = "Corruption of the TGF-\\U03b2 Pathway Promotes Malignancy";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:36";\
+            "reference_id" = 545326;\
+            "section_id" = "lv_0011";\
+            "section_title" = "Resisting Cell Death";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:36";\
+            "reference_id" = 545327;\
+            "section_id" = "lv_0012";\
+            "section_title" = "Autophagy Mediates Both Tumor Cell Survival and Death";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:36";\
+            "reference_id" = 545328;\
+            "section_id" = "lv_0013";\
+            "section_title" = "Necrosis Has Proinflammatory and Tumor-Promoting Potential";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:36";\
+            "reference_id" = 545329;\
+            "section_id" = "lv_0014";\
+            "section_title" = "Enabling Replicative Immortality";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:36";\
+            "reference_id" = 545330;\
+            "section_id" = "lv_0015";\
+            "section_title" = "Reassessing Replicative Senescence";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:36";\
+            "reference_id" = 545331;\
+            "section_id" = "lv_0016";\
+            "section_title" = "Delayed Activation of Telomerase May Both Limit and Foster Neoplastic Progression";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:36";\
+            "reference_id" = 545332;\
+            "section_id" = "lv_0017";\
+            "section_title" = "New Functions of Telomerase";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:36";\
+            "reference_id" = 545333;\
+            "section_id" = "lv_0018";\
+            "section_title" = "Inducing Angiogenesis";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:36";\
+            "reference_id" = 545334;\
+            "section_id" = "lv_0019";\
+            "section_title" = "Gradations of the Angiogenic Switch";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:36";\
+            "reference_id" = 545335;\
+            "section_id" = "lv_0020";\
+            "section_title" = "Endogenous Angiogenesis Inhibitors Present Natural Barriers to Tumor Angiogenesis";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:36";\
+            "reference_id" = 545336;\
+            "section_id" = "lv_0021";\
+            "section_title" = "Pericytes Are Important Components of the Tumor Neovasculature";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:36";\
+            "reference_id" = 545337;\
+            "section_id" = "lv_0022";\
+            "section_title" = "A Variety of Bone Marrow-Derived Cells Contribute to Tumor Angiogenesis";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:36";\
+            "reference_id" = 545338;\
+            "section_id" = "lv_0023";\
+            "section_title" = "Activating Invasion and Metastasis";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:36";\
+            "reference_id" = 545339;\
+            "section_id" = "lv_0024";\
+            "section_title" = "The EMT Program Broadly Regulates Invasion and Metastasis";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:36";\
+            "reference_id" = 545340;\
+            "section_id" = "lv_0025";\
+            "section_title" = "Heterotypic Contributions of Stromal Cells to Invasion and Metastasis";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:36";\
+            "reference_id" = 545341;\
+            "section_id" = "lv_0026";\
+            "section_title" = "Plasticity in the Invasive Growth Program";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:36";\
+            "reference_id" = 545342;\
+            "section_id" = "lv_0027";\
+            "section_title" = "Distinct Forms of Invasion May Underlie Different Cancer Types";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:36";\
+            "reference_id" = 545343;\
+            "section_id" = "lv_0028";\
+            "section_title" = "The Daunting Complexity of Metastatic Colonization";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:36";\
+            "reference_id" = 545344;\
+            "section_id" = "lv_0029";\
+            "section_title" = "Programming of Hallmark Capabilities by Intracellular Circuitry";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:36";\
+            "reference_id" = 545345;\
+            "section_id" = "lv_0030";\
+            "section_title" = "Enabling Characteristics and Emerging Hallmarks";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:36";\
+            "reference_id" = 545346;\
+            "section_id" = "lv_0031";\
+            "section_title" = "An Enabling Characteristic: Genome Instability and Mutation";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:36";\
+            "reference_id" = 545347;\
+            "section_id" = "lv_0032";\
+            "section_title" = "An Enabling Characteristic: Tumor-Promoting Inflammation";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:36";\
+            "reference_id" = 545348;\
+            "section_id" = "lv_0033";\
+            "section_title" = "An Emerging Hallmark: Reprogramming Energy Metabolism";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:36";\
+            "reference_id" = 545349;\
+            "section_id" = "lv_0034";\
+            "section_title" = "An Emerging Hallmark: Evading Immune Destruction";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:36";\
+            "reference_id" = 545350;\
+            "section_id" = "lv_0035";\
+            "section_title" = "The Tumor Microenvironment";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:36";\
+            "reference_id" = 545351;\
+            "section_id" = "lv_0036";\
+            "section_title" = "Cancer Cells and Cancer Stem Cells";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:36";\
+            "reference_id" = 545352;\
+            "section_id" = "lv_0037";\
+            "section_title" = "Endothelial Cells";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:36";\
+            "reference_id" = 545353;\
+            "section_id" = "lv_0038";\
+            "section_title" = Pericytes;\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:36";\
+            "reference_id" = 545354;\
+            "section_id" = "lv_0039";\
+            "section_title" = "Immune Inflammatory Cells";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:36";\
+            "reference_id" = 545355;\
+            "section_id" = "lv_0040";\
+            "section_title" = "Cancer-Associated Fibroblasts";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:36";\
+            "reference_id" = 545356;\
+            "section_id" = "lv_0041";\
+            "section_title" = "Stem and Progenitor Cells of the Tumor Stroma";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:36";\
+            "reference_id" = 545357;\
+            "section_id" = "lv_0042";\
+            "section_title" = "Heterotypic Signaling Orchestrates the Cells of the Tumor Microenvironment";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:36";\
+            "reference_id" = 545358;\
+            "section_id" = "lv_0043";\
+            "section_title" = "Therapeutic Targeting";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:36";\
+            "reference_id" = 545359;\
+            "section_id" = "lv_0044";\
+            "section_title" = "Conclusion and Future Vision";\
+        \},\
+                \{\
+            "is_this_sub_section" = 1;\
+            "last_modified" = "2016-07-28 15:13:36";\
+            "reference_id" = 545360;\
+            "section_id" = "lv_0045";\
+            "section_title" = Acknowledgments;\
+        \},\
+                \{\
+            "is_this_sub_section" = 1;\
+            "last_modified" = "2016-07-28 15:13:36";\
+            "reference_id" = 545361;\
+            "section_id" = "lv_0046";\
+            "section_title" = References;\
+        \}\
+    );\
+    Sequence = 8;\
+    Video = "<null>";\
+    abstract = "";\
+    "article_id" = 3639;\
+    "article_info_id" = S0092867411001279;\
+    "article_sub_type" = "";\
+    "article_sub_type_2" = "";\
+    "article_sub_type_3" = "";\
+    "article_sub_type_4" = "";\
+    "article_title" = "Hallmarks of Cancer: The Next Generation";\
+    "article_type" = Review;\
+    authors = "Douglas Hanahan, Robert\\U00a0A. Weinberg";\
+    "citation_text" = "<html><link rel=\\"stylesheet\\" href=\\"style.css\\" type=\\"text/css\\"></head><body><div class=\\"citation_content\\"><div class=\\"citation_heading\\">Article Title</div><hr class=\\"line_break\\">Hallmarks of Cancer: The Next Generation<div class=\\"citation_heading\\">Authors</div><hr class=\\"line_break\\">Douglas Hanahan, Robert\\U00a0A. Weinberg<div class=\\"citation_heading\\">Source</div><hr class=\\"line_break\\">Cell - Mar 04, 2011<br>144 | 5 | Pages 646-674<br>DOI: 10.1016/j.cell.2011.02.013</div></body></html>";\
+    copyright = "\\U00a9 2011 Elsevier Inc.";\
+    "date_of_release" = "2011-03-04";\
+    "doctopic_role" = "";\
+    "filesize_abs_suppl" = 0;\
+    "filesize_abstract" = 5079;\
+    "filesize_fulltext" = 4038868;\
+    "filesize_pdf" = 2173792;\
+    "filesize_suppl" = 6460651;\
+    "has_abstract_image" = 0;\
+    "has_audio" = 0;\
+    "has_image" = 1;\
+    "has_others" = 1;\
+    "has_video" = 0;\
+    "html_file_name" = "main.html";\
+    isArticleInPress = 0;\
+    isTopArticle = 1;\
+    "is_abs_supplement" = 0;\
+    "is_abstract" = 1;\
+    "is_cme" = 0;\
+    "is_supplement" = 1;\
+    "issue_id" = 142;\
+    keywords = "";\
+    "lancet_article_color" = "";\
+    "lancet_article_colorname" = "";\
+    "lancet_article_type" = "";\
+    "lancet_group_sequence" = 0;\
+    "last_modify" = "2016-07-28 11:13:27";\
+    "page_range" = "646-674";\
+    "pdf_file_name" = "main.pdf";\
+    v40 = 0;\
+    version = " ";\
+\},\
+\{\
+    "AIP_Identifier" = "<null>";\
+    "ARTICLE_MEDIAS" =     (\
+                \{\
+            Sequence = 1;\
+            deleted = 0;\
+            "is_fulltext_asset" = 1;\
+            "media_caption" = "";\
+            "media_file_duration" = "<null>";\
+            "media_file_name" = "mmc1.xls";\
+            "media_file_size" = 64000;\
+            "media_text" = "Table S1. Primer Sequences and Locus Designations for SPI-2 and Control Genes, Related to Figure\\U00a05";\
+            "media_thumb_image_name" = "";\
+            "media_type" = Spreadsheet;\
+            shareable = 1;\
+        \},\
+                \{\
+            Sequence = 2;\
+            deleted = 0;\
+            "is_fulltext_asset" = 1;\
+            "media_caption" = "";\
+            "media_file_duration" = "<null>";\
+            "media_file_name" = "mmc3.pdf";\
+            "media_file_size" = 2571258;\
+            "media_text" = "Document S1. Article Plus Supplemental Information";\
+            "media_thumb_image_name" = "";\
+            "media_type" = PDF;\
+            shareable = 1;\
+        \},\
+                \{\
+            Sequence = 3;\
+            deleted = 0;\
+            "is_fulltext_asset" = 0;\
+            "media_caption" = "";\
+            "media_file_duration" = "04:08";\
+            "media_file_name" = "mmc2.mp4";\
+            "media_file_size" = 11718897;\
+            "media_text" = "";\
+            "media_thumb_image_name" = "";\
+            "media_type" = Video;\
+            shareable = 1;\
+        \},\
+                \{\
+            Sequence = 1;\
+            deleted = 0;\
+            "is_fulltext_asset" = 0;\
+            "media_caption" = "<figcaption class=\\"caption\\">   </figcaption>";\
+            "media_file_duration" = "<null>";\
+            "media_file_name" = "fx1.jpg";\
+            "media_file_size" = 0;\
+            "media_text" = "";\
+            "media_thumb_image_name" = "fx1.jpg";\
+            "media_type" = Image;\
+            shareable = 1;\
+        \},\
+                \{\
+            Sequence = 2;\
+            deleted = 0;\
+            "is_fulltext_asset" = 1;\
+            "media_caption" = "<figcaption class=\\"caption\\"><strong>Figure\\U00a01</strong>   <span class=\\"caption\\">Multiple TLRs Recognize Products of <em>S. typhimurium</em><br/></span><span class=\\"caption\\">(A) HEK293 cells expressing the indicated TLRs or TLR accessory proteins together with an NF-\\U03baB luciferase reporter were treated with heat-killed wild-type LT2 <em>S. typhimurium</em> (<em>S.t.</em>), flagellin-deficient LT2 (<em>S.t.</em>\\U0394<em>fljB/fliC</em>), or genomic DNA isolated from flagellin-deficient LT2. Luciferase activity was measured after 8\\U00a0hr. Relative moi range: 100 to 3.125, DNA concentration: 375\\U00a0ng/ml to 12.5\\U00a0ng/ml. Data are representative of two independent experiments and shown as mean \\U00b1 standard error of the mean (SEM). LPS, lipopolysaccharide; Fla, flagellin; BLP, bacterial lipopeptide.<br/></span><span class=\\"caption\\">(B) BMMs differentiated from the indicated mice were treated overnight with 100\\U00a0U/ml recombinant IFN-\\U03b3 and infected the next morning with wild-type <em>S.\\U00a0typhimurium</em> (SL1344) at the indicated moi. Nitrite production was measured 36\\U00a0hr post-infection by Griess assay. Data are representative of three independent experiments and presented as mean \\U00b1 standard deviation (SD).<br/></span><span class=\\"caption\\">(C) BMMs were infected as in (B) at an moi of 5 for 8\\U00a0hr, followed by intracellular cytokine staining for TNF. Percent TNF-positive cells are indicated in each panel. Data are representative of three independent experiments.<br/></span><span class=\\"caption\\">(D) BMMs pretreated for 2\\U00a0hr with bafilomycinA1 or DMSO vehicle were infected with <em>S. typhimurium</em> (SL1344) at an moi of 5 for 6\\U00a0hr. Cells were processed and stained for intracellular cytokine staining as in (C).<br/></span></figcaption>";\
+            "media_file_duration" = "<null>";\
+            "media_file_name" = "gr1.jpg";\
+            "media_file_size" = 0;\
+            "media_text" = "";\
+            "media_thumb_image_name" = "gr1.jpg";\
+            "media_type" = Image;\
+            shareable = 1;\
+        \},\
+                \{\
+            Sequence = 3;\
+            deleted = 0;\
+            "is_fulltext_asset" = 1;\
+            "media_caption" = "<figcaption class=\\"caption\\"><strong>Figure\\U00a0S1</strong>   <span class=\\"caption\\">BMMs of All Genotypes Respond Equally to a TLR7 Agonist, Related to <a href=\\"image/gr1_lrg.jpg\\" name=\\"back-fig1\\" class=\\"ja50-ce-cross-ref\\">Figure\\U00a01</a><br/></span><span class=\\"caption\\">BMMs from the indicated genotypes were stimulated with 100\\U00a0ng/ml R848 for 8\\U00a0hr, followed by intracellular cytokine staining for TNF. Percent TNF-positive cells are indicated in each panel. Data are representative of three independent experiments.<br/></span></figcaption>";\
+            "media_file_duration" = "<null>";\
+            "media_file_name" = "figs1.jpg";\
+            "media_file_size" = 0;\
+            "media_text" = "";\
+            "media_thumb_image_name" = "figs1.jpg";\
+            "media_type" = Image;\
+            shareable = 1;\
+        \},\
+                \{\
+            Sequence = 4;\
+            deleted = 0;\
+            "is_fulltext_asset" = 1;\
+            "media_caption" = "<figcaption class=\\"caption\\"><strong>Figure\\U00a02</strong>   <span class=\\"caption\\">TLR2\\U00d74\\U00d79-KO Mice Are Less Susceptible to <em>S. typhimurium</em> than TLR2\\U00d74-KO Mice<br/></span><span class=\\"caption\\">(A) Survival plots of mice orally inoculated with 1.6\\U00a0\\U00d7 10<sup>8</sup> CFU <em>S. typhimurium</em> (SL1344) are shown. <sup>\\U2217</sup>p\\U00a0&lt; 0.005 by log-rank curve comparison test. Data are representative of at least two independent experiments.<br/></span><span class=\\"caption\\">(B) Groups of 8- to 10-week-old mice were orally inoculated with 1\\U00a0\\U00d7 10<sup>9</sup> CFU <em>S. typhimurium</em> (SL1344). Four days post-infection organs were harvested and homogenized for colony enumeration. Data are representative of at least three independent experiments.<br/></span><span class=\\"caption\\">(C) Groups of mice of the indicated genotype were orally inoculated with 2\\U00a0\\U00d7 10<sup>8</sup><em>Y. enterocolitica</em> and CFU were measured in the indicated organs 3\\U00a0days post-infection. Data presented are the combined results from two independent experiments.<br/></span><span class=\\"caption\\">For (B) and (C), bars represent mean CFU of all mice, with data significance determined by Mann-Whitney U test. Open circles indicate mice for which no colonies were detected. MLN, mesenteric lymph node. See also <a href=\\"image/figs2_lrg.jpg\\" name=\\"back-figs2\\" class=\\"ja50-ce-cross-ref\\">Figure\\U00a0S2</a>.<br/></span></figcaption>";\
+            "media_file_duration" = "<null>";\
+            "media_file_name" = "gr2.jpg";\
+            "media_file_size" = 0;\
+            "media_text" = "";\
+            "media_thumb_image_name" = "gr2.jpg";\
+            "media_type" = Image;\
+            shareable = 1;\
+        \},\
+                \{\
+            Sequence = 5;\
+            deleted = 0;\
+            "is_fulltext_asset" = 1;\
+            "media_caption" = "<figcaption class=\\"caption\\"><strong>Figure\\U00a0S2</strong>   <span class=\\"caption\\">Relative Susceptibilities of TLR- or TLR-Adaptor-Deficient Mice to <em>S. typhimurium</em> Infection, Related to <a href=\\"image/gr2_lrg.jpg\\" name=\\"back-fig2\\" class=\\"ja50-ce-cross-ref\\">Figure\\U00a02</a><br/></span><span class=\\"caption\\">Survival plots of mice orally inoculated with 1.6 x 10<sup>8</sup> CFU <em>S. typhimurium</em> (SL1344) are shown.<br/></span></figcaption>";\
+            "media_file_duration" = "<null>";\
+            "media_file_name" = "figs2.jpg";\
+            "media_file_size" = 0;\
+            "media_text" = "";\
+            "media_thumb_image_name" = "figs2.jpg";\
+            "media_type" = Image;\
+            shareable = 1;\
+        \},\
+                \{\
+            Sequence = 6;\
+            deleted = 0;\
+            "is_fulltext_asset" = 1;\
+            "media_caption" = "<figcaption class=\\"caption\\"><strong>Figure\\U00a03</strong>   <span class=\\"caption\\"><em>S. typhimurium</em> Is Unable to Replicate in TLR2\\U00d74\\U00d79-KO and MyD88\\U00d7TRIF-KO BMMs<br/></span><span class=\\"caption\\">(A) BMMs derived from mice of the indicated genotypes were infected with <em>S. typhimurium</em> (SL1344) at an moi of 1, and intracellular CFU were measured by a gentamicin protection assay at the indicated time points. Data are presented as the average of three independent experiments \\U00b1 SEM. <sup>\\U2217</sup>p\\U00a0&lt; 0.05 by student''s t\\U00a0test comparing TLR2\\U00d74-KO to MyD88\\U00d7TRIF-KO and TLR2\\U00d74\\U00d79-KO.<br/></span><span class=\\"caption\\">(B) BMMs infected as described in (A) were fixed and permeablized at the indicated times post-infection followed by staining with anti-<em>Salmonella</em> LPS antibody (green) and wheat germ agglutinin (red).<br/></span><span class=\\"caption\\">(C) Intracellular bacteria per cell were counted in random fields at the 2 and 24\\U00a0hr time points from Z-stacked images as shown in (B). Data are representative of two independent experiments, p value determined by student''s t test (<sup>\\U2217</sup>p\\U00a0&lt; 0.05<em>)</em>.<br/></span><span class=\\"caption\\">(D) BMMs of the indicated genotypes were infected with <em>S. typhimurium</em> (SL1344) at an moi of 5. Eight hours post-infection, cells were harvested and stained with Annexin V. Data are representative of two independent experiments.<br/></span><span class=\\"caption\\">(E) BMMs were infected at an moi of 10 with <em>S. typhimurium</em> (SL1344), and release of lactate dehydrogenase (LDH) was measured in supernatants at the indicated time points. Data are presented as mean \\U00b1 SD and are representative of at least two independent experiments; p value determined by student''s t test (<sup>\\U2217</sup>p\\U00a0&lt; 0.05<em>)</em> comparing wild-type to all other genotypes.<br/></span><span class=\\"caption\\">See also <a href=\\"image/figs3_lrg.jpg\\" name=\\"back-figs3\\" class=\\"ja50-ce-cross-ref\\">Figure\\U00a0S3</a>.<br/></span></figcaption>";\
+            "media_file_duration" = "<null>";\
+            "media_file_name" = "gr3.jpg";\
+            "media_file_size" = 0;\
+            "media_text" = "";\
+            "media_thumb_image_name" = "gr3.jpg";\
+            "media_type" = Image;\
+            shareable = 1;\
+        \},\
+                \{\
+            Sequence = 7;\
+            deleted = 0;\
+            "is_fulltext_asset" = 1;\
+            "media_caption" = "<figcaption class=\\"caption\\"><strong>Figure\\U00a0S3</strong>   <span class=\\"caption\\">Other Intracellular Pathogens Can Replicate in TLR2\\U00d74\\U00d79-KO and MyD88\\U00d7Trif-KO BMMs, Related to <a href=\\"image/gr3_lrg.jpg\\" name=\\"back-fig3\\" class=\\"ja50-ce-cross-ref\\">Figure\\U00a03</a><br/></span><span class=\\"caption\\">(A) <em>Listeria monocytogenes</em> replicates in the absence of TLR signaling. BMMs from the indicated genotypes were infected at an moi of 0.5 and monitored for intracellular replication by gentamicin intracellular replication assay.<br/></span><span class=\\"caption\\">(B) BMMs deficient for TLR signaling support growth of <em>Legionella pneumophila</em>. BMMs from the indicated genotypes were infected at an moi of 0.01 with a flagellin-deficient (\\U0394<em>fla</em>) <em>Legionella pneumophila</em> strain expressing the lux operon. Intracellular growth was monitored by increase in luminescence at varying timepoints post-infection.<br/></span><span class=\\"caption\\">(C) Reliance on TLR signaling for intracellular growth requires functional Nramp1. MyD88\\U00d7TRIF-KO BMMs with a non-functional copy of the <em>nramp1</em> allele (on the C57Bl/6 background) were infected with <em>S. typhimurium</em> (SL1344) at an moi of 1. Intracellular growth was monitored by gentamicin intracellular replication assay.<br/></span><span class=\\"caption\\">(D) Intracellular growth of <em>S. typhimurium</em> (12023) in BMMs of the indicated genotypes.<br/></span><span class=\\"caption\\">All data presented represent at least two independent experiments \\U00b1 SEM. <sup>\\U2217</sup>p\\U00a0&lt; 0.05 by student''s t test.<br/></span></figcaption>";\
+            "media_file_duration" = "<null>";\
+            "media_file_name" = "figs3.jpg";\
+            "media_file_size" = 0;\
+            "media_text" = "";\
+            "media_thumb_image_name" = "figs3.jpg";\
+            "media_type" = Image;\
+            shareable = 1;\
+        \},\
+                \{\
+            Sequence = 8;\
+            deleted = 0;\
+            "is_fulltext_asset" = 1;\
+            "media_caption" = "<figcaption class=\\"caption\\"><strong>Figure\\U00a04</strong>   <span class=\\"caption\\"><em>S. typhimurium</em> Fails to Form an SCV in TLR2\\U00d74\\U00d79-KO and MyD88\\U00d7TRIF-KO BMMs<br/></span><span class=\\"caption\\">TLR2\\U00d74-KO, TLR2\\U00d74\\U00d79-KO, or MyD88\\U00d7TRIF-KO BMMs were infected at an moi of 10 with <em>S. typhimurium</em> (SL1344), and cells were fixed and processed for electron microscopy at 2\\U00a0hr (A), 8\\U00a0hr (B), and 22\\U00a0hr (C) post-infection. Bacteria in intact vacuoles are shown with filled black arrowheads, cytosolic bacteria with filled white arrowheads, and bacteria that are degraded or have fused with lytic compartments are indicated with open black arrowheads. Micron bars are in the lower left corner of each panel. Three representative images are shown from different sections and independent infections.<br/></span></figcaption>";\
+            "media_file_duration" = "<null>";\
+            "media_file_name" = "gr4.jpg";\
+            "media_file_size" = 0;\
+            "media_text" = "";\
+            "media_thumb_image_name" = "gr4.jpg";\
+            "media_type" = Image;\
+            shareable = 1;\
+        \},\
+                \{\
+            Sequence = 9;\
+            deleted = 0;\
+            "is_fulltext_asset" = 1;\
+            "media_caption" = "<figcaption class=\\"caption\\"><strong>Figure\\U00a05</strong>   <span class=\\"caption\\"><em>S. typhimurium</em> Fails to Upregulate and Secrete SPI-2 Effectors in TLR2\\U00d74\\U00d79-KO and MyD88\\U00d7TRIF-KO BMMs<br/></span><span class=\\"caption\\">(A) Schematic of quantitative expression analyses for <em>S. typhimurium</em> genes. Total RNA was isolated from infected BMMs of the indicated genotypes followed by processing for quantitative RT-PCR (see <a href=\\"#sec4\\" name=\\"back-sec4\\" class=\\"ja50-ce-cross-ref\\">Experimental Procedures</a>).<br/></span><span class=\\"caption\\">(B) Heat map of normalized expression data for SPI-2 genes in bacteria within BMMs of the indicated genotypes. For each BMM genotype, data are shown relative to the 2\\U00a0hr time point. The gene designation is to the right of each row.<br/></span><span class=\\"caption\\">(C) Relative induction of individual SPI-2 genes in bacteria isolated from BMMs of the indicated genotypes. Data are normalized to the average expression values of a set of control genes. The data presented in (B) and (C) represent the mean of two independent experiments.<br/></span><span class=\\"caption\\">(D) BMMs of the indicated genotypes were infected with an <em>S. typhimurium</em> strain (12032) expressing an HA-tagged allele of <em>pipB2</em> expressed from the endogenous <em>pipB2</em> locus. The presence of PipB2 in BMM lysates was detected by immunoprecipitation and immunoblot with anti-HA antibodies. Controls for numbers of BMM (tubulin) and bacteria (DnaK) are also shown. Data are representative of three independent experiments.<br/></span></figcaption>";\
+            "media_file_duration" = "<null>";\
+            "media_file_name" = "gr5.jpg";\
+            "media_file_size" = 0;\
+            "media_text" = "";\
+            "media_thumb_image_name" = "gr5.jpg";\
+            "media_type" = Image;\
+            shareable = 1;\
+        \},\
+                \{\
+            Sequence = 10;\
+            deleted = 0;\
+            "is_fulltext_asset" = 1;\
+            "media_caption" = "<figcaption class=\\"caption\\"><strong>Figure\\U00a06</strong>   <span class=\\"caption\\">TLR Signaling Is Necessary for SPI-2 Induction and Intracellular Growth<br/></span><span class=\\"caption\\">(A) BMMs of the indicated genotypes were infected (moi of 1) with SPI-2 mutant <em>S. typhimurium</em> (SL1344 <em>ssaV::Kan</em>). Intracellular CFU were measured by a gentamicin protection assay.<br/></span><span class=\\"caption\\">(B) TLR2\\U00d74-KO BMMs were infected as in (A) followed by fixation and processing for electron microscopy. Bacteria in intact vacuoles are indicated by filled black triangles, cytosolic bacteria by filled white triangles, and bacteria that are degraded or have fused with lytic compartments by open black triangles. Three representative images from different sections and from independent infections are shown.<br/></span><span class=\\"caption\\">(C) BMMs of the indicated genotypes were infected (moi of 1) with wild-type <em>S. typhimurium</em> or a strain with constitutive SPI-2 expression (SL1344 <em>hha::Cm)</em>. Intracellular CFU were measured via a gentamicin protection assay at the indicated time points post-infection. Data are presented as mean fold over the first time point (to control for minor inoculum differences between strains) \\U00b1 SEM and are representative of three independent experiments. <sup>\\U2217</sup>p\\U00a0&lt; 0.05 by student''s t test comparing TLR2\\U00d74-KO to MyD88\\U00d7TRIF-KO and TLR2\\U00d74\\U00d79-KO at the indicated time point.<br/></span></figcaption>";\
+            "media_file_duration" = "<null>";\
+            "media_file_name" = "gr6.jpg";\
+            "media_file_size" = 0;\
+            "media_text" = "";\
+            "media_thumb_image_name" = "gr6.jpg";\
+            "media_type" = Image;\
+            shareable = 1;\
+        \},\
+                \{\
+            Sequence = 11;\
+            deleted = 0;\
+            "is_fulltext_asset" = 1;\
+            "media_caption" = "<figcaption class=\\"caption\\"><strong>Figure\\U00a07</strong>   <span class=\\"caption\\">TLR-Dependent Phagosomal Acidification Is Required for SPI-2 Expression<br/></span><span class=\\"caption\\">(A) BMMs pretreated with each of the indicated inhibitors were infected with an <em>S. typhimurium</em> strain (12032) expressing an HA-tagged allele of <em>pipB2</em>. PipB2 levels in BMM lysates were detected by immunoprecipitation and immunoblot with anti-HA antibodies at 2, 4, 6, and 8\\U00a0hr post-infection. Immunoblots for tubulin and DnaK serve as loading controls for BMMs and bacteria, respectively. Data are representative of two independent experiments for wild-type cells and three independent experiments for TLR2\\U00d74-KO BMMs.<br/></span><span class=\\"caption\\">(B) BMMs were infected with FITC-labeled <em>S. typhimurium</em> (SL1344), and the fluorescence intensities of individual bacteria excited at 490\\U00a0nm or 440\\U00a0nm were measured over time by live-cell imaging. The fluorescence intensity ratio (490/440) reflects the pH within the phagosome (see <a href=\\"#sec4\\" name=\\"back-sec4\\" class=\\"ja50-ce-cross-ref\\">Experimental Procedures</a>). The plots presented represent the mean pH calculated from at least 35 independent bacteria in multiple imaging fields. The right panel shows the percent of bacteria at or below pH 6 at 30\\U00a0min post-infection.<br/></span><span class=\\"caption\\">See <a href=\\"#sec4\\" name=\\"back-sec4\\" class=\\"ja50-ce-cross-ref\\">Experimental Procedures</a> and <a href=\\"image/figs4_lrg.jpg\\" name=\\"back-figs4\\" class=\\"ja50-ce-cross-ref\\">Figure\\U00a0S4</a>.<br/></span></figcaption>";\
+            "media_file_duration" = "<null>";\
+            "media_file_name" = "gr7.jpg";\
+            "media_file_size" = 0;\
+            "media_text" = "";\
+            "media_thumb_image_name" = "gr7.jpg";\
+            "media_type" = Image;\
+            shareable = 1;\
+        \},\
+                \{\
+            Sequence = 12;\
+            deleted = 0;\
+            "is_fulltext_asset" = 1;\
+            "media_caption" = "<figcaption class=\\"caption\\"><strong>Figure\\U00a0S4</strong>   <span class=\\"caption\\">Ratiometric Imaging to Calculate Phagosomal pH, Related to <a href=\\"image/gr7_lrg.jpg\\" name=\\"back-fig7\\" class=\\"ja50-ce-cross-ref\\">Figure\\U00a07</a><br/></span><span class=\\"caption\\">Ratio measurements of individual bacteria within phagosomes in wild-type, TLR2\\U00d74-KO, TLR2\\U00d74\\U00d79-KO, or MyD88\\U00d7TRIF-KO BMMs. Each thin line represents the 490/440 ratio of an individual bacterium over time. The solid black line represents the mean ratio as shown in <a href=\\"image/gr7_lrg.jpg\\" name=\\"back-fig7\\" class=\\"ja50-ce-cross-ref\\">Figure\\U00a07</a>B with the 95% confidence interval indicated by gray bars. The dashed line represents the standard curve determined experimentally for each genotype (see <a href=\\"#sec4\\" name=\\"back-sec4\\" class=\\"ja50-ce-cross-ref\\">Experimental Procedures</a>).<br/></span></figcaption>";\
+            "media_file_duration" = "<null>";\
+            "media_file_name" = "figs4.jpg";\
+            "media_file_size" = 0;\
+            "media_text" = "";\
+            "media_thumb_image_name" = "figs4.jpg";\
+            "media_type" = Image;\
+            shareable = 1;\
+        \}\
+    );\
+    AUTHORS =     (\
+                \{\
+            "author_description" = "Division of Immunology & Pathogenesis, Department of Molecular and Cell Biology, University of California, Berkeley, Berkeley, CA 94720-3200, USA";\
+            "author_id" = 196009;\
+            "author_name" = "Nicholas Arpaia";\
+            "last_modified" = "2016-07-28 15:13:36";\
+        \},\
+                \{\
+            "author_description" = "Division of Immunology & Pathogenesis, Department of Molecular and Cell Biology, University of California, Berkeley, Berkeley, CA 94720-3200, USA";\
+            "author_id" = 196010;\
+            "author_name" = "Jernej Godec";\
+            "last_modified" = "2016-07-28 15:13:36";\
+        \},\
+                \{\
+            "author_description" = "Division of Immunology & Pathogenesis, Department of Molecular and Cell Biology, University of California, Berkeley, Berkeley, CA 94720-3200, USA";\
+            "author_id" = 196011;\
+            "author_name" = "Laura Lau";\
+            "last_modified" = "2016-07-28 15:13:36";\
+        \},\
+                \{\
+            "author_description" = "Division of Immunology & Pathogenesis, Department of Molecular and Cell Biology, University of California, Berkeley, Berkeley, CA 94720-3200, USA";\
+            "author_id" = 196012;\
+            "author_name" = "Kelsey E. Sivick";\
+            "last_modified" = "2016-07-28 15:13:36";\
+        \},\
+                \{\
+            "author_description" = "Department of Microbiology and Immunology, Stanford University, Stanford, CA 94305, USA";\
+            "author_id" = 196013;\
+            "author_name" = "Laura M. McLaughlin";\
+            "last_modified" = "2016-07-28 15:13:36";\
+        \},\
+                \{\
+            "author_description" = "Pathogen Functional Genomics Resource Center, J. Craig Venter Institute, Rockville, MD 20850, USA";\
+            "author_id" = 196014;\
+            "author_name" = "Marcus B. Jones";\
+            "last_modified" = "2016-07-28 15:13:36";\
+        \},\
+                \{\
+            "author_description" = "Pathogen Functional Genomics Resource Center, J. Craig Venter Institute, Rockville, MD 20850, USA";\
+            "author_id" = 196015;\
+            "author_name" = "Tatiana Dracheva";\
+            "last_modified" = "2016-07-28 15:13:36";\
+        \},\
+                \{\
+            "author_description" = "Pathogen Functional Genomics Resource Center, J. Craig Venter Institute, Rockville, MD 20850, USA";\
+            "author_id" = 196016;\
+            "author_name" = "Scott N. Peterson";\
+            "last_modified" = "2016-07-28 15:13:36";\
+        \},\
+                \{\
+            "author_description" = "Department of Microbiology and Immunology, Stanford University, Stanford, CA 94305, USA";\
+            "author_id" = 196017;\
+            "author_name" = "Denise M. Monack";\
+            "last_modified" = "2016-07-28 15:13:36";\
+        \},\
+                \{\
+            "author_description" = "Division of Immunology & Pathogenesis, Department of Molecular and Cell Biology, University of California, Berkeley, Berkeley, CA 94720-3200, USA Corresponding author Email Address :barton@berkeley.edu";\
+            "author_id" = 196018;\
+            "author_name" = "Gregory M. Barton";\
+            "last_modified" = "2016-07-28 15:13:36";\
+        \}\
+    );\
+    DOI = "10.1016/j.cell.2011.01.031";\
+    "DOI_Link" = "http://dx.doi.org/10.1016/j.cell.2011.01.031";\
+    "Issue_PII" = S0092867411X00053;\
+    "OA_Display_License" = "";\
+    "OA_Display_Sponsor_Name" = "";\
+    "OA_Identifier" = 7;\
+    "OA_Info_Html" = "<div class='cu_wrapper'> <div class='cus_container'><div class='pub_main'></div><div class='op_acc_head'><p class='op_acc_head'> <p class='perm open_acc'>Open Archive</p><p class='cc_licns mar_bot_0'>DOI: <a href='http://dx.doi.org/10.1016/j.cell.2011.01.031'>http://dx.doi.org/10.1016/j.cell.2011.01.031</a></p></p></div><div class='art_info_main'><div class='article_drop_menu_main'><div class='article_drop_menu'><p class='art_tog_menu'><a id='expand_collapse' href='UserInfo'><span class='accor_btn'>+</span>Article Info</a></p><div id='show_hide' class='article_drop_menu_inner'><div class='permited_sec'><p id='content_change' class='font_13'></p><p class='perm'>User License</p><p class='cc_licns'><a href='http://www.elsevier.com/open-access/userlicense/1.0/'>Elsevier User license</a> | <a href='/show/ELS-USER'>How you Can reuse</a></p></div><p class='foot'>\\U00a9 2011 Elsevier Inc.</p> </div></div></div></div></div></div>";\
+    "OA_Modified_Date" = "2016-07-28 15:10:55";\
+    "OA_Since_Date" = "";\
+    "OA_Status_Archive" = "";\
+    "OA_Status_Display" = "Open Archive";\
+    REFERENCES =     (\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:36";\
+            "reference_id" = 545362;\
+            "section_id" = "lv_0001";\
+            "section_title" = "Graphical Abstract";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:36";\
+            "reference_id" = 545363;\
+            "section_id" = "lv_0002";\
+            "section_title" = Highlights;\
+        \},\
+                \{\
+            "is_this_sub_section" = 1;\
+            "last_modified" = "2016-07-28 15:13:36";\
+            "reference_id" = 545364;\
+            "section_id" = "lv_0003";\
+            "section_title" = Summary;\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:36";\
+            "reference_id" = 545365;\
+            "section_id" = "lv_0004";\
+            "section_title" = PaperFlick;\
+        \},\
+                \{\
+            "is_this_sub_section" = 1;\
+            "last_modified" = "2016-07-28 15:13:36";\
+            "reference_id" = 545366;\
+            "section_id" = "lv_0005";\
+            "section_title" = Introduction;\
+        \},\
+                \{\
+            "is_this_sub_section" = 1;\
+            "last_modified" = "2016-07-28 15:13:36";\
+            "reference_id" = 545367;\
+            "section_id" = "lv_0006";\
+            "section_title" = Results;\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:36";\
+            "reference_id" = 545368;\
+            "section_id" = "lv_0007";\
+            "section_title" = "Multiple TLRs Are Involved in Recognition of S. typhimurium";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:36";\
+            "reference_id" = 545369;\
+            "section_id" = "lv_0008";\
+            "section_title" = "TLR Signaling Is Required for S. typhimurium Virulence";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:36";\
+            "reference_id" = 545370;\
+            "section_id" = "lv_0009";\
+            "section_title" = "TLR Signaling Is Required for Intracellular Growth of Bacteria";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:36";\
+            "reference_id" = 545371;\
+            "section_id" = "lv_0010";\
+            "section_title" = "TLR Signaling Is Required for Establishment of the SCV";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:36";\
+            "reference_id" = 545372;\
+            "section_id" = "lv_0011";\
+            "section_title" = "Induction of SPI-2 Genes by TLR Signaling";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:36";\
+            "reference_id" = 545373;\
+            "section_id" = "lv_0012";\
+            "section_title" = "SPI-2 Genes Are Required for Intracellular Growth";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:36";\
+            "reference_id" = 545374;\
+            "section_id" = "lv_0013";\
+            "section_title" = "Induction of SPI-2 Genes Requires TLR-Dependent Acidification of the SCV";\
+        \},\
+                \{\
+            "is_this_sub_section" = 1;\
+            "last_modified" = "2016-07-28 15:13:36";\
+            "reference_id" = 545375;\
+            "section_id" = "lv_0014";\
+            "section_title" = Discussion;\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:36";\
+            "reference_id" = 545376;\
+            "section_id" = "lv_0015";\
+            "section_title" = "Crosstalk between Nramp-1 and TLR Signaling";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:36";\
+            "reference_id" = 545377;\
+            "section_id" = "lv_0016";\
+            "section_title" = "TLR Signaling Alters the pH of the Salmonella-Containing Vacuole";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:36";\
+            "reference_id" = 545378;\
+            "section_id" = "lv_0017";\
+            "section_title" = "Innate Immune Signaling as an Environmental Cue for Virulence Gene Regulation";\
+        \},\
+                \{\
+            "is_this_sub_section" = 1;\
+            "last_modified" = "2016-07-28 15:13:36";\
+            "reference_id" = 545379;\
+            "section_id" = "lv_0018";\
+            "section_title" = "Experimental Procedures";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:36";\
+            "reference_id" = 545380;\
+            "section_id" = "lv_0019";\
+            "section_title" = "Cell Culture";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:36";\
+            "reference_id" = 545381;\
+            "section_id" = "lv_0020";\
+            "section_title" = "Bacterial Strains and Infections";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:36";\
+            "reference_id" = 545382;\
+            "section_id" = "lv_0021";\
+            "section_title" = "Measurement of Cell Death";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:36";\
+            "reference_id" = 545383;\
+            "section_id" = "lv_0022";\
+            "section_title" = "Measurement of BMM Activation";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:36";\
+            "reference_id" = 545384;\
+            "section_id" = "lv_0023";\
+            "section_title" = "S. typhimurium Effector Secretion";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:36";\
+            "reference_id" = 545385;\
+            "section_id" = "lv_0024";\
+            "section_title" = "Mice and In\\U00a0Vivo Infections";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:36";\
+            "reference_id" = 545386;\
+            "section_id" = "lv_0025";\
+            "section_title" = "Gene Expression Analyses";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:36";\
+            "reference_id" = 545387;\
+            "section_id" = "lv_0026";\
+            "section_title" = Microscopy;\
+        \},\
+                \{\
+            "is_this_sub_section" = 1;\
+            "last_modified" = "2016-07-28 15:13:36";\
+            "reference_id" = 545388;\
+            "section_id" = "lv_0027";\
+            "section_title" = "Extended Experimental Procedures";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:36";\
+            "reference_id" = 545389;\
+            "section_id" = "lv_0028";\
+            "section_title" = "Cell Culture";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:36";\
+            "reference_id" = 545390;\
+            "section_id" = "lv_0029";\
+            "section_title" = "Bacterial Strains and Infections";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:36";\
+            "reference_id" = 545391;\
+            "section_id" = "lv_0030";\
+            "section_title" = "Measurement of BMM Activation";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:36";\
+            "reference_id" = 545392;\
+            "section_id" = "lv_0031";\
+            "section_title" = "TLR Signaling in HEK293 Cells";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:36";\
+            "reference_id" = 545393;\
+            "section_id" = "lv_0032";\
+            "section_title" = "Sample Processing for Electron Microscopy";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:36";\
+            "reference_id" = 545394;\
+            "section_id" = "lv_0033";\
+            "section_title" = "Mouse Strains";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:36";\
+            "reference_id" = 545395;\
+            "section_id" = "lv_0034";\
+            "section_title" = "S. typhimurium Effector Secretion";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:36";\
+            "reference_id" = 545396;\
+            "section_id" = "lv_0035";\
+            "section_title" = "Gene Expression Analyses";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:36";\
+            "reference_id" = 545397;\
+            "section_id" = "lv_0036";\
+            "section_title" = "Immunofluorescence and Fluorescent Video Microscopy";\
+        \},\
+                \{\
+            "is_this_sub_section" = 1;\
+            "last_modified" = "2016-07-28 15:13:36";\
+            "reference_id" = 545398;\
+            "section_id" = "lv_0037";\
+            "section_title" = Acknowledgments;\
+        \},\
+                \{\
+            "is_this_sub_section" = 1;\
+            "last_modified" = "2016-07-28 15:13:36";\
+            "reference_id" = 545399;\
+            "section_id" = "lv_0038";\
+            "section_title" = References;\
+        \},\
+                \{\
+            "is_this_sub_section" = 1;\
+            "last_modified" = "2016-07-28 15:13:36";\
+            "reference_id" = 545400;\
+            "section_id" = "lv_0039";\
+            "section_title" = "Supplemental References";\
+        \}\
+    );\
+    Sequence = 9;\
+    Video = "<null>";\
+    abstract = "";\
+    "article_id" = 3640;\
+    "article_info_id" = S0092867411000705;\
+    "article_sub_type" = "";\
+    "article_sub_type_2" = "";\
+    "article_sub_type_3" = "";\
+    "article_sub_type_4" = "";\
+    "article_title" = "TLR Signaling Is Required for <em>Salmonella typhimurium</em> Virulence";\
+    "article_type" = Articles;\
+    authors = "Nicholas Arpaia, Jernej Godec, Laura Lau, Kelsey E. Sivick, Laura M. McLaughlin, Marcus B. Jones, Tatiana Dracheva, Scott N. Peterson, Denise M. Monack, Gregory M. Barton";\
+    "citation_text" = "<html><link rel=\\"stylesheet\\" href=\\"style.css\\" type=\\"text/css\\"></head><body><div class=\\"citation_content\\"><div class=\\"citation_heading\\">Article Title</div><hr class=\\"line_break\\">TLR Signaling Is Required for <em>Salmonella typhimurium</em> Virulence<div class=\\"citation_heading\\">Authors</div><hr class=\\"line_break\\">Nicholas Arpaia, Jernej Godec, Laura Lau, Kelsey E. Sivick, Laura M. McLaughlin, Marcus B. Jones, Tatiana Dracheva, Scott N. Peterson, Denise M. Monack, Gregory M. Barton<div class=\\"citation_heading\\">Source</div><hr class=\\"line_break\\">Cell - Mar 04, 2011<br>144 | 5 | Pages 675-688<br>DOI: 10.1016/j.cell.2011.01.031</div></body></html>";\
+    copyright = "\\U00a9 2011 Elsevier Inc.";\
+    "date_of_release" = "2011-03-04";\
+    "doctopic_role" = "";\
+    "filesize_abs_suppl" = 11718897;\
+    "filesize_abstract" = 335441;\
+    "filesize_fulltext" = 5995761;\
+    "filesize_pdf" = 2103035;\
+    "filesize_suppl" = 2635258;\
+    "has_abstract_image" = 1;\
+    "has_audio" = 0;\
+    "has_image" = 1;\
+    "has_others" = 1;\
+    "has_video" = 1;\
+    "html_file_name" = "main.html";\
+    isArticleInPress = 0;\
+    isTopArticle = 1;\
+    "is_abs_supplement" = 1;\
+    "is_abstract" = 1;\
+    "is_cme" = 0;\
+    "is_supplement" = 1;\
+    "issue_id" = 142;\
+    keywords = "";\
+    "lancet_article_color" = "";\
+    "lancet_article_colorname" = "";\
+    "lancet_article_type" = "";\
+    "lancet_group_sequence" = 0;\
+    "last_modify" = "2016-07-28 11:13:27";\
+    "page_range" = "675-688";\
+    "pdf_file_name" = "main.pdf";\
+    v40 = 0;\
+    version = " ";\
+\},\
+\{\
+    "AIP_Identifier" = "<null>";\
+    "ARTICLE_MEDIAS" =     (\
+                \{\
+            Sequence = 1;\
+            deleted = 0;\
+            "is_fulltext_asset" = 1;\
+            "media_caption" = "";\
+            "media_file_duration" = "<null>";\
+            "media_file_name" = "mmc1.pdf";\
+            "media_file_size" = 62198;\
+            "media_text" = "Document S1. Tables S1\\U2013S5";\
+            "media_thumb_image_name" = "";\
+            "media_type" = PDF;\
+            shareable = 1;\
+        \},\
+                \{\
+            Sequence = 2;\
+            deleted = 0;\
+            "is_fulltext_asset" = 1;\
+            "media_caption" = "";\
+            "media_file_duration" = "<null>";\
+            "media_file_name" = "mmc3.pdf";\
+            "media_file_size" = 4630396;\
+            "media_text" = "Document S2. Article Plus Supplemental Informaton";\
+            "media_thumb_image_name" = "";\
+            "media_type" = PDF;\
+            shareable = 1;\
+        \},\
+                \{\
+            Sequence = 3;\
+            deleted = 0;\
+            "is_fulltext_asset" = 0;\
+            "media_caption" = "";\
+            "media_file_duration" = "04:36";\
+            "media_file_name" = "mmc2.mp3";\
+            "media_file_size" = 4575044;\
+            "media_text" = "";\
+            "media_thumb_image_name" = "";\
+            "media_type" = Audio;\
+            shareable = 1;\
+        \},\
+                \{\
+            Sequence = 1;\
+            deleted = 0;\
+            "is_fulltext_asset" = 0;\
+            "media_caption" = "<figcaption class=\\"caption\\">   </figcaption>";\
+            "media_file_duration" = "<null>";\
+            "media_file_name" = "fx1.jpg";\
+            "media_file_size" = 0;\
+            "media_text" = "";\
+            "media_thumb_image_name" = "fx1.jpg";\
+            "media_type" = Image;\
+            shareable = 1;\
+        \},\
+                \{\
+            Sequence = 2;\
+            deleted = 0;\
+            "is_fulltext_asset" = 1;\
+            "media_caption" = "<figcaption class=\\"caption\\"><strong>Figure\\U00a01</strong>   <span class=\\"caption\\">Identification of a Parkin Interacting Substrate, PARIS<br/></span><span class=\\"caption\\">(A) Schematic representation of PARIS. The conserved Kruppel associated Box (KRAB) and Zinc Finger motifs and their location are indicated.<br/></span><span class=\\"caption\\">(B) Regional analysis and levels of PARIS protein expression via immunoblot in various brain regions. Data\\U00a0= mean \\U00b1 SEM, n\\U00a0= 3.<br/></span><span class=\\"caption\\">(C) Immunohistochemical distribution of PARIS in a sagittal and coronal sections of 6-week-old male C57BL mouse brain. Right upper panel shows an antigen preabsorption control. Ctx, cerebral cortex; Hip, hippocampus; CPu, caudate putamen; SNpr, SN pars reticulata; SNpc, SN pars compacta; Th, thalamus; Cb, cerebellum; (Cb); PC, Purkinje cells; ML, molecular cell layer; GL, granule cell layer; DG, dentate gyrus. Dashed (-) line outlines SN. High power view of SNpc (rectangles in third row) is shown in the third row middle and right panels and lower middle and right panel. Scale bars represent 200\\U00a0\\U03bcm unless indicated, n\\U00a0= 3.<br/></span><span class=\\"caption\\">(D) Confocal microscopy demonstrates that endogenous PARIS and parkin are colocalized mainly in the cytoplasm of rat cortical neurons. Top Panel, Parkin-red; PARIS-green. Inset \\U2014 high power view of an individual neuron. Bottom panel, Parkin-green; PARIS-red, Nucleus-DAPI-blue, merge-yellow, n\\U00a0= 4.<br/></span><span class=\\"caption\\">See also <a href=\\"image/figs1_lrg.jpg\\" name=\\"back-figs1\\" class=\\"ja50-ce-cross-ref\\">Figure\\U00a0S1</a>.<br/></span></figcaption>";\
+            "media_file_duration" = "<null>";\
+            "media_file_name" = "gr1.jpg";\
+            "media_file_size" = 0;\
+            "media_text" = "";\
+            "media_thumb_image_name" = "gr1.jpg";\
+            "media_type" = Image;\
+            shareable = 1;\
+        \},\
+                \{\
+            Sequence = 3;\
+            deleted = 0;\
+            "is_fulltext_asset" = 1;\
+            "media_caption" = "<figcaption class=\\"caption\\"><strong>Figure\\U00a0S1</strong>   <span class=\\"caption\\">Characterization of PARIS, Related to <a href=\\"image/gr1_lrg.jpg\\" name=\\"back-fig1\\" class=\\"ja50-ce-cross-ref\\">Figure\\U00a01</a><br/></span><span class=\\"caption\\">(A) Multiple sequence Alignment of human, mouse and rat PARIS reveals highly conserved amino acid sequence among the different species. The KRAB domain (blue bar) and zinc finger domains (black bars) are indicated.<br/></span><span class=\\"caption\\">(B) Northern blot analysis of <em>PARIS</em> gene expression in different tissues. Relative levels of PARIS normalized to <em>GAPDH</em> control is indicated in bottom panel.<br/></span><span class=\\"caption\\">(C) Regional analysis of PARIS protein expression in various mouse tissues. Relative levels of PARIS normalized to \\U03b2-actin control is indicated in bottom panel. Repeated three times with similar results.<br/></span><span class=\\"caption\\">(D) Representative confocal images with (a) anti-parkin antibody alone, (b) anti-PARIS antibody alone, or (c) anti-parkin along with anti-PARIS antibodies reveal that there is no channel crosstalk and that endogenous PARIS and parkin are colocalized mostly in the cytoplasm of SH-SY5Y dopaminergic-like cells. Parkin (green); PARIS (red); Nucleus (DAPI, blue), n\\U00a0= 4.<br/></span><span class=\\"caption\\">(E) Immunoblot analysis using a polyclonal PARIS antibody in SH-SY5Y cells transduced with lentiviral shRNA-dsRed or shRNA-PARIS. The polyclonal PARIS antibody used in these studies is specific for PARIS since it recognizes a single band on immunoblot from mouse brain (see Figure\\U00a01B). \\U03b2-actin was used as a loading control, n\\U00a0= 3.<br/></span></figcaption>";\
+            "media_file_duration" = "<null>";\
+            "media_file_name" = "figs1.jpg";\
+            "media_file_size" = 0;\
+            "media_text" = "";\
+            "media_thumb_image_name" = "figs1.jpg";\
+            "media_type" = Image;\
+            shareable = 1;\
+        \},\
+                \{\
+            Sequence = 4;\
+            deleted = 0;\
+            "is_fulltext_asset" = 1;\
+            "media_caption" = "<figcaption class=\\"caption\\"><strong>Figure\\U00a02</strong>   <span class=\\"caption\\">Parkin Interacts with PARIS<br/></span><span class=\\"caption\\">(A) Immunoprecipitated (IP) FLAG-PARIS interacts with MYC-Parkin, but not MYC-XIAP or the PARIS homolog, V5-ZNF398 (lane 6), n\\U00a0= 3.<br/></span><span class=\\"caption\\">(B) GST-pull down assay between parkin and PARIS indicates a robust interaction between parkin and PARIS, n\\U00a0= 4.<br/></span><span class=\\"caption\\">(C) Immunoprecipitated FLAG-PARIS interacts with WT Parkin and Parkin mutants (C431F, G430D, R275W, Q311X) in SH-SY5Y cells. Lower panel, relative binding, data\\U00a0= mean \\U00b1 SEM, n\\U00a0= 3, <sup>\\U2217</sup>p\\U00a0&lt; 0.05, Student''s t test.<br/></span><span class=\\"caption\\">(D) Immunoblot (IB) shows that Parkin and PARIS coimmunoprecipitate in human striatum, n\\U00a0= 3.<br/></span><span class=\\"caption\\">(E) Parkin and PARIS coimmunoprecipitate from WT mouse ventral midbrain, but not parkin KO ventral midbrain, n\\U00a0= 3.<br/></span><span class=\\"caption\\">See also <a href=\\"image/figs2_lrg.jpg\\" name=\\"back-figs2\\" class=\\"ja50-ce-cross-ref\\">Figure\\U00a0S2</a>.<br/></span></figcaption>";\
+            "media_file_duration" = "<null>";\
+            "media_file_name" = "gr2.jpg";\
+            "media_file_size" = 0;\
+            "media_text" = "";\
+            "media_thumb_image_name" = "gr2.jpg";\
+            "media_type" = Image;\
+            shareable = 1;\
+        \},\
+                \{\
+            Sequence = 5;\
+            deleted = 0;\
+            "is_fulltext_asset" = 1;\
+            "media_caption" = "<figcaption class=\\"caption\\"><strong>Figure\\U00a0S2</strong>   <span class=\\"caption\\">Protein Interaction Mapping between Parkin and PARIS, Related to <a href=\\"image/gr2_lrg.jpg\\" name=\\"back-fig2\\" class=\\"ja50-ce-cross-ref\\">Figure\\U00a02</a><br/></span><span class=\\"caption\\">(A) Coimmunoprecipitation between parkin and PARIS in mouse brain using antibodies to parkin, PARIS. Mouse IgG was used as a control.<br/></span><span class=\\"caption\\">(B) Full-length WT PARIS and the F2 fragment of PARIS interact with parkin.<br/></span><span class=\\"caption\\">(C) PARIS interacts with parkin''s RING1 and RING2 domains. Immunoprecipitated MYC-parkin deletions bind FLAG-PARIS except for the IBR domain (lane 8 on left bottom panel).<br/></span><span class=\\"caption\\">(D) Immunoprecipitated FLAG-PARIS interacts with WT and the C-terminal RING domains of parkin, but not the N-terminal UBL-SH domain (bottom right panel).<br/></span></figcaption>";\
+            "media_file_duration" = "<null>";\
+            "media_file_name" = "figs2.jpg";\
+            "media_file_size" = 0;\
+            "media_text" = "";\
+            "media_thumb_image_name" = "figs2.jpg";\
+            "media_type" = Image;\
+            shareable = 1;\
+        \},\
+                \{\
+            Sequence = 6;\
+            deleted = 0;\
+            "is_fulltext_asset" = 1;\
+            "media_caption" = "<figcaption class=\\"caption\\"><strong>Figure\\U00a03</strong>   <span class=\\"caption\\">Parkin Ubiquitinates and Regulates the Ubiquitin Proteasomal Degradation of PARIS<br/></span><span class=\\"caption\\">(A) WT MYC-Parkin ubiquitinates FLAG-PARIS (lane 3). Parkin mutants (C431F, G430D, Q311X) are unable to efficiently ubiquitinate FLAG-PARIS (lanes 4-7). Ubiquitination (Ub(n)) is indicated on right with brackets, n\\U00a0= 3.<br/></span><span class=\\"caption\\">(B) Endogenous ubiquitination of PARIS (lane 2) is enhanced with exogenous WT Parkin (lane 3) and it is eliminated with shRNA-Parkin (lane 4). In the presence of shRNA-Parkin, robust ubiquitination of PARIS is observed via coexpression of shRNA-resistant WT parkin (WT<sup>R</sup>) but not shRNA-resistant Q311X mutant parkin (Q311X<sup>R</sup>), n\\U00a0= 3.<br/></span><span class=\\"caption\\">(C) 10\\U00a0\\U03bcM MG-132 increases PARIS steady-state levels compared to DMSO control. Bottom panel, relative PARIS levels normalized to \\U03b2-actin, n\\U00a0= 3.<br/></span><span class=\\"caption\\">(D) Increasing ratio (1:1 to 4:1) of MYC-Parkin results in decreased steady-state levels of FLAG-PARIS (lanes 1-4). Bottom panel, relative PARIS and parkin levels normalized to \\U03b2-actin, n\\U00a0= 3; regression analysis, R<sup>2</sup>\\U00a0= 0.9985, p\\U00a0&lt; 0.05).<br/></span><span class=\\"caption\\">(E) WT Parkin decreases the steady-state levels of PARIS compared to mutant Q311X parkin or GFP transfected control cells in cyclohexamide (CHX)-chase experiments in SH-SY5Y cells transiently expressing FLAG-PARIS. Bottom panel, relative PARIS levels normalized to \\U03b2-actin, n\\U00a0= <em>3</em>.<br/></span><span class=\\"caption\\">(F) MYC-parkin leads to degradation of FLAG-PARIS at a 4 to 1 ratio, respectively. 10\\U00a0\\U03bcM MG-132 prevents the degradation of FLAG-PARIS and MYC-Q311X parkin has no effect, n\\U00a0= 3).<br/></span><span class=\\"caption\\">(G) PARIS accumulates after shRNA-Parkin and coexpression of shRNA resistant parkin (MYC-Parkin<sup>R</sup>) leads to robust degradation of PARIS, n\\U00a0= 3. Data\\U00a0= mean\\U00a0\\U00b1 SEM, <sup>\\U2217</sup>p\\U00a0&lt; 0.05, <sup>\\U2217\\U2217</sup>p\\U00a0&lt; 0.01 and <sup>\\U2217\\U2217\\U2217</sup>p\\U00a0&lt; 0.001, ANOVA with Student-Newman-Keuls post hoc analysis (E, F, G) or Student''s t test (C).<br/></span><span class=\\"caption\\">See also <a href=\\"image/figs3_lrg.jpg\\" name=\\"back-figs3\\" class=\\"ja50-ce-cross-ref\\">Figure\\U00a0S3</a>.<br/></span></figcaption>";\
+            "media_file_duration" = "<null>";\
+            "media_file_name" = "gr3.jpg";\
+            "media_file_size" = 0;\
+            "media_text" = "";\
+            "media_thumb_image_name" = "gr3.jpg";\
+            "media_type" = Image;\
+            shareable = 1;\
+        \},\
+                \{\
+            Sequence = 7;\
+            deleted = 0;\
+            "is_fulltext_asset" = 1;\
+            "media_caption" = "<figcaption class=\\"caption\\"><strong>Figure\\U00a0S3</strong>   <span class=\\"caption\\">Parkin Ubiquitinates PARIS In\\U00a0Vitro, Related to <a href=\\"image/gr3_lrg.jpg\\" name=\\"back-fig3\\" class=\\"ja50-ce-cross-ref\\">Figure\\U00a03</a><br/></span><span class=\\"caption\\">(A) In\\U00a0vitro ubiquitination reactions with GST-PARIS, E1, E2s UbcH2 (2), UbcH3 (3), UbcH5a (5a), UbcH5b (5b), UbcH5c (5c), UbcH6 (6), UbcH7 (7), UbcH8\\U00a0(8), and His-tagged parkin were performed at pH\\U00a0= 7.5 showing that parkin ubiquitinates PARIS in the presence of various E2 enzyme including UbcH5c, n\\U00a0= 3.<br/></span><span class=\\"caption\\">(B) In\\U00a0vitro ubiquitination reactions with His-tagged parkin, E1, E2s UbcH2 (2), UbcH3 (3), UbcH5a (5a), UbcH5b (5b), UbcH5c (5c), UbcH6 (6), UbcH7 (7), UbcH8 (8), in the absence of GST-PARIS were performed at pH\\U00a0= 7.5 showing that the ubiquitin signal (Panel A) was derived from PARIS and not parkin, n\\U00a0= 3.<br/></span><span class=\\"caption\\">(C) In\\U00a0vitro ubiquitination reactions with E1, E2s UbcH2 (2), UbcH3 (3), UbcH5a (5a), UbcH5b (5b), UbcH5c (5c), UbcH6 (6), UbcH7 (7), UbcH8 (8), in the absence of GST-PARIS and His-tagged parkin were performed at pH\\U00a0= 7.5 showing that there is no ubiquitin signal in the absence of parkin and PARIS, n\\U00a0= 3.<br/></span><span class=\\"caption\\">(D) CHIP, which acts as a E4 for parkin (<a href=\\"javascript:void(0)\\" name=\\"back-bib11\\" onmouseover=\\"this.style.cursor=''pointer''\\" onfocus=\\"this.blur();\\" onclick=\\"showPopupMulti(''bib11'');\\"><cite aria-label=\\"Opens Reference Imai et\\U00a0al., 2002\\">Imai et\\U00a0al., 2002</cite></a>), enhances the ubiquitination of PARIS by parkin, but it has no affect in the absence of parkin, n\\U00a0= 3.<br/></span><span class=\\"caption\\">(E) OTU1, a K48-linkage specific deubiquitinating enzyme eliminates the ubiquitination of PARIS by parkin and CHIP indicating that parkin ubiquitinates PARIS via K48 linkages. K48 ubiquitin linkages were confirmed by immunoreactivity with a K48-specific anti-ubiquitin antibody (Apu2) and no immunoreactivity with a K63-specific anti-ubiquitin antibody (Apu3), n\\U00a0= 3.<br/></span><span class=\\"caption\\">(F) Parkin mediated ubiquitination of FLAG-PARIS in SH-SY5Y cells is via K48 linkages as coexpression of OTU1 eliminates the ubiquitination, n\\U00a0= 3.<br/></span></figcaption>";\
+            "media_file_duration" = "<null>";\
+            "media_file_name" = "figs3.jpg";\
+            "media_file_size" = 0;\
+            "media_text" = "";\
+            "media_thumb_image_name" = "figs3.jpg";\
+            "media_type" = Image;\
+            shareable = 1;\
+        \},\
+                \{\
+            Sequence = 8;\
+            deleted = 0;\
+            "is_fulltext_asset" = 1;\
+            "media_caption" = "<figcaption class=\\"caption\\"><strong>Figure\\U00a04</strong>   <span class=\\"caption\\">PARIS accumulates in AR-PD, sporadic PD and in animal models of parkin inactivation<br/></span><span class=\\"caption\\">(A) Immunoblot analysis of PARIS and \\U03b2-actin in cingulate cortex from age-matched controls and AR-PD patient brains with parkin mutations.<br/></span><span class=\\"caption\\">(B) Quantitation of the immunoblots in panel A normalized to \\U03b2-actin, n\\U00a0= 4.<br/></span><span class=\\"caption\\">(C) PARIS levels in cerebellum (CBM), frontal cortex (FC), striatum (STR) and SN of sporadic PD patient brains compared to age-matched controls.<br/></span><span class=\\"caption\\">(D) Relative PARIS levels normalized to \\U03b2-actin in panel B, Controls n\\U00a0= 4; PD n\\U00a0= 5.<br/></span><span class=\\"caption\\">(E) Immunoblot analysis of PARIS in cortex (CTX), STR and ventral midbrain (VM) from WT and parkin exon 7 KO 18-24\\U00a0month old mice.<br/></span><span class=\\"caption\\">(F) Relative protein levels of PARIS normalized to \\U03b2-actin for panel E, WT n\\U00a0= 9; parkin KO n\\U00a0= 10.<br/></span><span class=\\"caption\\">(G) PARIS mRNA levels in indicated brain regions from WT and parkin exon 7 KO 18-24\\U00a0month old mice.<br/></span><span class=\\"caption\\">(H) Top panel, experimental illustration of stereotaxic intranigral virus injection. Bottom panels, immunofluorescent images of TH (red), GFP (green) and merged (yellow) in exon 7 floxed parkin mice (parkin<sup>Flx/Flx</sup>) after stereotactic delivery of Lenti-GFP or Lenti-GFPCre into the SNpc. 84.9 \\U00b1 1.9% and 78.1 \\U00b1 2.6% of TH neurons express GFP and GFPCre, respectively, n\\U00a0= 3 per group. Enlarged images in the right bottom panels were taken from the white rectangle region from the merged images of Lenti-GFPCre and Lenti-GFP, bar\\U00a0= 100\\U00a0\\U03bcm.<br/></span><span class=\\"caption\\">(I) Immunoblot analysis of parkin, PARIS, actin and GFP 4\\U00a0weeks after intranigral Lenti-GFPCre or Lenti-GFP injection into parkin<sup>Flx/Flx</sup> mice.<br/></span><span class=\\"caption\\">(J) Relative protein levels of PARIS normalized to \\U03b2-actin for panel I. Data\\U00a0= mean \\U00b1 SEM, <sup>\\U2217</sup>p\\U00a0&lt; 0.05, <sup>\\U2217\\U2217</sup>p\\U00a0&lt; 0.01 and <sup>\\U2217\\U2217\\U2217</sup>p\\U00a0&lt; 0.001, unpaired two-tailed Student''s t test (B, J) and ANOVA test with Student-Newman-Keuls post hoc analysis (D, F, G).<br/></span><span class=\\"caption\\">See also Table S1 and Table S2.<br/></span></figcaption>";\
+            "media_file_duration" = "<null>";\
+            "media_file_name" = "gr4.jpg";\
+            "media_file_size" = 0;\
+            "media_text" = "";\
+            "media_thumb_image_name" = "gr4.jpg";\
+            "media_type" = Image;\
+            shareable = 1;\
+        \},\
+                \{\
+            Sequence = 9;\
+            deleted = 0;\
+            "is_fulltext_asset" = 1;\
+            "media_caption" = "<figcaption class=\\"caption\\"><strong>Figure\\U00a05</strong>   <span class=\\"caption\\">PARIS Acts as Transcriptional Repressor of <em>PGC-1 \\U03b1</em><br/></span><span class=\\"caption\\">(A) Identification and MACAW alignment of the PARIS DNA-binding sequence as determined by CASTing. Darker colors represent a greater degree of overlap of the segment pairs (bottom right - % overlap). Asterisk, duplicate sequence tags.<br/></span><span class=\\"caption\\">(B) Relative luciferase activity of the 1-kilobase human <em>PGC-1\\U03b1</em> (\\U2212992 to\\U00a0+90) compared to <em>Renilla</em> luciferase \\U00b1 PARIS or \\U00b1 parkin or \\U00b1 familial mutant Q311X parkin, n\\U00a0= <em>3</em>. Location of IRS, CRE motifs and oligos for human ChIP (arrows) in the <em>PGC-1\\U03b1</em> promoter construct (top of panel). Immunoblot analysis confirms the expression of FLAG-PARIS, MYC-Parkin and MYC-Q311X parkin (right panel).<br/></span><span class=\\"caption\\">(C) EMSA of GST-PARIS of <sup>32</sup>P-labeled WT (WT-<sup>32</sup>P) IRS oligonucleotides (IRS1-WT, IRS2-WT, IRS3-WT) of the human <em>PGC-1\\U03b1</em> promoter and <sup>32</sup>P-labeled mutant (T\\U2192g) (MT-<sup>32</sup>P) IRS oligonucleotides (IRS1-MT, IRS2-MT, IRS3-MT). Unlabeled WT (WT cold) IRS oligonucleotides disrupt the GST-PARIS-DNA protein complexes with the WT-<sup>32</sup>P IRS oligonucleotides, n\\U00a0= 3. Unlabeled mutant probes (MT cold) has no effect on mutant (MT-<sup>32</sup>P). Arrow indicates specific PARIS-shifted probe; NS, nonspecific; FS, fragmented PARIS-shifted probe; FP, free probe.<br/></span><span class=\\"caption\\">(D) PARIS occupies the endogenous <em>PGC-1 \\U03b1</em> promoter as determined by ChIP assay with anti-PARIS polyclonal antibodies in SH-SY5Y cells, n\\U00a0= 3.<br/></span><span class=\\"caption\\">(E) PARIS occupies the endogenous mouse <em>PGC-1 \\U03b1</em> promoter as determined by ChIP in mouse whole brain, n\\U00a0= 3. Mouse specific IRS primers are indicated in <a href=\\"image/figs4_lrg.jpg\\" name=\\"back-figs4\\" class=\\"ja50-ce-cross-ref\\">Figure\\U00a0S4</a>B.<br/></span><span class=\\"caption\\">(F) ChIP assay of endogenous PARIS binding to the IRS region of the human <em>PGC-1\\U03b1</em> promoter in human PD and aged-matched control (CTL) striatum, control n\\U00a0=\\U00a03; PD n\\U00a0= 4.<br/></span><span class=\\"caption\\">(G) Quantitation of ChIP in panel F. Human specific IRS primers for D and F are indicated in panel B.<br/></span><span class=\\"caption\\">(H) Real-time qRT-PCR of PGC-1\\U03b1, GFP and \\U03b2-actin following transient transfection of GFP, GFP-PARIS or GFP-C571A PARIS mutant, n\\U00a0= 4.<br/></span><span class=\\"caption\\">(I) Immunoblot analysis of PGC-1\\U03b1, GFP and \\U03b2-actin following transient transfection of GFP, GFP-PARIS or GFP-C571A PARIS mutant, n\\U00a0= 4.<br/></span><span class=\\"caption\\">(J) Quantitation of the immunoblots in panel I normalized to \\U03b2-actin, n\\U00a0= 4.<br/></span><span class=\\"caption\\">(K) Immunoblot analysis of parkin, PARIS, PGC-1\\U03b1 and \\U03b2-actin in double-knockdown experiments via lentiviral transduction of shRNA-parkin and/or shRNA-PARIS in SH-SY5Y cells, n\\U00a0= 3.<br/></span><span class=\\"caption\\">(L) Quantitation of the immunoblots in panel K normalized to \\U03b2-actin, n\\U00a0= 3, sh\\U00a0= shRNA.<br/></span><span class=\\"caption\\">(M) Relative mRNA levels of PGC-1\\U03b1 normalized to GAPDH, n\\U00a0= 3. Quantitative data\\U00a0= mean \\U00b1 SEM, <sup>\\U2217</sup>p\\U00a0&lt; 0.05, <sup>\\U2217\\U2217</sup>p\\U00a0&lt; 0.01, <sup>\\U2217\\U2217\\U2217</sup>p\\U00a0&lt; 0.001, unpaired two-tailed Student''s t test (G), ANOVA with Student-Newman-Keuls post hoc analysis (B, H, J, L, M).<br/></span><span class=\\"caption\\">See also <a href=\\"image/figs4_lrg.jpg\\" name=\\"back-figs4\\" class=\\"ja50-ce-cross-ref\\">Figure\\U00a0S4</a> and Table S2, Table S3, and Table S5.<br/></span></figcaption>";\
+            "media_file_duration" = "<null>";\
+            "media_file_name" = "gr5.jpg";\
+            "media_file_size" = 0;\
+            "media_text" = "";\
+            "media_thumb_image_name" = "gr5.jpg";\
+            "media_type" = Image;\
+            shareable = 1;\
+        \},\
+                \{\
+            Sequence = 10;\
+            deleted = 0;\
+            "is_fulltext_asset" = 1;\
+            "media_caption" = "<figcaption class=\\"caption\\"><strong>Figure\\U00a0S4</strong>   <span class=\\"caption\\">PARIS Is a Transcriptional Repressor, Related to <a href=\\"image/gr5_lrg.jpg\\" name=\\"back-fig5\\" class=\\"ja50-ce-cross-ref\\">Figure\\U00a05</a><br/></span><span class=\\"caption\\">(A) GAL4-luciferase assay demonstrates that PARIS decreases promoter activity, which is recovered by coexpression of WT parkin, but not Q311X mutant. Relative luciferase activity compared to <em>Renilla</em> luciferase control is indicated in the histogram (n\\U00a0= <em>3</em>). Immunoblot analysis confirms the expression of FLAG-PARIS, MYC-Parkin, and MYC-Q311X parkin. \\U03b2-Actin was used as a loading control. (bottom of panel). <sup>\\U2217</sup>p\\U00a0&lt; 0.05, <sup>\\U2217\\U2217</sup>p\\U00a0&lt; 0.01 in a ANOVA test followed by Student-Newman-Keuls post hoc analysis. Schematic representation of the promoter construct is indicated at the top of the panel.<br/></span><span class=\\"caption\\">(B) PARIS represses the mouse <em>PGC-1\\U03b1</em> promoter luciferase reporter activity. Cotransfection of SH-SY5Y cells with PARIS and the mouse PGC-1\\U03b1 promoter (\\U22122533 to\\U00a0+78), results in decreased activity of PGC-1 \\U03b1 promoter. Introduction of WT parkin rescues PARIS suppression of the mouse <em>PGC-1\\U03b1</em> promoter. Relative luciferase activity compared to <em>Renilla</em> luciferase control is indicated in histogram (n\\U00a0= <em>4</em>). Immunoblot analysis confirms the expression of FLAG-PARIS, MYC-Parkin and \\U03b2-actin was used as a loading control (bottom of panel). Data are expressed as mean \\U00b1 SEM. <sup>\\U2217</sup>p\\U00a0&lt; 0.05 in a ANOVA test followed by Student-Newman-Keuls post hoc analysis. Schematic representation of the promoter construct is indicated at the top of the panel.<br/></span><span class=\\"caption\\">(C) Schematic representation of the PGC-1\\U03b1 WT, IRS1-M, IRS2-M, IRS3-M and IRS123-M promoter reporter constructs harboring the T\\U2192G point mutation on the IRS elements is indicated at the top of the panel. The basal promoter activity of PGC-1\\U03b1 WT, IRS1-M, IRS2-M, IRS3-M and IRS123-M promoter reporter constructs were monitored in the presence and absence of PARIS. Relative luciferase activity compared to <em>Renilla</em> luciferase control is indicated in histogram (n\\U00a0=\\U00a0<em>3</em>). Data are expressed as mean \\U00b1 SEM. <sup>\\U2217</sup>p\\U00a0&lt; 0.05 in a ANOVA test followed by Student-Newman-Keuls post hoc analysis. Immunoblot analysis confirms the expression of FLAG-PARIS. \\U03b2-actin was used as a loading control.<br/></span><span class=\\"caption\\">(D) Schematic representation of PARIS zinc finger mutants (see Table S3).<br/></span><span class=\\"caption\\">(E) The basal promoter activity of the human PGC-1\\U03b1 promoter reporter construct in SH-SY5Y cells was monitored in the presence and absence of WT PARIS and the 8 zinc finger PARIS mutants depicted in panel B. Relative luciferase activity compared to <em>Renilla</em> luciferase control is indicated in the histogram, n\\U00a0= 3. Immunoblot analysis confirms the expression of GFP-PARIS, and PARIS zinc finger mutants. \\U03b2-actin was used as a loading control (Top Panel). Data are expressed as mean \\U00b1 SEM. <sup>\\U2217</sup>p\\U00a0&lt; 0.05 in a ANOVA test followed by Student-Newman-Keuls post hoc analysis.<br/></span><span class=\\"caption\\">(F) EMSA reveals that GST-PARIS binds to <sup>32</sup>P-labeled WT (WT-<sup>32</sup>P) IRS oligonucleotides (IRS1-WT, IRS2-WT, IRS3-WT) of the human <em>PGC-1 \\U03b1</em> promoter, whereas the PARIS C571A mutant has substantially reduced binding (n\\U00a0= 3). The arrow indicates the specific PARIS-shifted probe. NS, nonspecific; FS, fragmented PARIS-shifted probe; FP, free probe.<br/></span><span class=\\"caption\\">(G) Schematic representation of the promoter construct of human <em>PEPCK</em>.<br/></span><span class=\\"caption\\">(H) Schematic representation of the promoter construct of human <em>G6Pase</em>.<br/></span><span class=\\"caption\\">(I) PARIS does not repress the IRS-containing genes, <em>PEPCK</em> and <em>G6Pase</em>. Cotransfection of SH-SY5Y cells with PARIS and the rat <em>PEPCK</em> (rPEPCK) promoter-luciferase reporter (\\U22122100 to\\U00a0+68), results in increased promoter activity of <em>rPEPCK</em>. While overexpression of PARIS does not alter mouse <em>G6Pase</em> (mG6Pase) promoter (\\U2212484 to\\U00a0+66) activity. Relative luciferase activity compared to <em>Renilla</em> luciferase control is indicated in histogram, n\\U00a0= 3. Immunoblot analysis confirms the expression of FLAG-PARIS and \\U03b2-actin was used as a loading control (top of panel). Data are expressed as mean \\U00b1 SEM. <sup>\\U2217\\U2217\\U2217</sup>p\\U00a0&lt; 0.001 in a unpaired two-tailed Student''s t test.<br/></span><span class=\\"caption\\">(J) PARIS occupies the endogenous <em>PEPCK</em> and <em>G6Pase</em> promoter. ChIP assay monitoring the occupancy of the endogenous <em>PEPCK</em> and <em>G6Pase</em> promoter by PARIS in SH-SY5Y, n\\U00a0= 3.<br/></span><span class=\\"caption\\">(K) PARIS occupies the endogenous <em>PEPCK</em> and <em>G6Pase</em> promoter. ChIP assay shows increased endogenous binding of PARIS in human PD and aged-matched control striatum to the IRS region of the human <em>PGC-1\\U03b1</em> promoter and occupies the <em>PEPCK</em> and <em>G6Pase</em> promoter (CTL n\\U00a0= 3; PD n\\U00a0= 4; see Table S5 for details on human brain samples).<br/></span></figcaption>";\
+            "media_file_duration" = "<null>";\
+            "media_file_name" = "figs4.jpg";\
+            "media_file_size" = 0;\
+            "media_text" = "";\
+            "media_thumb_image_name" = "figs4.jpg";\
+            "media_type" = Image;\
+            shareable = 1;\
+        \},\
+                \{\
+            Sequence = 11;\
+            deleted = 0;\
+            "is_fulltext_asset" = 1;\
+            "media_caption" = "<figcaption class=\\"caption\\"><strong>Figure\\U00a0S5</strong>   <span class=\\"caption\\">Identification of PGC-1\\U03b1 and NRF-1 as In\\U00a0Vivo Targets of Accumulated PARIS in PD Brain, Related to <a href=\\"image/gr6_lrg.jpg\\" name=\\"back-fig6\\" class=\\"ja50-ce-cross-ref\\">Figure\\U00a06</a><br/></span><span class=\\"caption\\">(A) Real-time qRT-PCR of qRT-PCR of IRS (PEPCK-like motif)-containing genes and PGC-1\\U03b1 dependent genes reveals that PGC-1\\U03b1 and NRF-1 are reduced in PD striatum compared to age-matched controls (n\\U00a0= <em>4</em> per group). Relative mRNA levels of PGC-1\\U03b1, parkin, PARIS and PGC-1\\U03b1 dependent genes normalized to GAPDH are indicated. See Table S4 for qRT-PCR primers and Table S5 for details on human brain samples. No mRNA for APOC3 and TAT was detected with 2 different pairs of primers.<br/></span><span class=\\"caption\\">(B) Immunoblot analysis shows that PGC-1\\U03b1 and NRF-1 protein levels are reduced in PD striatum compared to age-matched controls, n\\U00a0= <em>4</em> per group. Parkin redistributes to the insoluble fraction consistent with its inactivation in PD.<br/></span><span class=\\"caption\\">(C) Quantitation of the immunoblots in panel B normalized to \\U03b2-actin, n\\U00a0= <em>4</em> per group; see Table S5 for details on human brain samples).<br/></span><span class=\\"caption\\">(D) a-f, Regression analysis of the quantified level of PARIS, PGC-1\\U03b1, and NRF-1 shows there is a strong negative correlation between the protein levels of PARIS and PGC-1\\U03b1 (R<sup>2</sup>\\U00a0= 0.5195, p\\U00a0&lt; 0.05) and NRF-1 (R<sup>2</sup>\\U00a0= 0.8015, p\\U00a0&lt; 0.01) in the striatum and between PARIS and PGC-1\\U03b1 (R<sup>2</sup>\\U00a0= 0.6955, p\\U00a0&lt; 0.05) and NRF-1 (R<sup>2</sup>\\U00a0= 0.5979, p\\U00a0&lt; 0.05) in the SN and a positive correlation between PGC-1\\U03b1 and NRF-1 in the striatum (R<sup>2</sup>\\U00a0= 0.6827, p\\U00a0&lt; 0.05) and in the SN (R<sup>2</sup>\\U00a0= 0.6488, p\\U00a0&lt; 0.05), n\\U00a0= <em>4</em> per group. See Table S5 for details on human brain samples.<br/></span><span class=\\"caption\\">(E) Relative mRNA levels as determined by real-time qRT-PCR of IRS (PEPCK-like motif)-containing genes, PGC-1\\U03b1, PARIS, parkin and PGC-1\\U03b1 dependent genes normalized to GAPDH in the SN of the lentiviral-mediated conditional parkin knockout model, n\\U00a0= 4 per group. See Table S4 for qRT-PCR primers.<br/></span><span class=\\"caption\\">(F) Representative photomicrographs of laser capture microdissection (LCM) of dopaminergic neurons from conditional parkin KO mice. Upper panels are immunofluorescent images of TH and either GFP (left panel) or GFPCre (right panel) in conditional parkin KO mice before LCM. Lower panels are after LCM.<br/></span><span class=\\"caption\\">(G) Robust reduction of PGC-1\\U03b1 mRNA in microdissected parkin KO dopaminergic neurons. PARIS level was assessed to monitor RNA quality (negative control). Values were normalized to GAPDH, n\\U00a0= 3 per group. <sup>\\U2217\\U2217\\U2217</sup>p\\U00a0&lt; 0.001 in a unpaired two-tailed Student''s t test.<br/></span><span class=\\"caption\\">(H) PGC-1\\U03b1 and NRF-1 levels are not altered in the ventral midbrain (VM) of 18-24\\U00a0month old germline parkin exon 7 KO mice compared to age-matched WT controls mice where is PARIS is modestly upregulated, WT, n\\U00a0= <em>4</em>; KO, n\\U00a0= <em>5</em>.<br/></span><span class=\\"caption\\">(I) Quantitation of the immunoblots in panel H normalized to \\U03b2-actin, WT, n\\U00a0= <em>4</em>; KO, n\\U00a0= <em>5</em>. All data are expressed as mean \\U00b1 SEM. Asterisk indicates statistical significance (<sup>\\U2217</sup>p\\U00a0&lt; 0.05, <sup>\\U2217\\U2217</sup>p\\U00a0&lt; 0.01 and <sup>\\U2217\\U2217\\U2217</sup>p\\U00a0&lt; 0.001) in a unpaired two-tailed Student''s t test.<br/></span></figcaption>";\
+            "media_file_duration" = "<null>";\
+            "media_file_name" = "figs5.jpg";\
+            "media_file_size" = 0;\
+            "media_text" = "";\
+            "media_thumb_image_name" = "figs5.jpg";\
+            "media_type" = Image;\
+            shareable = 1;\
+        \},\
+                \{\
+            Sequence = 12;\
+            deleted = 0;\
+            "is_fulltext_asset" = 1;\
+            "media_caption" = "<figcaption class=\\"caption\\"><strong>Figure\\U00a06</strong>   <span class=\\"caption\\">Identification of PGC-1\\U03b1 and NRF-1 as Pathological In\\U00a0Vivo Targets of Accumulated PARIS in PD Brain and Conditional Parkin\\U00a0KO\\U00a0Mice<br/></span><span class=\\"caption\\">(A) Real-time qRT-PCR of IRS (PEPCK-like motif)-containing genes and PGC-1\\U03b1 dependent genes in PD SN compared to age-matched CTL-SN normalized to GAPDH, n\\U00a0= 3\\U20144 per group.<br/></span><span class=\\"caption\\">(B) Immunoblots of PARIS, PGC-1\\U03b1, parkin and NRF-1 in soluble and insoluble fractions of PD SN compared to age-matched CTL-SN.<br/></span><span class=\\"caption\\">(C) Quantitation of the immunoblots in panel B normalized to \\U03b2-actin, PD, n\\U00a0= <em>4</em>; Control, n\\U00a0= <em>3</em>.<br/></span><span class=\\"caption\\">(D) Top panel, experimental illustration of stereotaxic intranigral virus injection. Below are immunoblots of parkin, PARIS, PGC-1\\U03b1, NRF-1, \\U03b2-actin and GFP, 4\\U00a0weeks after stereotactic delivery of Lenti-GFP, Lenti-GFPCre, Lenti-GFPCre\\U00a0+ shRNA-dsRed, or Lenti-GFPCre\\U00a0+ shRNA-PARIS into exon 7 floxed parkin mice (parkin<sup>Flx/Flx</sup>), n\\U00a0= 3 per group. <sup>\\U2217</sup>nonspecific band.<br/></span><span class=\\"caption\\">(E) Quantitation of the immunoblots in panel D normalized to \\U03b2-actin, n\\U00a0= 3 per group.<br/></span><span class=\\"caption\\">(F) The alteration of PGC-1\\U03b1 and NRF1 shown in panel D and E results from transcriptional changes as determined by real-time qRT-PCR, n\\U00a0= 3 per group.<br/></span><span class=\\"caption\\">(G) Top panel, experimental illustration of stereotaxic intranigral virus injection. Below is TH immunostaining of representative mice midbrain sections from SN of parkin<sup>Flx/Flx</sup> mice injected with Lenti-GFP, and Lenti-GFPCre \\U00b1 Lenti-shRNA-PARIS 10\\U00a0months post-injection of virus.<br/></span><span class=\\"caption\\">(H) Stereological assessment of TH and Nissl positive neurons in the SN of parkin<sup>Flx/Flx</sup> mice injected with Lenti-GFP, and Lenti-GFPCre \\U00b1 Lenti-shRNA-PARIS 3 (n\\U00a0= 3 per group) and 10\\U00a0months (n\\U00a0= 7 per group) after injection of virus. Data\\U00a0= mean \\U00b1 SEM, <sup>\\U2217</sup>p\\U00a0&lt; 0.05, <sup>\\U2217\\U2217</sup>p\\U00a0&lt; 0.01 and <sup>\\U2217\\U2217\\U2217</sup>p\\U00a0&lt; 0.001, unpaired two-tailed Student''s t\\U00a0test (A and C) and ANOVA with Student-Newman-Keuls post hoc analysis (E,F, and H).<br/></span><span class=\\"caption\\">See also <a href=\\"image/figs5_lrg.jpg\\" name=\\"back-figs5\\" class=\\"ja50-ce-cross-ref\\">Figure\\U00a0S5</a>, Table S4, and Table S5.<br/></span></figcaption>";\
+            "media_file_duration" = "<null>";\
+            "media_file_name" = "gr6.jpg";\
+            "media_file_size" = 0;\
+            "media_text" = "";\
+            "media_thumb_image_name" = "gr6.jpg";\
+            "media_type" = Image;\
+            shareable = 1;\
+        \},\
+                \{\
+            Sequence = 13;\
+            deleted = 0;\
+            "is_fulltext_asset" = 1;\
+            "media_caption" = "<figcaption class=\\"caption\\"><strong>Figure\\U00a07</strong>   <span class=\\"caption\\">Introduction of AAV1-Parkin or Lenti-PGC-1\\U03b1 in Mice SN Protects from AAV1-PARIS-Mediated Selective Dopaminergic Neuronal\\U00a0Toxicity<br/></span><span class=\\"caption\\">(A) Schematic illustration of intranigral viral injection and transduced brain regions.<br/></span><span class=\\"caption\\">(B) Immunoblot analysis of PARIS, PGC-1\\U03b1, parkin and NRF-1 four-weeks post intranigral injection of AAV1-PARIS, n\\U00a0= 5 per group.<br/></span><span class=\\"caption\\">(C) Quantitation of the immunoblots in panel B normalized to \\U03b2-actin.<br/></span><span class=\\"caption\\">(D) TH staining of a representative section of mice injected with AAV1-GFP, AAV1-PARIS \\U00b1 AAV1-parkin or AAV1-PARIS \\U00b1 Lenti-PGC-1\\U03b1. Each panel shows the noninjected side (Non) and contralateral injected side (Inj) and white pentagonal box indicates the SNpc. Enlarged images containing SNpc and SNpr are shown on the right panels. AAV1 encoding GFP was used as transduction control in all injection procedures. Broad regions including SNpc and SNpr were successfully transduced (left top panel). In right bottom panel, yellow rectangle indicates the region that PARIS and lenti- PGC-1\\U03b1 cotransduced. Approximately 30% of the SNpc was transduced with lenti-PGC-1\\U03b1 and this is the region, which is protected from PARIS toxicity, n\\U00a0= 6 per group.<br/></span><span class=\\"caption\\">(E) Stereological TH, Nissl-positive neuronal counting, n\\U00a0= 6 per group.<br/></span><span class=\\"caption\\">(F) Immunoblot analysis of PARIS, PGC-1\\U03b1, parkin and NRF-1, n\\U00a0= 3.<br/></span><span class=\\"caption\\">(G) Quantitation of the immunoblots in panel F normalized to \\U03b2-actin.<br/></span><span class=\\"caption\\">(H) Parkin-PARIS-PGC-1\\U03b1 pathway as a model in PD. Endogenous PARIS acts to maintain the balance of PGC-1\\U03b1 levels. In PD, parkin is inactivated by diverse insults such as familial mutations, reactive oxygen species (ROS), nitrosative (NO) and dopamine (DA) stress and PARIS accumulates. Accumulated PARIS continuously inhibits <em>PGC-1\\U03b1</em> transcription leading to reduction in PGC-1\\U03b1 dependent genes. Ultimately this situation results in neurodegeneration in PD. Data\\U00a0= mean \\U00b1 SEM. <sup>\\U2217</sup>p\\U00a0&lt; 0.05, <sup>\\U2217\\U2217</sup>p\\U00a0&lt; 0.01, <sup>\\U2217\\U2217\\U2217</sup>p\\U00a0&lt; 0.001; ANOVA with the Student-Newman-Keuls post hoc test.<br/></span><span class=\\"caption\\">See also <a href=\\"image/figs6_lrg.jpg\\" name=\\"back-figs6\\" class=\\"ja50-ce-cross-ref\\">Figure\\U00a0S6</a>.<br/></span></figcaption>";\
+            "media_file_duration" = "<null>";\
+            "media_file_name" = "gr7.jpg";\
+            "media_file_size" = 0;\
+            "media_text" = "";\
+            "media_thumb_image_name" = "gr7.jpg";\
+            "media_type" = Image;\
+            shareable = 1;\
+        \},\
+                \{\
+            Sequence = 14;\
+            deleted = 0;\
+            "is_fulltext_asset" = 1;\
+            "media_caption" = "<figcaption class=\\"caption\\"><strong>Figure\\U00a0S6</strong>   <span class=\\"caption\\">Lack of Degeneration of GABAergic Neurons, Related to <a href=\\"image/gr7_lrg.jpg\\" name=\\"back-fig7\\" class=\\"ja50-ce-cross-ref\\">Figure\\U00a07</a><br/></span><span class=\\"caption\\">(A) Representative SN sections stained with \\U03b1-GAD 65/67, Robust viral expression was evaluated by GFP immunofluoresence in SNpr (top panel). The GABAergic neuronal marker shows no difference between AAV1-GFP and AAV1-PARIS between noninjected side and injected side, n\\U00a0= 6 per group.<br/></span><span class=\\"caption\\">(B) Equivalent protein levels of GAD 65/67 were confirmed by immunoblot analysis, n\\U00a0= 5 per group.<br/></span><span class=\\"caption\\">(C) Quantitation of the immunoblots in panel C normalized to \\U03b2-actin, n\\U00a0= <em>5</em>. Data are expressed as mean \\U00b1 SEM. Statistical significance was evaluated ANOVA with the Student-Newman-Keuls post hoc test.<br/></span></figcaption>";\
+            "media_file_duration" = "<null>";\
+            "media_file_name" = "figs6.jpg";\
+            "media_file_size" = 0;\
+            "media_text" = "";\
+            "media_thumb_image_name" = "figs6.jpg";\
+            "media_type" = Image;\
+            shareable = 1;\
+        \}\
+    );\
+    AUTHORS =     (\
+                \{\
+            "author_description" = "NeuroRegeneration and Stem Cell Programs, Institute for Cell Engineering, Johns Hopkins University School of Medicine, Baltimore, Maryland 21205, USA Department of Neurology, Johns Hopkins University School of Medicine, Baltimore, Maryland 21205, USA";\
+            "author_id" = 196019;\
+            "author_name" = "Joo-Ho Shin";\
+            "last_modified" = "2016-07-28 15:13:37";\
+        \},\
+                \{\
+            "author_description" = "NeuroRegeneration and Stem Cell Programs, Institute for Cell Engineering, Johns Hopkins University School of Medicine, Baltimore, Maryland 21205, USA Department of Neurology, Johns Hopkins University School of Medicine, Baltimore, Maryland 21205, USA";\
+            "author_id" = 196020;\
+            "author_name" = "Han\\U00a0Seok Ko";\
+            "last_modified" = "2016-07-28 15:13:37";\
+        \},\
+                \{\
+            "author_description" = "NeuroRegeneration and Stem Cell Programs, Institute for Cell Engineering, Johns Hopkins University School of Medicine, Baltimore, Maryland 21205, USA Department of Neurology, Johns Hopkins University School of Medicine, Baltimore, Maryland 21205, USA";\
+            "author_id" = 196021;\
+            "author_name" = "Hochul Kang";\
+            "last_modified" = "2016-07-28 15:13:37";\
+        \},\
+                \{\
+            "author_description" = "NeuroRegeneration and Stem Cell Programs, Institute for Cell Engineering, Johns Hopkins University School of Medicine, Baltimore, Maryland 21205, USA Department of Physiology, Johns Hopkins University School of Medicine, Baltimore, Maryland 21205, USA";\
+            "author_id" = 196022;\
+            "author_name" = "Yunjong Lee";\
+            "last_modified" = "2016-07-28 15:13:37";\
+        \},\
+                \{\
+            "author_description" = "NeuroRegeneration and Stem Cell Programs, Institute for Cell Engineering, Johns Hopkins University School of Medicine, Baltimore, Maryland 21205, USA Department of Neurology, Johns Hopkins University School of Medicine, Baltimore, Maryland 21205, USA";\
+            "author_id" = 196023;\
+            "author_name" = "Yun-Il Lee";\
+            "last_modified" = "2016-07-28 15:13:37";\
+        \},\
+                \{\
+            "author_description" = "Department of Pathology, Division of Neuropathology, Johns Hopkins University School of Medicine, Baltimore, Maryland 21205, USA";\
+            "author_id" = 196024;\
+            "author_name" = "Olga Pletinkova";\
+            "last_modified" = "2016-07-28 15:13:37";\
+        \},\
+                \{\
+            "author_description" = "Department of Neurology, Johns Hopkins University School of Medicine, Baltimore, Maryland 21205, USA Department of Pathology, Division of Neuropathology, Johns Hopkins University School of Medicine, Baltimore, Maryland 21205, USA";\
+            "author_id" = 196025;\
+            "author_name" = "Juan\\U00a0C. Troconso";\
+            "last_modified" = "2016-07-28 15:13:37";\
+        \},\
+                \{\
+            "author_description" = "NeuroRegeneration and Stem Cell Programs, Institute for Cell Engineering, Johns Hopkins University School of Medicine, Baltimore, Maryland 21205, USA Department of Neurology, Johns Hopkins University School of Medicine, Baltimore, Maryland 21205, USA Department of Physiology, Johns Hopkins University School of Medicine, Baltimore, Maryland 21205, USA Solomon H. Snyder Department of Neuroscience, Johns Hopkins University School of Medicine, Baltimore, Maryland 21205, USA";\
+            "author_id" = 196026;\
+            "author_name" = "Valina\\U00a0L. Dawson";\
+            "last_modified" = "2016-07-28 15:13:37";\
+        \},\
+                \{\
+            "author_description" = "NeuroRegeneration and Stem Cell Programs, Institute for Cell Engineering, Johns Hopkins University School of Medicine, Baltimore, Maryland 21205, USA Department of Neurology, Johns Hopkins University School of Medicine, Baltimore, Maryland 21205, USA Solomon H. Snyder Department of Neuroscience, Johns Hopkins University School of Medicine, Baltimore, Maryland 21205, USA Corresponding author Email Address :tdawson@jhmi.edu";\
+            "author_id" = 196027;\
+            "author_name" = "Ted\\U00a0M. Dawson";\
+            "last_modified" = "2016-07-28 15:13:37";\
+        \}\
+    );\
+    DOI = "10.1016/j.cell.2011.02.010";\
+    "DOI_Link" = "http://dx.doi.org/10.1016/j.cell.2011.02.010";\
+    "Issue_PII" = S0092867411X00053;\
+    "OA_Display_License" = "";\
+    "OA_Display_Sponsor_Name" = "";\
+    "OA_Identifier" = 7;\
+    "OA_Info_Html" = "<div class='cu_wrapper'> <div class='cus_container'><div class='pub_main'></div><div class='op_acc_head'><p class='op_acc_head'> <p class='perm open_acc'>Open Archive</p><p class='cc_licns mar_bot_0'>DOI: <a href='http://dx.doi.org/10.1016/j.cell.2011.02.010'>http://dx.doi.org/10.1016/j.cell.2011.02.010</a></p></p></div><div class='art_info_main'><div class='article_drop_menu_main'><div class='article_drop_menu'><p class='art_tog_menu'><a id='expand_collapse' href='UserInfo'><span class='accor_btn'>+</span>Article Info</a></p><div id='show_hide' class='article_drop_menu_inner'><div class='permited_sec'><p id='content_change' class='font_13'></p><p class='perm'>User License</p><p class='cc_licns'><a href='http://www.elsevier.com/open-access/userlicense/1.0/'>Elsevier User license</a> | <a href='/show/ELS-USER'>How you Can reuse</a></p></div><p class='foot'>\\U00a9 2011 Elsevier Inc.</p> </div></div></div></div></div></div>";\
+    "OA_Modified_Date" = "2016-07-28 15:11:09";\
+    "OA_Since_Date" = "";\
+    "OA_Status_Archive" = "";\
+    "OA_Status_Display" = "Open Archive";\
+    REFERENCES =     (\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:37";\
+            "reference_id" = 545401;\
+            "section_id" = "lv_0001";\
+            "section_title" = "Graphical Abstract";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:37";\
+            "reference_id" = 545402;\
+            "section_id" = "lv_0002";\
+            "section_title" = Highlights;\
+        \},\
+                \{\
+            "is_this_sub_section" = 1;\
+            "last_modified" = "2016-07-28 15:13:37";\
+            "reference_id" = 545403;\
+            "section_id" = "lv_0003";\
+            "section_title" = Summary;\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:37";\
+            "reference_id" = 545404;\
+            "section_id" = "lv_0004";\
+            "section_title" = PaperClip;\
+        \},\
+                \{\
+            "is_this_sub_section" = 1;\
+            "last_modified" = "2016-07-28 15:13:37";\
+            "reference_id" = 545405;\
+            "section_id" = "lv_0005";\
+            "section_title" = Introduction;\
+        \},\
+                \{\
+            "is_this_sub_section" = 1;\
+            "last_modified" = "2016-07-28 15:13:37";\
+            "reference_id" = 545406;\
+            "section_id" = "lv_0006";\
+            "section_title" = Results;\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:37";\
+            "reference_id" = 545407;\
+            "section_id" = "lv_0007";\
+            "section_title" = "PARIS Is a KRAB and C2H2 Zinc Finger Protein";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:37";\
+            "reference_id" = 545408;\
+            "section_id" = "lv_0008";\
+            "section_title" = "Parkin Interacts with PARIS";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:37";\
+            "reference_id" = 545409;\
+            "section_id" = "lv_0009";\
+            "section_title" = "Parkin Ubiquitinates PARIS and Regulates PARIS Levels";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:37";\
+            "reference_id" = 545410;\
+            "section_id" = "lv_0010";\
+            "section_title" = "PARIS Accumulates in the Absence of Parkin Activity";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:37";\
+            "reference_id" = 545411;\
+            "section_id" = "lv_0011";\
+            "section_title" = "PARIS Is a Transcriptional Repressor of PGC-1\\U03b1";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:37";\
+            "reference_id" = 545412;\
+            "section_id" = "lv_0012";\
+            "section_title" = "Identification of NRF-1 as a Potential In\\U00a0Vivo PGC-1\\U03b1 Target Gene in PD";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:37";\
+            "reference_id" = 545413;\
+            "section_id" = "lv_0013";\
+            "section_title" = "Downregulation of PGC-1\\U03b1 and NRF-1 in Conditional Parkin KO Mice Requires PARIS";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:37";\
+            "reference_id" = 545414;\
+            "section_id" = "lv_0014";\
+            "section_title" = "Neurodegeneration in Conditional Parkin KO Mice Requires PARIS";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:37";\
+            "reference_id" = 545415;\
+            "section_id" = "lv_0015";\
+            "section_title" = "Overexpression of PARIS Kills Dopamine Neurons In\\U00a0Vivo: Restoration by Parkin and PGC-1\\U03b1";\
+        \},\
+                \{\
+            "is_this_sub_section" = 1;\
+            "last_modified" = "2016-07-28 15:13:37";\
+            "reference_id" = 545416;\
+            "section_id" = "lv_0016";\
+            "section_title" = Discussion;\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:37";\
+            "reference_id" = 545417;\
+            "section_id" = "lv_0017";\
+            "section_title" = "PARIS (ZNF746) Is a Parkin Substrate";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:37";\
+            "reference_id" = 545418;\
+            "section_id" = "lv_0018";\
+            "section_title" = "PARIS Is a Transcriptional Repressor of PGC-1\\U03b1";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:37";\
+            "reference_id" = 545419;\
+            "section_id" = "lv_0019";\
+            "section_title" = "Dopaminergic Degeneration in Conditional Parkin KO Mice";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:37";\
+            "reference_id" = 545420;\
+            "section_id" = "lv_0020";\
+            "section_title" = "Parkin, PARIS, PGC-1\\U03b1, and Neurodegeneration";\
+        \},\
+                \{\
+            "is_this_sub_section" = 1;\
+            "last_modified" = "2016-07-28 15:13:37";\
+            "reference_id" = 545421;\
+            "section_id" = "lv_0021";\
+            "section_title" = "Experimental Procedures";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:37";\
+            "reference_id" = 545422;\
+            "section_id" = "lv_0022";\
+            "section_title" = "Yeast Two-Hybrid Screening";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:37";\
+            "reference_id" = 545423;\
+            "section_id" = "lv_0023";\
+            "section_title" = Antibodies;\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:37";\
+            "reference_id" = 545424;\
+            "section_id" = "lv_0024";\
+            "section_title" = "Plasmid Constructions";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:37";\
+            "reference_id" = 545425;\
+            "section_id" = "lv_0025";\
+            "section_title" = "Cell culture and Transfection";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:37";\
+            "reference_id" = 545426;\
+            "section_id" = "lv_0026";\
+            "section_title" = "Immunocytochemistry and Immunblot Analysis";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:37";\
+            "reference_id" = 545427;\
+            "section_id" = "lv_0027";\
+            "section_title" = "In vitro Interaction and Ubiquitination Assays";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:37";\
+            "reference_id" = 545428;\
+            "section_id" = "lv_0028";\
+            "section_title" = "CAST, EMSA, ChIP, qRT-PCR Assays";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:37";\
+            "reference_id" = 545429;\
+            "section_id" = "lv_0029";\
+            "section_title" = "Conditional Parkin Knockout";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:37";\
+            "reference_id" = 545430;\
+            "section_id" = "lv_0030";\
+            "section_title" = Statistics;\
+        \},\
+                \{\
+            "is_this_sub_section" = 1;\
+            "last_modified" = "2016-07-28 15:13:37";\
+            "reference_id" = 545431;\
+            "section_id" = "lv_0031";\
+            "section_title" = "Extended Experimental Procedures";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:37";\
+            "reference_id" = 545432;\
+            "section_id" = "lv_0032";\
+            "section_title" = Antibodies;\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:37";\
+            "reference_id" = 545433;\
+            "section_id" = "lv_0033";\
+            "section_title" = "Database Searching";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:37";\
+            "reference_id" = 545434;\
+            "section_id" = "lv_0034";\
+            "section_title" = "Northern Blot Analysis";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:37";\
+            "reference_id" = 545435;\
+            "section_id" = "lv_0035";\
+            "section_title" = "Plasmid Constructions";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:37";\
+            "reference_id" = 545436;\
+            "section_id" = "lv_0036";\
+            "section_title" = "Site-Directed Mutagenesis";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:37";\
+            "reference_id" = 545437;\
+            "section_id" = "lv_0037";\
+            "section_title" = "Purification of GST-PARIS Recombinant Proteins";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:37";\
+            "reference_id" = 545438;\
+            "section_id" = "lv_0038";\
+            "section_title" = "In Vitro Interaction Assay";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:37";\
+            "reference_id" = 545439;\
+            "section_id" = "lv_0039";\
+            "section_title" = "In Vitro Ubiquitination Assay";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:37";\
+            "reference_id" = 545440;\
+            "section_id" = "lv_0040";\
+            "section_title" = Coimmunoprecipitation;\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:37";\
+            "reference_id" = 545441;\
+            "section_id" = "lv_0041";\
+            "section_title" = "Cellular Ubiquitination Assay";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:37";\
+            "reference_id" = 545442;\
+            "section_id" = "lv_0042";\
+            "section_title" = Immunocytochemistry;\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:37";\
+            "reference_id" = 545443;\
+            "section_id" = "lv_0043";\
+            "section_title" = "Preparation of Tissues for Immunoblot";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:37";\
+            "reference_id" = 545444;\
+            "section_id" = "lv_0044";\
+            "section_title" = "Luciferase Assay";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:37";\
+            "reference_id" = 545445;\
+            "section_id" = "lv_0045";\
+            "section_title" = "CAST (Cyclic Amplification and Selection of Targets)";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:37";\
+            "reference_id" = 545446;\
+            "section_id" = "lv_0046";\
+            "section_title" = EMSA;\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:37";\
+            "reference_id" = 545447;\
+            "section_id" = "lv_0047";\
+            "section_title" = "Chromatin Immunoprecipitation";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:37";\
+            "reference_id" = 545448;\
+            "section_id" = "lv_0048";\
+            "section_title" = "Real-Time Quantitative RT-PCR (qRT-PCR)";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:37";\
+            "reference_id" = 545449;\
+            "section_id" = "lv_0049";\
+            "section_title" = "AAV1-Plasmid Construction and Generation of AAV1 Virus";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:37";\
+            "reference_id" = 545450;\
+            "section_id" = "lv_0050";\
+            "section_title" = "Lentiviral shRNA Constructs";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:37";\
+            "reference_id" = 545451;\
+            "section_id" = "lv_0051";\
+            "section_title" = "Stereological Assessment";\
+        \},\
+                \{\
+            "is_this_sub_section" = 0;\
+            "last_modified" = "2016-07-28 15:13:37";\
+            "reference_id" = 545452;\
+            "section_id" = "lv_0052";\
+            "section_title" = "Laser Capture Microdissection (LCM)";\
+        \},\
+                \{\
+            "is_this_sub_section" = 1;\
+            "last_modified" = "2016-07-28 15:13:37";\
+            "reference_id" = 545453;\
+            "section_id" = "lv_0053";\
+            "section_title" = Acknowledgments;\
+        \},\
+                \{\
+            "is_this_sub_section" = 1;\
+            "last_modified" = "2016-07-28 15:13:37";\
+            "reference_id" = 545454;\
+            "section_id" = "lv_0054";\
+            "section_title" = References;\
+        \},\
+                \{\
+            "is_this_sub_section" = 1;\
+            "last_modified" = "2016-07-28 15:13:37";\
+            "reference_id" = 545455;\
+            "section_id" = "lv_0055";\
+            "section_title" = "Supplemental References";\
+        \}\
+    );\
+    Sequence = 10;\
+    Video = "<null>";\
+    abstract = "";\
+    "article_id" = 3641;\
+    "article_info_id" = S0092867411001243;\
+    "article_sub_type" = "";\
+    "article_sub_type_2" = "";\
+    "article_sub_type_3" = "";\
+    "article_sub_type_4" = "";\
+    "article_title" = "PARIS (ZNF746) Repression of PGC-1\\U03b1 Contributes to Neurodegeneration in Parkinson's Disease";\
+    "article_type" = Articles;\
+    authors = "Joo-Ho Shin, Han\\U00a0Seok Ko, Hochul Kang, Yunjong Lee, Yun-Il Lee, Olga Pletinkova, Juan\\U00a0C. Troconso, Valina\\U00a0L. Dawson, Ted\\U00a0M. Dawson";\
+    "citation_text" = "<html><link rel=\\"stylesheet\\" href=\\"style.css\\" type=\\"text/css\\"></head><body><div class=\\"citation_content\\"><div class=\\"citation_heading\\">Article Title</div><hr class=\\"line_break\\">PARIS (ZNF746) Repression of PGC-1\\U03b1 Contributes to Neurodegeneration in Parkinson's Disease<div class=\\"citation_heading\\">Authors</div><hr class=\\"line_break\\">Joo-Ho Shin, Han\\U00a0Seok Ko, Hochul Kang, Yunjong Lee, Yun-Il Lee, Olga Pletinkova, Juan\\U00a0C. Troconso, Valina\\U00a0L. Dawson, Ted\\U00a0M. Dawson<div class=\\"citation_heading\\">Source</div><hr class=\\"line_break\\">Cell - Mar 04, 2011<br>144 | 5 | Pages 689-702<br>DOI: 10.1016/j.cell.2011.02.010</div></body></html>";\
+    copyright = "\\U00a9 2011 Elsevier Inc.";\
+    "date_of_release" = "2011-03-04";\
+    "doctopic_role" = "";\
+    "filesize_abs_suppl" = 4575044;\
+    "filesize_abstract" = 347215;\
+    "filesize_fulltext" = 9029309;\
+    "filesize_pdf" = 2500446;\
+    "filesize_suppl" = 4692594;\
+    "has_abstract_image" = 1;\
+    "has_audio" = 1;\
+    "has_image" = 1;\
+    "has_others" = 1;\
+    "has_video" = 0;\
+    "html_file_name" = "main.html";\
+    isArticleInPress = 0;\
+    isTopArticle = 1;\
+    "is_abs_supplement" = 1;\
+    "is_abstract" = 1;\
+    "is_cme" = 0;\
+    "is_supplement" = 1;\
+    "issue_id" = 142;\
+    keywords = "";\
+    "lancet_article_color" = "";\
+    "lancet_article_colorname" = "";\
+    "lancet_article_type" = "";\
+    "lancet_group_sequence" = 0;\
+    "last_modify" = "2016-07-28 11:13:28";\
+    "page_range" = "689-702";\
+    "pdf_file_name" = "main.pdf";\
+    v40 = 0;\
+    version = " ";\
+\}\
+)\
+, "MESSAGE": Data Found]}

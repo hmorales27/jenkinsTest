@@ -1,0 +1,343 @@
+#comment this pry out. For Mike's debugging
+#fastlane_require 'pry'
+#require 'pry'
+
+load 'FastlaneFunctions.rb'
+
+fastlane_version "1.66.0"
+default_platform :ios
+
+
+
+platform :ios do
+
+  before_all do
+
+    @root_dir = FileUtils.pwd
+    puts @root_dir
+    @FF = FastlaneFunctions.new
+    @root_dir.slice! "/fastlane"
+    puts @root_dir
+    @time_stamp = Time.now.strftime("%m%d%Y")
+    @compile_timestamp = Time.now.strftime("%a %b %e %H:%M:%S %Z %Y")
+    puts "COMPILE TIMESTAMP #{@compile_timestamp}"
+    @info_plist_path = "#{@root_dir}/Assets/Info.plist"
+    @path_graphics_resource = ENV["PATH_GRAPHICS_RESOURCE"]
+    @sigh_team_id_adhoc = ENV["SIGH_TEAM_ID_ADHOC"]
+    @sigh_certificate_id_adhoc = ENV["SIGH_CERTIFICATE_ID_ADHOC"]
+    @sigh_team_id_enterprise = ENV["SIGH_TEAM_ID_ENTERPRISE"]
+    @sigh_certificate_id_enterprise = ENV["SIGH_CERTIFICATE_ID_ENTERPRISE"]
+  end
+
+  lane :repl do |options|
+
+  end
+
+  def install_adhoc_cert
+    puts "ABOUT TO IMPORT CERT"
+    import_certificate(
+    certificate_path: "./Match/Certificates/ProductionCertificate.p12",
+    certificate_password: ENV["ADHOC_CERTIFICATE_CRED"],
+    keychain_name: ENV["ADHOC_KEYCHAIN_NAME"]
+    )
+  end
+
+  def install_enterprise_cert
+    import_certificate(
+    certificate_path: "./Match/Certificates/EnterpriseCertificate.p12",
+    certificate_password: ENV["ENT_CERTIFICATE_CRED"],
+    keychain_name: ENV["ENT_KEYCHAIN_NAME"]
+    )
+  end
+
+  def install_adhoc_cert
+    import_certificate(
+    certificate_path: "./Match/Certificates/ProductionCertificate.p12",
+    certificate_password: ENV["ADHOC_CERTIFICATE_CRED"],
+    keychain_name: ENV["ADHOC_KEYCHAIN_NAME"]
+    )
+  end
+
+  def install_enterprise_cert
+    import_certificate(
+    certificate_path: "./Match/Certificates/EnterpriseCertificate.p12",
+    certificate_password: ENV["ENT_CERTIFICATE_CRED"],
+    keychain_name: ENV["ENT_KEYCHAIN_NAME"]
+    )
+  end
+
+  lane :deliver_metadata do |options|
+    raise OptionParser::MissingArgument if options[:app_short_code].nil?
+    app_short_code = options[:app_short_code]
+    if app_short_code == "ALL"
+      @FF.get_app_short_codes.map do |short_code|
+        deliver_metadata_helper(short_code)
+      end
+    else
+      deliver_metadata_helper(app_short_code)
+    end
+  end
+
+  def deliver_metadata_helper(app_short_code)
+    begin
+    app_description = @FF.get_app_description_by_short_code(app_short_code)
+
+    out_file = File.new("metadata/en-US/description.txt", "w")
+    out_file.puts(app_description.full_description)
+    out_file.close
+    out_file = File.new("metadata/en-US/name.txt", "w")
+    out_file.puts(app_description.app_name)
+    out_file.close
+    ENV["DELIVER_ITMSTRANSPORTER_ADDITIONAL_UPLOAD_PARAMETERS"] = "-t DAV"
+    deliver(
+    app_identifier: app_description.bundle_identifier,
+    app_version: "6.0.0",
+    force: true,
+    skip_binary_upload: true,
+    skip_screenshots: true,
+    skip_metadata: false,
+    submit_for_review: false
+    )
+  rescue Exception => e
+    out_file = File.new("errorLogs/deliver_metadata_errors.txt", "a")
+    out_file.puts("Failed for: #{app_short_code} #{e.message}")
+    out_file.close
+  end
+  end
+
+  lane :adhoc do |options|
+    raise OptionParser::MissingArgument if options[:app_short_code].nil?
+    app_short_code = options[:app_short_code].upcase
+    env = @FF.update_environment(options[:env])
+    install_adhoc_cert
+    if app_short_code.upcase == "ALL"
+      @FF.get_app_short_codes.map do |short_code|
+        adhoc_helper(short_code, env)
+      end
+    else
+      adhoc_helper(app_short_code, env)
+    end
+  end
+  def adhoc_helper(app_short_code, env)
+    error_file = File.new("adhoc_errors.txt", "w")
+    metadata = @FF.get_app_metadata_by_app_short_code(app_short_code)
+    app_acronym = metadata["properties"]["app_acronym"]
+    bundle_identifier = metadata["properties"]["bundle_identifier"]
+    app_name = metadata["properties"]["app_name"]
+
+    ua_cert_app_key = metadata["properties"]["ua_app_key_cert"]
+    ua_cert_app_secret = metadata["properties"]["ua_app_secret_key_cert"]
+    ua_prod_app_key= metadata["properties"]["ua_app_key_prod"]
+    ua_prod_app_secret = metadata["properties"]["ua_app_secret_key_prod"]
+
+    @FF.update_urban_airship(ua_cert_app_key, ua_cert_app_secret, ua_prod_app_key, ua_prod_app_secret)
+    binding.pry
+    @FF.update_images(@path_graphics_resource + '/' + app_acronym)
+    begin
+      sigh(
+      output_path: "./Match/Provisioning Profiles/",
+      team_id: @sigh_team_id,
+      cert_id: @sigh_certificate_id,
+      app_identifier: bundle_identifier,
+      adhoc: true
+      )
+      profile_id = Actions.lane_context[Actions::SharedValues::SIGH_UDID]
+      xcargs = @FF.setup_xcargs(app_short_code, app_name, bundle_identifier, profile_id, env, @compile_timestamp)
+      puts xcargs
+      gym(
+      clean: false,
+      export_method: "ad-hoc",
+      scheme: "JBSM",
+      output_directory: "./build",
+      output_name: app_short_code + "_6.0.0_ADHOC_#{env}_#{@time_stamp}",
+      configuration: "AdHoc",
+      xcargs: xcargs,
+      use_legacy_build_api: true
+      )
+    rescue Exception => e
+      error_file.puts("Failed for #{app_acronym} " + e.message)
+    end
+  end
+
+  lane :submit_for_review do |options|
+    #setting this thing for SSL to not yell at me
+    ENV["DELIVER_ITMSTRANSPORTER_ADDITIONAL_UPLOAD_PARAMETERS"] = "-t DAV"
+    raise OptionParser::MissingArgument if options[:app_short_code].nil?
+    app_short_code = options[:app_short_code].upcase
+    ENV["DELIVER_ITMSTRANSPORTER_ADDITIONAL_UPLOAD_PARAMETERS"] = "-t DAV"
+    if app_short_code.upcase == "ALL"
+      @FF.get_app_short_codes.map do |short_code|
+        submit_for_review_helper(short_code)
+      end
+    else
+      submit_for_review_helper(app_short_code)
+    end
+  end
+
+  def submit_for_review_helper(app_short_code)
+    bundle_identifier = @FF.get_app_metadata_by_app_short_code(app_short_code)["properties"]["bundle_identifier"]
+    error_file = File.new("submit_for_review_errors.txt", "w")
+    begin
+      deliver(
+      app_identifier: bundle_identifier,
+      app_version: "6.0.0",
+      force: true,
+      skip_binary_upload: true,
+      skip_screenshots: true,
+      skip_metadata: true,
+      submit_for_review: true,
+      submission_information: {
+        add_id_info_uses_idfa: true,
+        export_compliance_uses_encryption: false,
+        export_compliance_encryption_updated: false,
+        add_id_info_limits_tracking: true,
+        add_id_info_serves_ads: false,
+        add_id_info_tracks_action: true,
+        add_id_info_tracks_install: true
+      }
+      )
+    rescue Exception => e
+      error_file.puts "Failed for #{app_short_code} #{e.message}"
+    end
+    error_file.close
+  end
+
+  lane :deliver_ipa do |options|
+    raise OptionParser::MissingArgument if options[:app_short_code].nil?
+    app_short_code = options[:app_short_code].upcase
+    ENV["DELIVER_ITMSTRANSPORTER_ADDITIONAL_UPLOAD_PARAMETERS"] = "-t DAV"
+    if app_short_code.upcase == "ALL"
+      @FF.get_app_short_codes.map do |short_code|
+        deliver_ipa_helper(short_code)
+      end
+    else
+      deliver_ipa_helper(app_short_code)
+    end
+  end
+
+  def deliver_ipa_helper(app_short_code)
+    bundle_identifier = @FF.get_app_metadata_by_app_short_code(app_short_code)["properties"]["bundle_identifier"]
+    error_file = File.new("deliver_ipa_errors.txt", "w")
+    begin
+      deliver(
+      app_identifier: bundle_identifier,
+      app_version: "6.0.0",
+      force: true,
+      skip_binary_upload: false,
+      skip_screenshots: true,
+      skip_metadata: true,
+      submit_for_review: false,
+      ipa: @project_home_directory + @FF.get_ipa_path_for_acronym(app_short_code)
+      )
+    rescue Exception => e
+      error_file.puts("Failed for: #{app_short_code} #{e.message}")
+    end
+    error_file.close
+  end
+
+  lane :xcode8 do |options|
+    update_images("LANCET")
+    gym(
+      clean: false,
+      export_method: "enterprise",
+      output_directory: "./build",
+      output_name: "LANCET" + "_6.1.0_ENT_DEV_PUSH",
+      configuration: "Enterprise",
+      use_legacy_build_api: true
+    )
+  end
+
+  def update_images(acronym)
+    path="#{ENV['PATH_GRAPHICS_RESOURCE']}/#{acronym}/"
+    puts path
+    sh "./replace_images_with_default.sh #{path}"
+    sh "./ios-icon-generator.sh #{path}Icon-60@3x.png ../Assets/images.xcassets/AppIcon.appiconset"
+    sh "./s9splashgen.rb #{path} ../Assets/images.xcassets/"
+  end
+
+  lane :enterprise do |options|
+    raise OptionParser::MissingArgument if options[:app_short_code].nil?
+    app_short_code = options[:app_short_code].upcase
+    env = @FF.update_environment(options[:env])
+    #install_enterprise_cert
+    if app_short_code.upcase == "ALL"
+      @FF.get_app_short_codes.map do |short_code|
+        enterprise_helper(short_code, env)
+      end
+    else
+      enterprise_helper(app_short_code,env)
+    end
+  end
+
+  lane :unit_test do |options|
+    begin
+      scan(
+        scheme:"Unit_test",
+        clean:true,
+        open_report:true,
+        device:'iPhone 6',
+        slack_url:"https://hooks.slack.com/services/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",
+        slack_message:"iOS Unit test report:",
+        slack_only_on_failure:true,
+        code_coverage:true
+      )
+      sh "../generateCoverage.sh"
+    rescue Exception => e
+      UI.error("❌ test failed")
+    end
+  end
+
+  lane :ui_test do |options|
+    begin
+      scan(
+        scheme:"JBSMUITest",
+        clean:true,
+        open_report:true,
+        device:'iPhone 6',
+        slack_url:"https://hooks.slack.com/services/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",
+        slack_message:"iOS Unit test report:",
+        slack_only_on_failure:true,
+        code_coverage:true
+      )
+
+    rescue Exception => e
+      UI.error("❌ test failed")
+    end
+  end
+
+  def enterprise_helper(app_short_code, env)
+
+    metadata = @FF.get_app_metadata_by_app_short_code(app_short_code)
+    app_acronym = metadata["properties"]["app_acronym"]
+    app_name = metadata["properties"]["app_name"]
+    ua_cert_app_key = metadata["properties"]["ua_app_key_cert"]
+    ua_cert_app_secret = metadata["properties"]["ua_app_secret_key_cert"]
+    ua_prod_app_key= metadata["properties"]["ua_app_key_prod"]
+    ua_prod_app_secret = metadata["properties"]["ua_app_secret_key_prod"]
+    bundle_identifier = "com.elsevier.jbsm.swift." + app_acronym
+
+    @FF.update_urban_airship(ua_cert_app_key, ua_cert_app_secret, ua_prod_app_key, ua_prod_app_secret)
+    @FF.update_images(@path_graphics_resource + '/' + app_acronym)
+
+    sigh(
+    output_path: "./Match/Provisioning Profiles/",
+    team_id: @sigh_team_id_enterprise,
+    cert_id: @sigh_certificate_id_enterprise,
+    app_identifier: "com.elsevier.jbsm.swift.*",
+    ignore_profiles_with_different_name: true,
+    provisioning_name: "JBSM Swift Wildcard"
+    )
+    profile_id = Actions.lane_context[Actions::SharedValues::SIGH_UDID]
+    xcargs = @FF.setup_xcargs(app_short_code, app_name, bundle_identifier, profile_id, env, @compile_timestamp)
+
+    gym(
+    clean: false,
+    export_method: "enterprise",
+    scheme: "JBSM",
+    output_directory: "./build",
+    output_name: app_short_code + "_6.0.0_ENT_#{env}_#{@time_stamp}",
+    configuration: "Enterprise",
+    xcargs: xcargs
+    )
+  end
+end

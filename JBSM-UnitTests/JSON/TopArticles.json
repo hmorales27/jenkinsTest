@@ -1,0 +1,467 @@
+{
+    "articleId": 12044,
+    "articlePii": "S0140673616314672",
+    "issueId": 328,
+    "articleTitle": "Measuring the health-related Sustainable Development Goals in 188 countries: a baseline analysis from the Global Burden of Disease Study 2015",
+    "authorNames": "GBD 2015 SDG Collaborators",
+    "htmlFileName": "main.html",
+    "dateOfRelease": "2016-10-08",
+    "articleSubType": "",
+    "articleType": "",
+    "pdfFileName": "main.pdf",
+    "keywords": "",
+    "lastModified": "2016-11-16 15:08:43.0",
+    "sequence": 13,
+    "doi": "10.1016/S0140-6736(16)31467-2",
+    "doiLink": "http://dx.doi.org/10.1016/S0140-6736(16)31467-2",
+    "pageRange": "1813-1850",
+    "citationText": "<html><link rel=\"stylesheet\" href=\"style.css\" type=\"text/css\"></head><body><div class=\"citation_content\"><div class=\"citation_heading\">Article Title</div><hr class=\"line_break\">Measuring the health-related Sustainable Development Goals in 188 countries: a baseline analysis from the Global Burden of Disease Study 2015<div class=\"citation_heading\">Authors</div><hr class=\"line_break\">GBD 2015 SDG Collaborators<div class=\"citation_heading\">Source</div><hr class=\"line_break\">The Lancet - Oct 08, 2016<br>388 | 10053 | Pages 1813-1850<br>DOI: 10.1016/S0140-6736(16)31467-2</div></body></html>",
+    "fulltextFileSize": 13099070,
+    "abstractFileSize": 6602,
+    "pdfFileSize": 14941774,
+    "supplementFileSize": 46775995,
+    "absSupplementFileSize": 0,
+    "copyright": "© 2016 The Authors(s). Published by Elsevier Ltd. This is an Open Access article under the CC BY license",
+    "docTopicRole": "",
+    "issuePii": "S0140673616X00426",
+    "lancetArticleType": "Articles",
+    "lancetArticleColor": "179,7,57",
+    "lancetGroupSequence": "0",
+    "articleSubType2": "",
+    "articleSubType3": "",
+    "articleSubType4": "",
+    "aipIdentifier": null,
+    "oaStatusDisplay": "Open Access",
+    "oaSinceDate": "",
+    "oaStatusArchive": "",
+    "oaDisplaySponsorName": "Open Access funded by Bill & Melinda Gates Foundation",
+    "oaDisplayLicense": "",
+    "oaIdentifier": "1",
+    "oaInfoHtml": "<div class='cu_wrapper'> <div class='cus_container'><div class='pub_main'></div><div class='op_acc_head'><p class='op_acc_head'> <p class='perm open_acc'>Open Access</p><p class='cc_licns mar_bot_0'>DOI: <a href='http://dx.doi.org/10.1016/S0140-6736(16)31467-2'>http://dx.doi.org/10.1016/S0140-6736(16)31467-2</a></p><p> Open access funded by Bill & Melinda Gates Foundation.</p></p></div><div class='art_info_main'><div class='article_drop_menu_main'><div class='article_drop_menu'><p class='art_tog_menu'><a id='expand_collapse' href='UserInfo'><span class='accor_btn'>+</span>Article Info</a></p><div id='show_hide' class='article_drop_menu_inner'><div class='permited_sec'><p id='content_change' class='font_13'></p><p class='perm'>User License</p><p class='cc_licns'><a href='http://creativecommons.org/licenses/by/4.0/'>Creative Commons license</a> | <a href='/show/CC-BY'>How you Can reuse</a></p></div><p class='foot'>© 2016 The Authors(s). Published by Elsevier Ltd. This is an Open Access article under the CC BY license</p> </div></div></div></div></div></div>",
+    "oaModifiedDate": "2016-11-16 15:08:53.0",
+    "lancetArticleColorName": "red",
+    "references": [
+                   {
+                   "referenceId": 513088,
+                   "sectionId": "lv_0024",
+                   "sectionTitle": "References",
+                   "lastModified": "2016-11-16 15:09:34.0",
+                   "isSubSection": true
+                   },
+                   {
+                   "referenceId": 513087,
+                   "sectionId": "lv_0023",
+                   "sectionTitle": "Conclusions",
+                   "lastModified": "2016-11-16 15:09:34.0",
+                   "isSubSection": true
+                   },
+                   {
+                   "referenceId": 513086,
+                   "sectionId": "lv_0022",
+                   "sectionTitle": "Limitations",
+                   "lastModified": "2016-11-16 15:09:34.0",
+                   "isSubSection": false
+                   },
+                   {
+                   "referenceId": 513085,
+                   "sectionId": "lv_0021",
+                   "sectionTitle": "Comparison with other assessments",
+                   "lastModified": "2016-11-16 15:09:34.0",
+                   "isSubSection": false
+                   },
+                   {
+                   "referenceId": 513084,
+                   "sectionId": "lv_0020",
+                   "sectionTitle": "Strengthening the indicators for selected targets",
+                   "lastModified": "2016-11-16 15:09:34.0",
+                   "isSubSection": false
+                   },
+                   {
+                   "referenceId": 513083,
+                   "sectionId": "lv_0019",
+                   "sectionTitle": "Indicators not presently measured",
+                   "lastModified": "2016-11-16 15:09:34.0",
+                   "isSubSection": false
+                   },
+                   {
+                   "referenceId": 513082,
+                   "sectionId": "lv_0018",
+                   "sectionTitle": "Improving the measurement of currently included health-related indicators",
+                   "lastModified": "2016-11-16 15:09:34.0",
+                   "isSubSection": false
+                   },
+                   {
+                   "referenceId": 513081,
+                   "sectionId": "lv_0017",
+                   "sectionTitle": "Future directions for GBD monitoring efforts",
+                   "lastModified": "2016-11-16 15:09:34.0",
+                   "isSubSection": false
+                   },
+                   {
+                   "referenceId": 513080,
+                   "sectionId": "lv_0016",
+                   "sectionTitle": "Summary of findings and implications",
+                   "lastModified": "2016-11-16 15:09:34.0",
+                   "isSubSection": false
+                   },
+                   {
+                   "referenceId": 513079,
+                   "sectionId": "lv_0015",
+                   "sectionTitle": "Discussion",
+                   "lastModified": "2016-11-16 15:09:34.0",
+                   "isSubSection": true
+                   },
+                   {
+                   "referenceId": 513075,
+                   "sectionId": "lv_0011",
+                   "sectionTitle": "Health-related SDG, health-related MDG, and health-related non-MDG indices",
+                   "lastModified": "2016-11-16 15:09:34.0",
+                   "isSubSection": false
+                   },
+                   {
+                   "referenceId": 513076,
+                   "sectionId": "lv_0012",
+                   "sectionTitle": "Relations between health-related SDG indicators and the Socio-demographic Index and healthy life expectancy",
+                   "lastModified": "2016-11-16 15:09:34.0",
+                   "isSubSection": false
+                   },
+                   {
+                   "referenceId": 513078,
+                   "sectionId": "lv_0014",
+                   "sectionTitle": "Results",
+                   "lastModified": "2016-11-16 15:09:34.0",
+                   "isSubSection": true
+                   },
+                   {
+                   "referenceId": 513072,
+                   "sectionId": "lv_0008",
+                   "sectionTitle": "Methods",
+                   "lastModified": "2016-11-16 15:09:34.0",
+                   "isSubSection": true
+                   },
+                   {
+                   "referenceId": 513073,
+                   "sectionId": "lv_0009",
+                   "sectionTitle": "Overview of GBD",
+                   "lastModified": "2016-11-16 15:09:34.0",
+                   "isSubSection": false
+                   },
+                   {
+                   "referenceId": 513074,
+                   "sectionId": "lv_0010",
+                   "sectionTitle": "Indicators, definitions, and measurement approach",
+                   "lastModified": "2016-11-16 15:09:34.0",
+                   "isSubSection": false
+                   },
+                   {
+                   "referenceId": 513077,
+                   "sectionId": "lv_0013",
+                   "sectionTitle": "Role of the funding source",
+                   "lastModified": "2016-11-16 15:09:34.0",
+                   "isSubSection": false
+                   },
+                   {
+                   "referenceId": 513071,
+                   "sectionId": "lv_0007",
+                   "sectionTitle": "Background",
+                   "lastModified": "2016-11-16 15:09:34.0",
+                   "isSubSection": true
+                   },
+                   {
+                   "referenceId": 513070,
+                   "sectionId": "lv_0006",
+                   "sectionTitle": "Funding",
+                   "lastModified": "2016-11-16 15:09:34.0",
+                   "isSubSection": false
+                   },
+                   {
+                   "referenceId": 513069,
+                   "sectionId": "lv_0005",
+                   "sectionTitle": "Interpretation",
+                   "lastModified": "2016-11-16 15:09:34.0",
+                   "isSubSection": false
+                   },
+                   {
+                   "referenceId": 513068,
+                   "sectionId": "lv_0004",
+                   "sectionTitle": "Findings",
+                   "lastModified": "2016-11-16 15:09:34.0",
+                   "isSubSection": false
+                   },
+                   {
+                   "referenceId": 513067,
+                   "sectionId": "lv_0003",
+                   "sectionTitle": "Methods",
+                   "lastModified": "2016-11-16 15:09:34.0",
+                   "isSubSection": false
+                   },
+                   {
+                   "referenceId": 513066,
+                   "sectionId": "lv_0002",
+                   "sectionTitle": "Background",
+                   "lastModified": "2016-11-16 15:09:34.0",
+                   "isSubSection": false
+                   },
+                   {
+                   "referenceId": 513065,
+                   "sectionId": "lv_0001",
+                   "sectionTitle": "Summary",
+                   "lastModified": "2016-11-16 15:09:34.0",
+                   "isSubSection": true
+                   }
+                   ],
+    "medias": [
+               {
+               "mediaType": "PDF",
+               "mediaThumbImageName": "",
+               "mediaFileName": "mmc1.pdf",
+               "mediaText": "Supplementary appendices",
+               "mediaCaption": "",
+               "sequence": 1,
+               "mediaFileDuration": null,
+               "mediaFileSize": 25559662,
+               "isShareable": true,
+               "isDeleted": false,
+               "isFullTextAsset": true
+               },
+               {
+               "mediaType": "PDF",
+               "mediaThumbImageName": "",
+               "mediaFileName": "mmc2.pdf",
+               "mediaText": "Supplementary appendices",
+               "mediaCaption": "",
+               "sequence": 2,
+               "mediaFileDuration": null,
+               "mediaFileSize": 20147887,
+               "isShareable": true,
+               "isDeleted": false,
+               "isFullTextAsset": true
+               },
+               {
+               "mediaType": "PDF",
+               "mediaThumbImageName": "",
+               "mediaFileName": "mmc3.pdf",
+               "mediaText": "Supplementary appendices",
+               "mediaCaption": "",
+               "sequence": 3,
+               "mediaFileDuration": null,
+               "mediaFileSize": 1068446,
+               "isShareable": true,
+               "isDeleted": false,
+               "isFullTextAsset": true
+               },
+               {
+               "mediaType": "Image",
+               "mediaThumbImageName": "gr1a.jpg",
+               "mediaFileName": "gr1a.jpg",
+               "mediaText": "",
+               "mediaCaption": "<figcaption class=\"caption\"><strong>Figure 1</strong>   <span class=\"caption\">Performance of the health-related SDG index, MDG index, and non-MDG index, and 33 individual health-related indicators, by country, 2015<br/></span><span class=\"caption\">Countries are ranked by their health-related SDG index from highest to lowest. Indicators have been scaled from 0 to 100. Definitions of health-related SDG indicators are shown in <a href=\"#tbl1\" name=\"back-tbl1\" class=\"ja50-ce-cross-ref\">table 1</a>. SDG=Sustainable Development Goal. MDG=Millennium Development Goal. MMR=maternal mortality ratio. SBA=skilled birth attendance. Mort=mortality. NN mort=neonatal mortality. NTDs=neglected tropical diseases. NCDs=non-communicable diseases. FP need met, mod=family planning need met, modern contraception. Adol=adolescent. UHC=universal health coverage. Air poll mort=mortality attributable to air pollution. WaSH=water, sanitation, and hygiene. IPV=intimate partner violence. HH air poll=household air pollution. Occ risk burden=burden attributable to occupational risks. PM2·5=fine particulate matter smaller than 2·5 μm.<br/></span></figcaption>",
+               "sequence": 1,
+               "mediaFileDuration": null,
+               "mediaFileSize": 0,
+               "isShareable": true,
+               "isDeleted": false,
+               "isFullTextAsset": true
+               },
+               {
+               "mediaType": "Image",
+               "mediaThumbImageName": "gr1b.jpg",
+               "mediaFileName": "gr1b.jpg",
+               "mediaText": "",
+               "mediaCaption": "<figcaption class=\"caption\"><strong>Figure 1</strong>   <span class=\"caption\">Performance of the health-related SDG index, MDG index, and non-MDG index, and 33 individual health-related indicators, by country, 2015<br/></span><span class=\"caption\">Countries are ranked by their health-related SDG index from highest to lowest. Indicators have been scaled from 0 to 100. Definitions of health-related SDG indicators are shown in <a href=\"#tbl1\" name=\"back-tbl1\" class=\"ja50-ce-cross-ref\">table 1</a>. SDG=Sustainable Development Goal. MDG=Millennium Development Goal. MMR=maternal mortality ratio. SBA=skilled birth attendance. Mort=mortality. NN mort=neonatal mortality. NTDs=neglected tropical diseases. NCDs=non-communicable diseases. FP need met, mod=family planning need met, modern contraception. Adol=adolescent. UHC=universal health coverage. Air poll mort=mortality attributable to air pollution. WaSH=water, sanitation, and hygiene. IPV=intimate partner violence. HH air poll=household air pollution. Occ risk burden=burden attributable to occupational risks. PM2·5=fine particulate matter smaller than 2·5 μm.<br/></span></figcaption>",
+               "sequence": 2,
+               "mediaFileDuration": null,
+               "mediaFileSize": 0,
+               "isShareable": true,
+               "isDeleted": false,
+               "isFullTextAsset": true
+               },
+               {
+               "mediaType": "Image",
+               "mediaThumbImageName": "gr1c.jpg",
+               "mediaFileName": "gr1c.jpg",
+               "mediaText": "",
+               "mediaCaption": "<figcaption class=\"caption\"><strong>Figure 1</strong>   <span class=\"caption\">Performance of the health-related SDG index, MDG index, and non-MDG index, and 33 individual health-related indicators, by country, 2015<br/></span><span class=\"caption\">Countries are ranked by their health-related SDG index from highest to lowest. Indicators have been scaled from 0 to 100. Definitions of health-related SDG indicators are shown in <a href=\"#tbl1\" name=\"back-tbl1\" class=\"ja50-ce-cross-ref\">table 1</a>. SDG=Sustainable Development Goal. MDG=Millennium Development Goal. MMR=maternal mortality ratio. SBA=skilled birth attendance. Mort=mortality. NN mort=neonatal mortality. NTDs=neglected tropical diseases. NCDs=non-communicable diseases. FP need met, mod=family planning need met, modern contraception. Adol=adolescent. UHC=universal health coverage. Air poll mort=mortality attributable to air pollution. WaSH=water, sanitation, and hygiene. IPV=intimate partner violence. HH air poll=household air pollution. Occ risk burden=burden attributable to occupational risks. PM2·5=fine particulate matter smaller than 2·5 μm.<br/></span></figcaption>",
+               "sequence": 3,
+               "mediaFileDuration": null,
+               "mediaFileSize": 0,
+               "isShareable": true,
+               "isDeleted": false,
+               "isFullTextAsset": true
+               },
+               {
+               "mediaType": "Image",
+               "mediaThumbImageName": "gr1d.jpg",
+               "mediaFileName": "gr1d.jpg",
+               "mediaText": "",
+               "mediaCaption": "<figcaption class=\"caption\"><strong>Figure 1</strong>   <span class=\"caption\">Performance of the health-related SDG index, MDG index, and non-MDG index, and 33 individual health-related indicators, by country, 2015<br/></span><span class=\"caption\">Countries are ranked by their health-related SDG index from highest to lowest. Indicators have been scaled from 0 to 100. Definitions of health-related SDG indicators are shown in <a href=\"#tbl1\" name=\"back-tbl1\" class=\"ja50-ce-cross-ref\">table 1</a>. SDG=Sustainable Development Goal. MDG=Millennium Development Goal. MMR=maternal mortality ratio. SBA=skilled birth attendance. Mort=mortality. NN mort=neonatal mortality. NTDs=neglected tropical diseases. NCDs=non-communicable diseases. FP need met, mod=family planning need met, modern contraception. Adol=adolescent. UHC=universal health coverage. Air poll mort=mortality attributable to air pollution. WaSH=water, sanitation, and hygiene. IPV=intimate partner violence. HH air poll=household air pollution. Occ risk burden=burden attributable to occupational risks. PM2·5=fine particulate matter smaller than 2·5 μm.<br/></span></figcaption>",
+               "sequence": 4,
+               "mediaFileDuration": null,
+               "mediaFileSize": 0,
+               "isShareable": true,
+               "isDeleted": false,
+               "isFullTextAsset": true
+               },
+               {
+               "mediaType": "Image",
+               "mediaThumbImageName": "gr1e.jpg",
+               "mediaFileName": "gr1e.jpg",
+               "mediaText": "",
+               "mediaCaption": "<figcaption class=\"caption\"><strong>Figure 1</strong>   <span class=\"caption\">Performance of the health-related SDG index, MDG index, and non-MDG index, and 33 individual health-related indicators, by country, 2015<br/></span><span class=\"caption\">Countries are ranked by their health-related SDG index from highest to lowest. Indicators have been scaled from 0 to 100. Definitions of health-related SDG indicators are shown in <a href=\"#tbl1\" name=\"back-tbl1\" class=\"ja50-ce-cross-ref\">table 1</a>. SDG=Sustainable Development Goal. MDG=Millennium Development Goal. MMR=maternal mortality ratio. SBA=skilled birth attendance. Mort=mortality. NN mort=neonatal mortality. NTDs=neglected tropical diseases. NCDs=non-communicable diseases. FP need met, mod=family planning need met, modern contraception. Adol=adolescent. UHC=universal health coverage. Air poll mort=mortality attributable to air pollution. WaSH=water, sanitation, and hygiene. IPV=intimate partner violence. HH air poll=household air pollution. Occ risk burden=burden attributable to occupational risks. PM2·5=fine particulate matter smaller than 2·5 μm.<br/></span></figcaption>",
+               "sequence": 5,
+               "mediaFileDuration": null,
+               "mediaFileSize": 0,
+               "isShareable": true,
+               "isDeleted": false,
+               "isFullTextAsset": true
+               },
+               {
+               "mediaType": "Image",
+               "mediaThumbImageName": "gr1f.jpg",
+               "mediaFileName": "gr1f.jpg",
+               "mediaText": "",
+               "mediaCaption": "<figcaption class=\"caption\"><strong>Figure 1</strong>   <span class=\"caption\">Performance of the health-related SDG index, MDG index, and non-MDG index, and 33 individual health-related indicators, by country, 2015<br/></span><span class=\"caption\">Countries are ranked by their health-related SDG index from highest to lowest. Indicators have been scaled from 0 to 100. Definitions of health-related SDG indicators are shown in <a href=\"#tbl1\" name=\"back-tbl1\" class=\"ja50-ce-cross-ref\">table 1</a>. SDG=Sustainable Development Goal. MDG=Millennium Development Goal. MMR=maternal mortality ratio. SBA=skilled birth attendance. Mort=mortality. NN mort=neonatal mortality. NTDs=neglected tropical diseases. NCDs=non-communicable diseases. FP need met, mod=family planning need met, modern contraception. Adol=adolescent. UHC=universal health coverage. Air poll mort=mortality attributable to air pollution. WaSH=water, sanitation, and hygiene. IPV=intimate partner violence. HH air poll=household air pollution. Occ risk burden=burden attributable to occupational risks. PM2·5=fine particulate matter smaller than 2·5 μm.<br/></span></figcaption>",
+               "sequence": 6,
+               "mediaFileDuration": null,
+               "mediaFileSize": 0,
+               "isShareable": true,
+               "isDeleted": false,
+               "isFullTextAsset": true
+               },
+               {
+               "mediaType": "Image",
+               "mediaThumbImageName": "gr2.jpg",
+               "mediaFileName": "gr2.jpg",
+               "mediaText": "",
+               "mediaCaption": "<figcaption class=\"caption\"><strong>Figure 2</strong>   <span class=\"caption\">Map of health-related SDG index, by quintile, 2015<br/></span><span class=\"caption\">SDG=Sustainable Development Goal. ATG=Antigua and Barbuda. VCT=Saint Vincent and the Grenadines. LCA=Saint Lucia. TTO=Trinidad and Tobago. TLS=Timor-Leste. FSM=Federated States of Micronesia.<br/></span></figcaption>",
+               "sequence": 7,
+               "mediaFileDuration": null,
+               "mediaFileSize": 0,
+               "isShareable": true,
+               "isDeleted": false,
+               "isFullTextAsset": true
+               },
+               {
+               "mediaType": "Image",
+               "mediaThumbImageName": "gr3.jpg",
+               "mediaFileName": "gr3.jpg",
+               "mediaText": "",
+               "mediaCaption": "<figcaption class=\"caption\"><strong>Figure 3</strong>   <span class=\"caption\">Non-MDG index versus MDG index, by country, 2015<br/></span><span class=\"caption\">The dark blue line shows the equivalence line, such that values that fall on this line are equivalent for both the MDG index and non-MDG index. Countries are abbreviated according to the ISO3 code. MDG=Millennium Development Goal. SDI=Socio-demographic Index.<br/></span></figcaption>",
+               "sequence": 8,
+               "mediaFileDuration": null,
+               "mediaFileSize": 0,
+               "isShareable": true,
+               "isDeleted": false,
+               "isFullTextAsset": true
+               },
+               {
+               "mediaType": "Image",
+               "mediaThumbImageName": "gr4.jpg",
+               "mediaFileName": "gr4.jpg",
+               "mediaText": "",
+               "mediaCaption": "<figcaption class=\"caption\"><strong>Figure 4</strong>   <span class=\"caption\">Relations (A) between the SDI and the health-related SDG index, (B) between the SDI and the MDG index, (C) between the SDI and the non-MDG index, and (D) between healthy life expectancy and the health-related SDG index, by country representing each of the seven GBD super regions, 2015<br/></span><span class=\"caption\">Each point represents a country and is colour coded according to the seven GBD super regions. The black lines were generated by spline regression. SDG=Sustainable Development Goal. SDI=Socio-demographic Index. MDG=Millennium Development Goal. GBD=Global Burden of Disease.<br/></span></figcaption>",
+               "sequence": 9,
+               "mediaFileDuration": null,
+               "mediaFileSize": 0,
+               "isShareable": true,
+               "isDeleted": false,
+               "isFullTextAsset": true
+               },
+               {
+               "mediaType": "Image",
+               "mediaThumbImageName": "gr5.jpg",
+               "mediaFileName": "gr5.jpg",
+               "mediaText": "",
+               "mediaCaption": "<figcaption class=\"caption\"><strong>Figure 5</strong>   <span class=\"caption\">Map of observed health-related SDG index minus expected health-related SDG index, on the basis of SDI alone, 2015<br/></span><span class=\"caption\">The difference between the observed health-related SDG index and expected index (on the basis of SDI) reflects whether a country has a health-related SDG index above or below the expected level. Values for this difference are colour coded such that dark red reflects an observed health-related SDG index that is much lower than expected on the basis of SDI, and dark blue indicates that observed levels are much higher than expected on the basis of SDI. SDG=Sustainable Development Goal. SDI=Socio-demographic Index. ATG=Antigua and Barbuda. VCT=Saint Vincent and the Grenadines. LCA=Saint Lucia. TTO=Trinidad and Tobago. TLS=Timor-Leste. FSM=Federated States of Micronesia.<br/></span></figcaption>",
+               "sequence": 10,
+               "mediaFileDuration": null,
+               "mediaFileSize": 0,
+               "isShareable": true,
+               "isDeleted": false,
+               "isFullTextAsset": true
+               },
+               {
+               "mediaType": "Image",
+               "mediaThumbImageName": "gr6.jpg",
+               "mediaFileName": "gr6.jpg",
+               "mediaText": "",
+               "mediaCaption": "<figcaption class=\"caption\"><strong>Figure 6</strong>   <span class=\"caption\">Median absolute change for health-related SDG index, MDG index, and 33 individual health-related SDG indicators (rescaled), (A) across all countries and in the (B) low-SDI quintile, (C) low-middle-SDI quintile, (D) middle-SDI quintile, (E) high-middle-SDI quintile, and (F) high-SDI quintile, 2000—15<br/></span><span class=\"caption\">Positive values indicate improvements between 2000—15, and negative values point to worsening performance for a given indicator during this time. Black stripes represent median absolute change and boxes represent IQR. Health-related indicators are colour coded according to the health-related goals they represent. Definitions of health-related SDG indicators are shown in <a href=\"#tbl1\" name=\"back-tbl1\" class=\"ja50-ce-cross-ref\">table 1</a>. SDG=Sustainable Development Goal. MDG=Millennium Development Goal. SDI=Socio-demographic Index. MMR=maternal mortality ratio. SBA=skilled birth attendance. Mort=mortality. NN mort=neonatal mortality. NTDs=neglected tropical diseases. NCDs=non-communicable diseases. FP need met, mod=family planning need met, modern contraception. Adol=adolescent. UHC=universal health coverage. Air poll mort=mortality attributable to air pollution. WaSH=water, sanitation, and hygiene. IPV=intimate partner violence. HH air poll=household air pollution. Occ risk burden=burden attributable to occupational risks. PM2·5=fine particulate matter smaller than 2·5 μm.<br/></span></figcaption>",
+               "sequence": 11,
+               "mediaFileDuration": null,
+               "mediaFileSize": 0,
+               "isShareable": true,
+               "isDeleted": false,
+               "isFullTextAsset": true
+               },
+               {
+               "mediaType": "Image",
+               "mediaThumbImageName": "gr7.jpg",
+               "mediaFileName": "gr7.jpg",
+               "mediaText": "",
+               "mediaCaption": "<figcaption class=\"caption\"><strong>Figure 7</strong>   <span class=\"caption\">Health-related SDG index in 2015 versus 2000, by country<br/></span><span class=\"caption\">The blue line shows the equivalence line, such that values that fall on this line are equivalent for both the health-related SDG index in 2000 and health-related SDG index in 2015. Only the top five and bottom five improvers in each SDI quintile, as determined by the absolute change from 2000 to 2015, are labelled; full results are shown in the results <a href=\"#sec1\" name=\"back-sec1\" class=\"ja50-ce-cross-ref\">appendix</a>. Countries are abbreviated according to the ISO3 code. SDI=Socio-demographic Index. SDG=Sustainable Development Goal.<br/></span></figcaption>",
+               "sequence": 12,
+               "mediaFileDuration": null,
+               "mediaFileSize": 0,
+               "isShareable": true,
+               "isDeleted": false,
+               "isFullTextAsset": true
+               },
+               {
+               "mediaType": "Table",
+               "mediaThumbImageName": "",
+               "mediaFileName": "Table1.html",
+               "mediaText": "",
+               "mediaCaption": "",
+               "sequence": 1,
+               "mediaFileDuration": null,
+               "mediaFileSize": 0,
+               "isShareable": true,
+               "isDeleted": false,
+               "isFullTextAsset": false
+               },
+               {
+               "mediaType": "Table",
+               "mediaThumbImageName": "",
+               "mediaFileName": "Table2.html",
+               "mediaText": "",
+               "mediaCaption": "",
+               "sequence": 2,
+               "mediaFileDuration": null,
+               "mediaFileSize": 0,
+               "isShareable": true,
+               "isDeleted": false,
+               "isFullTextAsset": false
+               },
+               {
+               "mediaType": "Table",
+               "mediaThumbImageName": "",
+               "mediaFileName": "Table3.html",
+               "mediaText": "",
+               "mediaCaption": "",
+               "sequence": 3,
+               "mediaFileDuration": null,
+               "mediaFileSize": 0,
+               "isShareable": true,
+               "isDeleted": false,
+               "isFullTextAsset": false
+               }
+               ],
+    "isAip": false,
+    "isCme": false,
+    "hasSupplement": true,
+    "hasAbstract": true,
+    "hasAbsSupplement": false,
+    "hasVideo": false,
+    "hasAudio": false,
+    "hasImage": true,
+    "hasAbsImage": false,
+    "hasOthers": true,
+    "authors": [
+                {
+                "authorId": 374120,
+                "authorNames": "GBD 2015 SDG Collaborators",
+                "authorDescription": "",
+                "lastModified": "2016-11-16 15:09:34.0"
+                }
+                ]
+}

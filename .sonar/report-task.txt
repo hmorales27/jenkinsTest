@@ -1,0 +1,5 @@
+projectKey=JBSM
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/JBSM
+ceTaskId=AViNfzF6tLgONvIzBQWi
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AViNfzF6tLgONvIzBQWi

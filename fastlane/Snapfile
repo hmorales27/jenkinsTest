@@ -1,0 +1,10 @@
+
+#configuration "AdHoc"
+#languages(["en-US"])
+#output_directory "./screenshots"
+#scheme "JBSM"
+#erase_simulator true
+#reinstall_app true
+#clean true
+#launch_arguments([])
+#clear_previous_screenshots true

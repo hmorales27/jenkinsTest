@@ -1,0 +1,25 @@
+Failed for: V45FNS invalid request body
+Failed for: V45EJC invalid request body
+Failed for: V45YMEM invalid request body
+Failed for: V45OPHTHA invalid request body
+Failed for: V45JHEPAT invalid request body
+Failed for: V45FNS invalid request body
+Failed for: V45FNS Could not upload binary to iTunes Connect. Check out the error above
+Failed for: V45EJC Could not upload binary to iTunes Connect. Check out the error above
+Failed for: V45YMEM Could not upload binary to iTunes Connect. Check out the error above
+Failed for: V45OPHTHA Could not upload binary to iTunes Connect. Check out the error above
+Failed for: V45JHEPAT Could not upload binary to iTunes Connect. Check out the error above
+Failed for: V45YGAST Could not upload binary to iTunes Connect. Check out the error above
+Failed for: V45PRAS Could not upload binary to iTunes Connect. Check out the error above
+Failed for: V45ATS Could not upload binary to iTunes Connect. Check out the error above
+Failed for: V45JURO Could not upload binary to iTunes Connect. Check out the error above
+Failed for: V45YJCGH Could not upload binary to iTunes Connect. Check out the error above
+Failed for: V45YMGE Could not upload binary to iTunes Connect. Check out the error above
+
+#Everything down here is a new failure
+Failed for: V45JSHA undefined method `slice!' for nil:NilClass
+Failed for: V45LANCET Could not upload binary to iTunes Connect. Check out the error above
+Failed for: V45JACC undefined method `slice!' for nil:NilClass
+Failed for: V45ISN Could not find app with app identifier 'com.elsevier.stmj.jat.newsstand.isn' in your iTunes Connect account (jbsmmobileiap@gmail.com - Team: 322311)
+Failed for: V45JPHYS undefined method `slice!' for nil:NilClass
+Failed for: V45EURURO undefined method `slice!' for nil:NilClass

@@ -1,0 +1,5 @@
+•    Content Innovation Enhancement
+•    Video/Audio streaming
+•    iOS 10 support, iPad Pro Support, and split screen mode
+•    Fixes to known issues
+•    Institutional access extended for off-site access

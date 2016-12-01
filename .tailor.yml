@@ -1,0 +1,7 @@
+include:
+    - Classes
+    - JBSM
+exclude:
+    - '**Test.swift'   # Ignore Swift files that end in "Tests"
+    - Carthage   # Ignore Swift files under "Source/Carthage/"
+    - UITests
